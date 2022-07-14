@@ -1,32 +1,27 @@
 # 梅零落
 
 #### 介绍
-梅须逊雪三分白，雪却输梅一段香。梅须逊雪三分白，雪却输梅一段香。
-梅须逊雪三分白，雪却输梅一段香。
-梅须逊雪三分白，雪却输梅一段香。
-梅须逊雪三分白，雪却输梅一段香。
-梅须逊雪三分白，雪却输梅一段香。
-梅须逊雪三分白，雪却输梅一段香。
-
+收集国内公共IPTV频道。互联网协议电视（IPTV）是通过互联网协议（IP）网络传送电视内容的方法。
 
 #### 软件架构
-软件架构说明
+软件架构说明：国内直播源和biubiu接口
 
 
 #### 安装教程
 
-1.  梅须逊雪三分白，雪却输梅一段香。
-
-2.  梅须逊雪三分白，雪却输梅一段香。
-
-3.  梅须逊雪三分白，雪却输梅一段香。
-
+1.  十三：https://gitee.com/wdc558/thirteen/raw/master/shisan.m3u8
+2.  Calendre：https://gitee.com/boshilunyanjing/calendre/raw/master/calendre.m3u8
+3.  biubiu：https://gitee.com/wdc558/thirteen/raw/master/biubiutv.json
+3.  把对应原始地址粘贴→复制即可
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  https://gitee.com/wdc558/ruoshui/raw/master/cctv/.png
+2.  https://gitee.com/wdc558/ruoshui/raw/master/weishi/.png
+3.  https://gitee.com/wdc558/ruoshui/raw/master/difang/.png
+4.  https://gitee.com/wdc558/ruoshui/raw/master/shaoer/.png
+5.  https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT.png
+6.  https://gitee.com/wdc558/ruoshui/raw/master/qita/.png
 
 #### 参与贡献
 
