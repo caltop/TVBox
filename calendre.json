@@ -8,9 +8,9 @@
 
 // 配置地址 --> clan://localhost/TVBox/calendre.json
 
-"spider": "http://gg.gg/jar-calendre",
+//"spider": "http://gg.gg/jar-calendre",
 
-//"spider": "https://gitea.com/calendre/TVBox/raw/commit/6f3688209f27e478750ad48a8bbbd95329191fac/calendre.jar",
+"spider": "https://gitea.com/calendre/TVBox/raw/commit/6f3688209f27e478750ad48a8bbbd95329191fac/calendre.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9wYW4uYmlsbm4uY24vYXBpL3YzL2ZpbGUvc291cmNlanVtcC82ZVdhbU9VZy95LXQ5SEhYeXNLai1Ud2xxa2lDMWZQUDNrWElGam1wZThZZHBqbTdmamxZKg=="]}]}],
 
