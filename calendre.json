@@ -10,7 +10,7 @@
 
 //"spider": "http://gg.gg/jar-calendre",
 
-"spider": "https://pan.css.lc/api/v3/file/get/1699/calendre.jar?sign=YLnoPMu2I6uNZ79HHX8Ahx6bqGWUJ63yMEx3dVxbU0U%3D%3A0",
+"spider": "https://share.nite07.com/api/v3/file/source/5605/calendre.jar?sign=BeQR8qPmzjZF1Q3QYP7Qcr0TJhnsk3IC5omdrMzAgaQ%3D%3A0",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9wYW4uYmlsbm4uY24vYXBpL3YzL2ZpbGUvc291cmNlanVtcC82ZVdhbU9VZy95LXQ5SEhYeXNLai1Ud2xxa2lDMWZQUDNrWElGam1wZThZZHBqbTdmamxZKg=="]}]}],
 
