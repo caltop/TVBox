@@ -46,7 +46,7 @@
 
 {"key":"csp_xpath_乐猪TV","name": "🐷乐猪TV(XP)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/lezhutv.json"},
 {"key":"csp_xpath_huyam","name":"🐯虎牙直播(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/huya.json"},
-{"key":"csp_xpath_libv","name":"🔷LIBVIO(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/LIBIVO.json"},
+{"key":"csp_xpath_libv","name":"🔷LIBVIO(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/libv.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/kuqimv.json"},
 {"key":"csp_xpath_zxzj2","name":"🌺在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/zxzj2.json"},
 {"key":"csp_xpath_saohuo","name":"🔥骚火电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/saohuotv2.json"},
