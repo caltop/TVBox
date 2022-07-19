@@ -347,8 +347,8 @@
 {"name":"秒播⑤","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"秒播⑥","type":1,"url":"http://124.222.68.182/jiexi/4kJX.php/?url=","ext":{	"flag":["youku","优酷","qq","腾讯","mgtv","芒果"]}},
 {"name":"秒播⑦","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
-//{"name":"秒播⑧","type":1,"url":"https://m3u8.look4you.top/?url=","ext":{"flag":["ltnb","renrenmi","rx","rongxing"]}},
-//{"name":"秒播⑨","type":1,"url":"https://jx.blbo.cc:4433/?url=","ext":{"flag":["ltnb","renrenmi","rx","rongxing"]}},
+{"name":"秒播⑧","type":1,"url":"https://m3u8.look4you.top/?url=","ext":{"flag":["ltnb","renrenmi","rx","rongxing"]}},
+{"name":"秒播⑨","type":1,"url":"https://jx.blbo.cc:4433/?url=","ext":{"flag":["ltnb","renrenmi","rx","rongxing"]}},
 {"name":"秒播⑩","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=","ext":{"flag":["ltnb","renrenmi","rx","rongxing"]}}
   ],
   "ijk": [
