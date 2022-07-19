@@ -6,9 +6,9 @@
 
 // 配置地址 --> clan://localhost/TVBox/calendre.json
 
-//"spider": "https://77url.com/jar-gitee",
+"spider": "https://77url.com/jar-gitee",
 
-"spider": "https://gitee.com/wdc558/calendretvbox/raw/master/JAR/qy0712.jar",
+//"spider": "https://gitee.com/wdc558/calendretvbox/raw/master/JAR/qy0712.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS83Mjc4L2xpdmUudHh0P3NpZ249bkhoNFhVQWNBd3p2cjJWWnRUWGs4Vzl3YlJETUxWbllmWkJyY3p3N0gxUSUzRCUzQTA="]}]}],
 
