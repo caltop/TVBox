@@ -47,9 +47,9 @@
 {"key":"csp_xpath_乐猪TV","name": "🐷乐猪TV(XP)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/lezhutv.json"},
 {"key":"csp_xpath_huyam","name":"🐯虎牙直播(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/huya.json"},
 {"key":"csp_xpath_libv","name":"🔷LIBVIO(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/LIBIVO.json"},
-{"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/7867/kuqimv.json?sign=9QbDkzd0F1e8Gm51pQmueLeuKU8AI_RDkcw50QcJFro%3D%3A0"},
-{"key":"csp_xpath_zxzj2","name":"🌺在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://share.nite07.com/api/v3/file/source/7885/zxzj2.json?sign=_q_8KpULZFI4ziahtOaQzWEyA0GvVAiTEo6l57TaYdU%3D%3A0"},
-{"key":"csp_xpath_saohuo","name":"🔥骚火电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://520qy.vaiwan.cn/tvbox/【晴园】/公开分享/【XP】by【晴园】微信公众号/saohuotv.json"},
+{"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/kuqimv.json"},
+{"key":"csp_xpath_zxzj2","name":"🌺在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/zxzj2.json"},
+{"key":"csp_xpath_saohuo","name":"🔥骚火电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/saohuotv2.json"},
 
 {"key":"csp_biubiu_乐猪影视","name":"🐷乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/7832/lezhutv.json?sign=AVzNwctMSgMTAvBrgjgGmfZK-L91UGic2u7E1DNIE0o%3D%3A0"},
 {"key":"csp_biubiu_LIBVIO","name":"🔷LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/7811/LIBVIO.json?sign=RSp44HgJ22lZUNIeFE64hHgu-vHts16ZR2E-5nnzd38%3D%3A0"},
