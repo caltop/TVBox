@@ -6,7 +6,7 @@
 
 // 配置地址 --> clan://localhost/TVBox/calendre.json
 
-"spider": "https://77url.com/jar-gitee",
+//"spider": "https://77url.com/jar-gitee",
 
 "spider": "https://gitee.com/wdc558/calendretvbox/raw/master/JAR/qy0712.jar",
 
