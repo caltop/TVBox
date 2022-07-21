@@ -146,6 +146,19 @@
 {"key":"csp_xpath_duboku","name":"🦋独播库(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/MaooXP/duboku2.json"},
 {"key":"csp_xpath_zj883","name":"🦋追剧网(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/MaooXP/zj883.json"},
 {"key":"csp_xpath_so2","name":"🦋淘剧鸭(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/MaooXP/so2.json"},
+//## M浏览器中APP影视规则支持(AppYsV2)
+//#萝卜/白菜/木白/绿豆
+{"key":"csp_appysv2_熊猫动漫","name":"🥕熊猫动漫(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dongman.k8aa.com/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_万能影院","name":"🥕万能影院(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
+{"key":"csp_appysv2_群鑫影视","name":"🥕群鑫影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.qunxinys.com/api.php/v1.vod"},
+//{"key":"csp_appysv2_极酷影视","name":"🥕极酷影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jiku.vip/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_百淘影视","name":"🥕百淘影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.58g8.com/lvdou_api.php/v1.vod"},
+//#
+//#神马
+
+
+
+
 
 //#优质资源
 {"key":"U酷资源","name":"💯U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
