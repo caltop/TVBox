@@ -189,7 +189,37 @@
 {"key":"csp_appys_流星影院","name":"🌷流星影院(神马)","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.216bk.xyz/api.php/v1.vod"},
 {"key":"csp_appys_U5影视","name":"🌷U5影视(神马)","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://appx.uy07.com/api.php/v1.vod"},
 {"key":"csp_appysv2_蒲公英视频","name":"🌷蒲公英视频(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.pgy1.top/ruifenglb_api.php/v1.vod"},
-
+//#
+//## 广大侠 资源网采集
+//#官方解析
+{"key":"6U资源","name":"💖6U资源(官)","type":1,"api":"http://www.6uzy.cc/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+{"key":"天堂资源","name":"💖天堂资源(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"八戒官采","name":"💖八戒官采(官)","type":1,"api":"https://www.bajiezy.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"土狗360","name":"💖土狗360(官)","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"诺讯资源","name":"💖诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"看猫","name":"💖看猫(官)","type":1,"api":"http://124.222.83.15:88/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"忆梦","name":"💖忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"木子看剧","name":"💖木子看剧(官)","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"小猫咪","name":"💖小猫咪(官)","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"阿远采集","name":"💖阿远采集(官)","type":1,"api":"https://www.cjzy.xyz:8888/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"csp_xml___段友影视","name":"💖段友影视(官)","type":1,"api":"http://shangjihuoke.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___趣看采集","name":"💖趣看采集(官)","type":1,"api":"https://qkmp4.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___天堂资源","name":"💖天堂资源(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___考拉TV","name":"💖考拉TV(官)","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___木子看剧","name":"💖木子看剧(官)","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"csp_xml___外国影源","name":"💖外国影源(官)","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___CK资源","name":"💖CK资源(官)","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___一拳动漫","name":"💖一拳动漫(官)","type":1,"api":"http://47.97.68.224/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___红牛资源","name":"💖红牛资源(官)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___飘花资源","name":"💖飘花资源(官)","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___光速资源","name":"💖光速资源(官)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___天空资源","name":"💖天空资源(官)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___天空资源2","name":"💖天空资源2(官)","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___FOX采集","name":"💖FOX采集(官)","type":1,"api":"https://foxzy.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___FOX资源","name":"💖FOX资源(官)","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___播放呀","name":"💖播放呀(官)","type":1,"api":"https://www.bofangya.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___鱼乐资源","name":"💖鱼乐资源(官)""type":1,"api":"https://www.ylzy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___量子资源","name":"💖量子资源(官)","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 
 
