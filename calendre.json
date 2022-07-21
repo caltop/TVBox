@@ -203,6 +203,11 @@
 {"key":"小猫咪","name":"💖小猫咪(官)","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"阿远采集","name":"💖阿远采集(官)","type":1,"api":"https://www.cjzy.xyz:8888/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
+{"key":"csp_xml___段友影视","name":"💖段友影视(官)","type":1,"api":"http://shangjihuoke.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___趣看采集","name":"💖趣看采集(官)","type":1,"api":"https://qkmp4.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___天堂资源","name":"💖天堂资源(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___考拉TV","name":"💖考拉TV(官)","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___木子看剧","name":"💖木子看剧(官)","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 
 //#
