@@ -262,7 +262,7 @@
 {"name":"秒播②","type": 1,"url": "https://jhjx.kuanjv.com/newky/?url="},
 {"name":"秒播③","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{	"flag":["renrenmi","qq","腾讯","youku","优酷","mgtv","芒果","xigua","西瓜"]}},
 {"name":"秒播④","type":1,"url":"https://za.kuanjv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","搜狐","sohu","letv","乐视","bilibili","哔哩哔哩","哔哩","xigua","西瓜"]}},
-//{"name":"秒播⑤","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+{"name":"秒播⑤","type":1,"url":"https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url=","ext":{"flag":["xfyun"]}},
 {"name":"秒播⑥","type":1,"url":"http://124.222.68.182/jiexi/4kJX.php/?url=","ext":{	"flag":["youku","优酷","qq","腾讯","mgtv","芒果"]}},
 {"name":"秒播⑦","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
 //{"name":"秒播⑧","type":1,"url":"https://m3u8.look4you.top/?url=","ext":{"flag":["ltnb","renrenmi","rx","rongxing"]}},
