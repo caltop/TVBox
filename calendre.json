@@ -16,6 +16,7 @@
 
 "sites": [
 {"key":"csp_77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"293","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"360_spider","name":"🎾360影视(SP)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "csp_Kmys","name": "🐱酷猫影视(SP)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"快看","name":"🎈快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1}, 
