@@ -207,7 +207,6 @@
 {"key":"csp_xml___天堂资源","name":"💖天堂资源(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___考拉TV","name":"💖考拉TV(官)","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___木子看剧","name":"💖木子看剧(官)","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
-
 {"key":"csp_xml___外国影源","name":"💖外国影源(官)","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___CK资源","name":"💖CK资源(官)","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___一拳动漫","name":"💖一拳动漫(官)","type":1,"api":"http://47.97.68.224/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -215,6 +214,10 @@
 {"key":"csp_xml___飘花资源","name":"💖飘花资源(官)","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___光速资源","name":"💖光速资源(官)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
+{"key":"csp_xml___天空资源","name":"💖天空资源(官)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___天空资源2","name":"💖天空资源2(官)","type":1,"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___FOX采集","name":"💖FOX采集(官)","type":1,"api":"https://foxzy.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___FOX资源","name":"💖FOX资源(官)","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 //#
 //#切片资源
 {"key":"金鹰资源","name":"🔪金鹰资源(切)","type":1,"api":"http://jinyingzy.com/provide/vod","searchable":1,"quickSearch":1},
