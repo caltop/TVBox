@@ -106,9 +106,9 @@
 {"key":"csp_biubiu_OmoFun动漫","name":"🥒OmoFun动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/OmoFun动漫.json"},
 {"key":"csp_biubiu_维奇动漫","name":"🥒维奇动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/维奇动漫.json"},
 //##XPath系列
-{"key":"csp_xpath_nmys","name":"🦋农民影视","type": 3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/nmys.json"},
-{"key":"csp_xpath_2gangju","name":"🦋爱港剧","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/igangju.json"},
-{"key":"csp_xpath_wnvod","name": "🦋万能影视","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/wnvod.json"},
+{"key":"csp_xpath_nmys","name":"🦋农民影视(XP)","type": 3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/nmys.json"},
+{"key":"csp_xpath_2gangju","name":"🦋爱港剧(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/igangju.json"},
+{"key":"csp_xpath_wnvod","name": "🦋万能影视(XP)","type": 3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/wnvod.json"},
 {"key":"csp_xpath_age","name":"🦋AGE动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/agefans.json"},
 {"key":"csp_xpath_dm84","name":"🦋动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/dm84.json"},
 {"key":"csp_xpath_yinghua","name":"🦋樱花动漫(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/yinghua2.json"},
