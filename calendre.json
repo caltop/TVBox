@@ -70,7 +70,7 @@
 {"key":"csp_biubiu_黑狐影视ns","name":"🍈黑狐影视(NS)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/黑狐影视(NS).json"}, 
 {"key":"csp_biubiu_韩剧在线","name":"🍉韩剧在线(KA)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/韩剧在线(KA).json"},  
 //biubiu规则XB
-{"key":"csp_Xbiubiu_ysgc","name":"🥒影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/影视工厂.json"},
+{"key":"csp_Xbiubiu_ysgc","name":"🦜影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/影视工厂.json"},
 {"key":"csp_Xbiubiu_555","name":"🥒555影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/555电影.json"},
 {"key":"csp_biubiu_VIP1280","name":"🥒VIP1280(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/VIP1280.json"},
 {"key":"csp_biubiu_火火影视","name":"🥒火火影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/火火影视.json"},
