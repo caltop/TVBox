@@ -54,6 +54,7 @@
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/kuqimv.json"},
 {"key":"csp_xpath_zxzj2","name":"🌺在线之家(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/zxzj2.json"},
 {"key":"csp_xpath_saohuo","name":"🔥骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/saohuotv2.json"},
+{"key":"csp_xpath_dym8","name":"🪶电影迷(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/dianyingM.json"},
 {"key":"csp_xpath_dm84","name":"🦩动漫巴士(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/dm84.json"},
 {"key":"csp_xpath_独播库","name":"🍷独播库(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/douboku.json"},
 //精选XB
@@ -114,8 +115,7 @@
 {"key":"csp_xpath_zaixiandianying8","name":"🦋在线电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/zaixiandianying8.json"},
 {"key":"csp_xpath_135kan","name":"🦋135看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/135kan.json"},
 {"key":"csp_xpath_pianku","name":"🦋片库(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/pianku.json"},
-{"key":"csp_xpath_dym8","name":"🦋电影迷(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/dianyingM.json"},
-{"key":"csp_xpath_xuangz","name":"🦋尘落电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/xuangz.json"},
+{"key":"csp_xpath_xuangz","name":"🦋尘落电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/chenluoDY.json"},
 {"key":"csp_xpath_qdytv","name":"🦋米来影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/qdytv.json"},
 {"key":"csp_xpath_dingzidy","name":"🦋钉子电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/dingzidy.json"},
 {"key":"csp_xpath_paopaoshipin","name":"🦋泡泡视频(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/paopaoshipin.json"},
