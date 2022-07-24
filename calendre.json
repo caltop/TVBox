@@ -60,6 +60,7 @@
 "plugin":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/yatp.jar"},
 //精选XP
 {"key":"csp_xpath_乐猪TV","name": "🐷乐猪TV(XPM)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/lezhutv.json"},
+{"key":"csp_xpath_olevod","name":"🦋欧乐影院(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/olevod.json"},
 {"key":"csp_xpath_huyam","name":"🐯虎牙直播(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/huya.json"},
 {"key":"csp_xpath_libv","name":"🔷LIBVIO(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/libv.json"},
 {"key":"csp_xpath_ddg","name":"🐢达达龟(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/dadagui.json"},
