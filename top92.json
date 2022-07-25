@@ -63,7 +63,8 @@
 {"key": "芒果TV","name":"🏀芒果","type": 0,"api": "http://zy.yilans.net:8090/api.php/provide/vod/from/mgtv/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "优酷视频","name":"🥎优酷","type": 0,"api": "http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "爱奇艺","name":"⚽爱奇艺","type": 0,"api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key":"csp_gc","name":"🏐官采资源","type":1,"api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list","playUrl":"parse:自动解析","categories": ["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道"]},
+{"key":"csp_gc","name":"🏐官采资源","type":1,"api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list","playUrl":"parse:自动解析",
+"categories": ["连续剧","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道"]},
 //精选XP
 {"key":"csp_xpath_乐猪TV","name": "🐷乐猪TV(XPM)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/lezhutv.json"},
