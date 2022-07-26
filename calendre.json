@@ -7,10 +7,10 @@
 //"spider":"https://77url.com/jar-gitee",
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/top92.jar",
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/top9.jar",
-//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/9211.jar",
+"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/9211.jar",
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/nfy.jar",
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/921.jar",
-"spider":"https://github.com/heroaku/TVboxo/raw/main/Jar/9211.jar",
+
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vd2RjNTU4L2NhbGVuZHJldHZib3gvcmF3L21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
 
