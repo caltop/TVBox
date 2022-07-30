@@ -12,11 +12,17 @@
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/921.jar",
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/91.jar",
 
+//官方
 //"wallpaper":"http://www.kf666888.cn/api/tvbox/img ",
-//"wallpaper":"https://www.dmoe.cc/random.php",
-//"wallpaper":"https://api.vvhan.com/api/acgimg",
+//大海星辰
 //"wallpaper":"https://api.dujin.org/pic/fengjing",
-"wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
+//秀丽风景
+//"wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
+//挺好看的动漫
+"wallpaper":"https://api.mtyqx.cn/tapi/random.php",
+//樱花
+//"wallpaper":"https://www.dmoe.cc/random.php",
+
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vd2RjNTU4L2NhbGVuZHJldHZib3gvcmF3L21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
