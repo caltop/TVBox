@@ -15,11 +15,11 @@
 //官方
 //"wallpaper":"http://www.kf666888.cn/api/tvbox/img ",
 //大海星辰
-//"wallpaper":"https://api.dujin.org/pic/fengjing",
+"wallpaper":"https://api.dujin.org/pic/fengjing",
 //秀丽风景
 //"wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 //挺好看的动漫
-"wallpaper":"https://api.mtyqx.cn/tapi/random.php",
+//"wallpaper":"https://api.mtyqx.cn/tapi/random.php",
 //樱花
 //"wallpaper":"https://www.dmoe.cc/random.php",
 
@@ -39,11 +39,11 @@
 "ext":"27b06d5221a24199b15f2e573d847430"},
 {"key":"csp_hbys","name":"🍏简影(SP)","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"},
 {"key":"Ekan_spider","name":"🐞Ekan(SP)","api":"csp_Ekan","type":3,"filterable":1,"quickSearch":1,"searchable":1,
-"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/91b.jar"},
+"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/91b.jar"},
 {"key":"3EDY","name":"🐞3EDY(EXO/外网)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,
-"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/91b.jar"},
+"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/91b.jar"},
 {"key":"KanSJ_spider","name":"🐞看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"",
-"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/91b.jar"},
+"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/91b.jar"},
 {"key":"csp_CZSPP","name":"💎厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"🔷Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"💘Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
@@ -82,7 +82,6 @@
 "spider": "http://52bsj.vip:81/api/v3/file/get/1722/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.json?sign=E_rOfzAuaaUIYwx7Xl4evbcv3Vg1cJdzBsetaxzS2O8%3D%3A0"},
 {"key":"csp_MGTV","name":"🍋芒果(官源)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,
 "spider": "http://52bsj.vip:81/api/v3/file/get/1722/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.json?sign=E_rOfzAuaaUIYwx7Xl4evbcv3Vg1cJdzBsetaxzS2O8%3D%3A0"},
-
 
 //精选XP
 {"key":"csp_xpath_乐猪TV","name": "🐷乐猪TV(XPM)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,
