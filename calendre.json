@@ -29,9 +29,9 @@
 
 "sites": [
 {"key":"csp_77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"293","name":"🍋293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_SP360","name":"🎾360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,
-"spider":"https://share.nite07.com/api/v3/file/source/10442/360.jar?sign=7QWLLz-qDueC-BbUNdGeUU5zhxfZB-kq35xaTpPKuWw%3D%3A0"},
+{"key":"293","name":"🍋293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"",
+"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/0803.jar"},
+{"key":"csp_SP360","name":"🎾360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Kmys","name": "🐱酷猫影视(SP)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"快看","name":"🎈快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_IKan","name":"🍓爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable":1},
