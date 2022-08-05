@@ -85,9 +85,13 @@
 {"key":"土狗360","name":"🐞土狗360(官)","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //{"key": "csp_Buka","name":"🧼真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 //芒优爱腾
-{"key":"csp_QQ","name":"🐧腾讯(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_IQIYI","name":"🥝爱奇艺(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_MGTV","name":"🍋芒果(官源)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_QQ","name":"🐧腾讯(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,
+"plugin":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/TVBox.jar"},
+{"key":"csp_IQIYI","name":"🥝爱奇艺(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,
+"plugin":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/TVBox.jar"},
+{"key":"csp_MGTV","name":"🍋芒果(官源)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,
+"plugin":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/TVBox.jar"},
+//精选XP
 {"key":"csp_xpath_乐猪TV","name": "🐷乐猪TV(XPM)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/lezhutv.json"},
 {"key":"csp_xpath_huyam","name":"🐯虎牙直播(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,
