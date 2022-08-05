@@ -53,7 +53,7 @@
 {"key": "小熊", "name": "🐞小熊TV", "type": 3, "api": "csp_Xxys", "searchable": 1, "quickSearch": 1, "filterable":1},
 {"key":"追剧喵","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1,
 "plugin":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/0803.jar"},
-{"key":"csp_DiDuan","name":"🌀低端影视","api":"csp_DiDuan","type":3,"searchable":0,"quickSearch":1,"filterable":1,
+{"key":"csp_DiDuan","name":"✡低端影视","api":"csp_DiDuan","type":3,"searchable":1,"quickSearch":1,"filterable":0,
 "plugin":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/0803.jar"},
 {"key":"csp_CZSPP","name":"💎厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"🔷Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
