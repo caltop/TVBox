@@ -34,7 +34,7 @@
 {"key":"293","name":"🍋293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"",
 "spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/0803.jar"},
 {"key": "csp_Kmys","name": "🐱酷猫影视(SP)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable":1,
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/0803.jar"},
+"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/0803.jar"},
 
 {"key":"快看","name":"🎈快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_IKan","name":"🍓爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable":1},
