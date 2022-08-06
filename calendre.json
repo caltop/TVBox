@@ -23,8 +23,6 @@
 //樱花
 //"wallpaper":"https://www.dmoe.cc/random.php",
 
-
-
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vd2RjNTU4L2NhbGVuZHJldHZib3gvcmF3L21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
 
 "sites": [
