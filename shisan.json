@@ -56,8 +56,6 @@
 "ext":"https://meijuchong.com/api.php/v1.vod"},
 {"key":"csp_appysv2_M2_暖光影视","name":"🕯️暖光影视(V1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://app.bl210.com/api.php/v1.vod"},
-{"key":"橘猫影视","name":"🐈橘猫影视(V)","type":1,"api":"http://www.zitv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"影图","name":"📼影图(V)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //#精选XP和XB
 {"key":"csp_xpath_乐猪TV","name":"🐷乐猪TV(XPMac)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/lezhutv.json"},
