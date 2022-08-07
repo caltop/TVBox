@@ -39,7 +39,7 @@
 {"key":"小熊","name":"🧸小熊TV(SP)","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appys_美剧星球","name":"🌎美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Nfyun","name": "🐞Nf云(SP)","type": 3,"api": "csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1,
-"plugin":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/calendre.jar"},
+"plugin":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/91c.jar"},
 {"key":"csp_Tkys","name":"🍇天空影视(SP)","type": 3,"api": "csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,
 "plugin":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/9211.jar"},
 {"key":"csp_Bttoo","name":"🍒两个BT(SP)","type": 3,"api": "csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,
