@@ -1,8 +1,8 @@
 {
     
-//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/雨滴极光.jar",
+"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/雨滴极光.jar;md5;CAC73C3129FF2DC79F73EC4D6D0563A6",
 
-"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/十三.zip;md5;2fa165c9aa72ada6ab74a3dedb58ff6b",
+//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/十三.zip;md5;2fa165c9aa72ada6ab74a3dedb58ff6b",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img ",
 
@@ -11,7 +11,7 @@
 "sites":[
 {"key":"csp_77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Lezhu_spider","name": "🐷乐猪影视(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":""},
-{"key":"Ikan","name":"💘爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Ikan","name":"💘爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 {"key":"293视频","name":"🍋293(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🏭厂长超清(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"360_spider","name":"🎾360影视(SP)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
