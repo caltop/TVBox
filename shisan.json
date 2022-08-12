@@ -21,7 +21,7 @@
 	"url": {"raw": "https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"}},
 	"response": {"result": "this","data": [{"key": "rating","value": "doubanRating"}]}}],
 // 热搜关键字
-	"hotSearch": [],
+	//"hotSearch": [],
 // 输入法智能联想接口
 	"association": [],
 // 中文分词接口
