@@ -314,7 +314,7 @@
     {"name":"parwix①","type":0,"url": "https://jx.parwix.com:4433/player/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
     {"name":"parwix②","type":0,"url":"https://jx.parwix.com:4433/player/analysis.php?v=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
     //{"name":"云you秒播①","type":1,"url":"https://jx.hfyrw.com/mao.go?url="},
-    {"name":"云you秒播②","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+    //{"name":"云you秒播②","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
     {"name":"OKjx综合","type":0,"url":"https://okjx.cc/?url="},
     {"name":"ok②","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},
     {"name":"4K","type":0,"url":"https://jx.4kdv.com/?url="},
