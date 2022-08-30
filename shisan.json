@@ -31,10 +31,18 @@
 // 字幕格式 (可选)
 	"subtitle": {"color": "#FFFFFF", "size": "30"},
 // 驱动器 (可选)
-	"drives": [
-  {"name":"aList","server":"http://alist.lan:8000/dav/","userName":"****","password":"****","type":"webdav"}, 
-  {"name":"DSM","server":"http://dsm.lan:5000","userName":"****","password":"****","type":"webdav"},
-  {"name":"ali-WebDAV-App","server":"http://127.0.0.1:8080/","userName":"admin","password":"admin","type":"webdav"}],
+	"drives":[
+{"name":"Puppet studio","plugin":"alist","server":"https://www.kugutsu.ml","userName":"","password":"","type":"plugin"},
+{"name":"99T","plugin":"alist","server":"https://drive.9t.ee","userName":"","password":"","type":"plugin"},
+{"name":"一只魚","plugin":"alist","server":"https://alist.youte.ml/","userName":"","password":"","type":"plugin"},
+{"name":"姬路白雪","plugin":"alist","server":"https://pan.jlbx.xyz/","userName":"","password":"","type":"plugin"},
+{"name":"嗨翻","plugin":"alist","server":"https://pan.hikerfans.com/","userName":"","password":"","type":"plugin"},
+{"name":"142856","plugin":"alist","server":"https://pan.142856.xyz","userName":"","password":"","type":"plugin"},
+{"name":"非盘","plugin":"alist","server":"http://www.feifwp.top/","userName":"","password":"","type":"plugin"},
+{"name":"听闻","plugin":"alist","server":"https://wangpan.sangxuesheng.com/","userName":"","password":"","type":"plugin"},
+{"name":"晴园","server":"https://alist.52qy.repl.co/dav/","userName":"qingyuan","password":"qingyuan","type":"webdav"},
+{"name":"晴園","plugin":"alist","server":"https://alist.52qy.repl.co/","userName":"","password":"","type":"plugin"}
+],
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vd2RjNTU4L2NhbGVuZHJldHZib3gvcmF3L21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
   
@@ -144,9 +152,9 @@
 {"key":"AliPS","name":"🔍阿狸盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"3a49cf29cf20410997247c6eb4509be9"},
 {"key":"zhaozy","name":"🗂️找资源(仅搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"3a49cf29cf20410997247c6eb4509be9"},
+"ext":"d470330e11ef4b7baf28ece31b27b113"},
 {"key":"push_agent","name":"🎯推送(爱优腾/阿里云盘/磁力)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,
-"ext":"3a49cf29cf20410997247c6eb4509be9"},
+"ext":"d470330e11ef4b7baf28ece31b27b113"},
 //## M浏览器中APP影视规则支持(AppYsV2)
 //#萝卜/白菜/木白/绿豆
 {"key":"csp_appysv2_熊猫动漫","name":"🥕熊猫动漫(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
