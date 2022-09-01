@@ -48,7 +48,7 @@
   
 "sites":[
 {"key":"csp_77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,
-"plugin":"http://maoyingshi.cc/tvbox/云星日记/jar/77.jpg;md5;1b0fae7c99b09c6f66d6c39b114580a9"},
+"plugin":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/77.zip"},
 {"key": "Lezhu_spider","name": "🐷乐猪影视(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"",
 "plugin":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/十三.zip;md5;2fa165c9aa72ada6ab74a3dedb58ff6b"},
 {"key":"293视频","name":"🍋293(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,
