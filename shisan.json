@@ -86,7 +86,10 @@
 //{"key": "Nfyun","name": "🪶Nf云(SP)","type": 3,"api": "csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
 {"key":"csp_Bttoo","name":"🍒两个BT(SP)","type": 3,"api": "csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
 
-
+{"key": "Bili","name": "🅱️哔哩套餐","type": 3,"api": "csp_Bili","searchale": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Bili/哔哩.json"},
+{"key": "知识","name": " 💡知识","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Bili/知识.json"},
+{"key": "软件","name": "📚软件教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Bili/软件教程.json"},
+{"key": "测评","name": "🅱测评","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Bili/测评.json"},
 
 //{"key":"csp_appys_美剧虫","name":"🐞美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
 {"key":"csp_appysv2_M2_暖光影视","name":"🕯️暖光影视(V1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
