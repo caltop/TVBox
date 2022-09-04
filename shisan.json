@@ -109,6 +109,8 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/乐猪影视.json"},
 {"key":"csp_biubiu_斗鱼","name":"🐬斗鱼直播(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://share.nite07.com/api/v3/file/source/7721/douyuzhibo.json?sign=bzXvWmCmtg9Btl9ScOlKRc5XSwYFSpHIhq3y1r4MFQ4%3D%3A0"},
+{"key":"csp_XYQBiu_虎牙直播","name":" 🌌虎牙直播(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XYQBiu/虎牙代理直链.json"},
 {"key":"csp_xpath_huyam","name":"🐯虎牙直播(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/huya.json"},
 {"key":"csp_xpath_pianku","name":"📀片库(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,
