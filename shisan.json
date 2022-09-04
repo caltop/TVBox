@@ -99,7 +99,6 @@
 {"key": "体育","name":"💋体育合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Bili/体育.json"},
 {"key": "球类","name":"⚽️球类合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Bili/球类.json"},
 {"key": "游戏电竞","name":"🎮游戏电竞","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Bili/电竞.json"},
-{"key": "棋牌","name":"🅱️棋牌","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Bili/棋牌.json"},
 
 {"key": "MV","name":"🌈歌曲MV","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.com/heroaku/TVboxo/raw/main/Bili/歌曲MV.json"},
 //{"key":"csp_appys_美剧虫","name":"🐞美剧虫(V1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
