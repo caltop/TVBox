@@ -47,8 +47,8 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vd2RjNTU4L2NhbGVuZHJldHZib3gvcmF3L21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
 
 "sites":[
-{"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,
-"plugin":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/77.jar"},
+{"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
+{"key":"dr_酷云77r","name":" 🍂玄天","type":1,"api":"https://drpy.heroaku.repl.co/vod?rule=追剧喵","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Lezhu_spider","name":"🐷乐猪影视(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","plugin":""},
 {"key":"csp_Dy555","name":"🐞五五五(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"剧荒TV（SP）","name":"🐞剧荒影视(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
