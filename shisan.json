@@ -51,7 +51,6 @@
 {"key":"Lezhu_spider","name":"🐷乐猪影视(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","plugin":""},
 {"key":"csp_Dy555","name":"🐞五五五(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"剧荒TV（SP）","name":"🐞剧荒影视(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"图图（SP）","name":"🐞图图（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"293视频","name":"🍋293(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
 {"key":"csp_Kmys","name":"😹酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
 {"key":"Ikan","name":"💘爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
