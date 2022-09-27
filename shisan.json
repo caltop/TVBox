@@ -133,8 +133,7 @@
 //{"key":"py_xmaomi","name":"🥉猫咪(PY)","type":3,"api":"py_xmaomi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Py/py_xmaomi.py"},
 {"key":"py_zhaozy","name":"🥉找资源(PY)","type":3,"api":"py_zhaozy","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Py/py_zhaozy.py"},
-{"key":"py_pansou","name":"🥉盘搜(PY)","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Py/py_pansou.py"},
+//{"key":"py_pansou","name":"🥉盘搜(PY)","type":3,"api":"py_pansou","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Py/py_pansou.py"},
 {"key":"push_agent","name":"🥉阿里(PY)","type":3,"api":"py_ali","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Py/py_ali.py"},
 
 {"key":"csp_QQ","name":"🐧腾讯(SP)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
