@@ -52,6 +52,7 @@
 {"key":"在线直播（SP）","name":"🥇在线直播(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"🍒两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
 {"key":"csp_Dy555","name":"5️⃣五五五(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "douban-JS","name": "豆瓣[JS]","type": 3,"api": "https://gitee.com/wdc558/calendretvbox/raw/master/JS/douban.js"},
 {"key":"剧荒TV（SP）","name":"🐞剧荒影视(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"293视频","name":"🍋293(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
 //{"key":"csp_Kmys","name":"😹酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
