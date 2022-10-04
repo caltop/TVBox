@@ -118,6 +118,12 @@
 {"key":"dr_l0l","name":"🥈l0l(道长)","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=l0l","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"dr_库马伊","name":"🥈库马伊(道长)","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=库马伊","searchable":1,"quickSearch":1,"filterable":0},
 //PY爬蟲
+{"key":"py_lezhu","name":"🐷乐猪影视 py","type":3,"api":"py_lezhu","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Py/py_lezhu.py"},
+{"key":"py_star","name":"✨星光影视 py","type":3,"api":"py_star","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Py/py_star.py"},
+{"key":"py_cup","name":"🦊茶杯狐 py","type":3,"api":"py_cup","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Py/py_cup.py"},
 {"key":"py_douyu","name":"🥉斗鱼(PY)","type":3,"api":"py_douyu","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Py/py_douyu.py"},
 {"key":"py_bilimd","name":"🥉哔哩影视(PY)","type":3,"api":"py_bilimd","searchable":0,"quickSearch":0,"filterable":1,
