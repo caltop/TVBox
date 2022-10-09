@@ -111,6 +111,8 @@
 {"key":"蓝光影院(DR)","name":"🌂蓝光影院(JS)","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/蓝光影院.js"},
 //XBPQ
+{"key":"csp_xBPQ_在线影视","name":" 🍂在线影视 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/zaixiandianying8.json"},
 {"key":"csp_xBPQ_hoho","name":"🥇HoHo影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/hoho.json"},
 {"key":"csp_xBPQ_追剧猫","name":"🥇追剧猫(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
