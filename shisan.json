@@ -113,6 +113,12 @@
 //XBPQ
 {"key":"csp_xBPQ_在线影视","name":"🥇在线影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/zaixiandianying8.json"},
+{"key":"csp_xBPQ_锐行影院","name":"🥇锐行影院xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/ruixingjs.json"},
+{"key":"csp_xBPQ_电影先生","name":"🥇电影先生xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/电影先生.json"},
+{"key":"csp_xBPQ_七小时影院","name":"🥇七小时影院xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/七小时影院.json"},
 {"key":"csp_xBPQ_hoho","name":"🥇HoHo影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/hoho.json"},
 {"key":"csp_xBPQ_追剧猫","name":"🥇追剧猫(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
@@ -138,7 +144,7 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/饭团.json"},
 {"key":"csp_XBPQ六度TV","name":"🥇六度TV(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/六度TV.json"},
-//js J版
+//jsJ版
 {"key":"drpy_js_360影视","name":"🎑360影视[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/drpy/drpy.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/360影视.js"},
 {"key":"drpy_js_555影视","name":"🎑555影视[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/drpy/drpy.js",
