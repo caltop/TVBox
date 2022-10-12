@@ -414,6 +414,8 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/lezhutv.json"},
 {"key":"csp_biubiu_乐猪影视","name":"🐷乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/乐猪影视.json"},
+{"key":"csp_biubiu_片库影院","name":"💦片库影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,
+"ext": "https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/pk.json"},
 //{"key":"csp_xpath_Hoho","name":"🌾Hoho(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/Hoho.json"},
 {"key":"csp_biubiu_斗鱼","name":"🐬斗鱼直播(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://share.nite07.com/api/v3/file/source/7721/douyuzhibo.json?sign=bzXvWmCmtg9Btl9ScOlKRc5XSwYFSpHIhq3y1r4MFQ4%3D%3A0"},
