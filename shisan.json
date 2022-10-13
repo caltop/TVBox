@@ -194,6 +194,8 @@
 "jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/XBiu.jar"},
 {"key":"csp_xb_aikan","name":"💠爱看影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ikan6.vip/vodshow/{cateId}--------{catePg}---",
 "jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/XBiu.jar"},
+{"key": "csp_xb_23影视","name": " 💠23影视(R)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.23wm.net/vodshow/id/{cateId}/page/{catePg}.html",
+"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/XBiu.jar"},
 //{"key":"csp_xb_luozhu","name":"💠乐猪影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.lezhutv.com/list/{cateId}_{catePg}__time_____.html",
 //"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/XBiu.jar"},
 //{"key":"csp_xb_qsp","name":"💠氢视频(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
