@@ -129,6 +129,10 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/番茄影视.js"},
 {"key":"蓝光影院(DR)","name":"🌂蓝光影院(JS)","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/蓝光影院.js"},
+
+{"key": "drpy_js_海兔影院","name": " 🎑海兔影院[DRPY]","type": 3,"api": "https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.ym.js",
+"ext": "https://gitee.com/wdc558/calendretvbox/raw/master/JS/海兔影院.js"},
+
 //XBPQ
 {"key":"csp_xBPQ_在线影视","name":"🥇在线影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/zaixiandianying8.json"},
