@@ -64,7 +64,8 @@ const TAB_EXCLUDE = '猜你|喜欢|APP|下载|剧情|热播';
 const OCR_RETRY = 3;//ocr验证重试次数
 // const OCR_API = 'http://dm.mudery.com:10000';//ocr在线识别接口
 // const OCR_API = 'http://192.168.3.239:5705/parse/ocr';//ocr在线识别接口
-const OCR_API = 'http://cms.nokia.press/parse/ocr';//ocr在线识别接口
+// const OCR_API = 'http://cms.nokia.press/parse/ocr';//ocr在线识别接口
+const OCR_API = 'http://cms.nokia.press:5706/parse/ocr';//ocr在线识别接口
 if(typeof(MY_URL)==='undefined'){
     var MY_URL; // 全局注入变量,pd函数需要
 }
@@ -75,6 +76,7 @@ var log;
 var rule_fetch_params;
 var fetch_params; // 每个位置单独的
 var oheaders;
+// var play_url; // 二级详情页注入变量,为了适配js模式0 (不在这里定义了,直接二级里定义了个空字符串)
 var _pdfh;
 var _pdfa;
 var _pd;
@@ -627,24 +629,33 @@ const parseTags = {
         },
         pdfa(html, parse) {
             if (!parse || !parse.trim()) {
+                print('!parse');
                 return [];
             }
             let eleFind = typeof html === 'object';
+            // print('parse前:'+parse);
             if (parse.indexOf('&&') > -1) {
                 let sp = parse.split('&&');
                 for (let i in sp) {
                     if (!SELECT_REGEX_A.test(sp[i]) && i < sp.length - 1) {
-                        sp[i] = sp[i] + ':eq(0)';
+                        if(sp[i]!=='body'){
+                            // sp[i] = sp[i] + ':eq(0)';
+                            sp[i] = sp[i] + ':first';
+                        }
                     }
                 }
                 parse = sp.join(' ');
             }
+            // print('parse后:'+parse);
             const $ = eleFind ? html.rr : cheerio.load(html);
             let ret = eleFind ? ($(html.ele).is(parse) ? html.ele : $(html.ele).find(parse)) : $(parse);
             let result = [];
+            // print('outerHTML:');
+            // print($(ret[0]).prop("outerHTML"));
             if (ret) {
                 ret.each(function (idx, ele) {
                     result.push({ rr: $, ele: ele });
+                    // result.push({ rr: $, ele: $(ele).prop("outerHTML")}); // 性能贼差
                 });
             }
             return result;
@@ -696,7 +707,10 @@ function readFile(filePath){
 function dealJson(html) {
     try {
         // html = html.match(/[\w|\W|\s|\S]*?(\{[\w|\W|\s|\S]*\})/).group[1];
-        html = '{'+html.match(/.*?\{(.*)\}/)[1]+'}';
+        html = html.trim();
+        if(!((html.startsWith('{') && html.endsWith('}'))||(html.startsWith('[') && html.endsWith(']')))){
+            html = '{'+html.match(/.*?\{(.*)\}/m)[1]+'}';
+        }
     } catch (e) {
     }
     try {
@@ -739,7 +753,10 @@ function verifyCode(url){
             let hhtml = request(yzm_url,{withHeaders:true,toBase64:true},true);
             let json = JSON.parse(hhtml);
             if(!cookie){
-                cookie = json['set-cookie']?json['set-cookie'].split(';')[0]:'';
+                // print(json);
+                let setCk = Object.keys(json).find(it=>it.toLowerCase()==='set-cookie');
+                // cookie = json['set-cookie']?json['set-cookie'].split(';')[0]:'';
+                cookie = setCk?json[setCk].split(';')[0]:'';
             }
             // console.log(hhtml);
             console.log('cookie:'+cookie);
@@ -885,13 +902,16 @@ function request(url,obj,ocr_flag){
             obj.headers["Content-Type"] = 'text/html; charset='+rule.encoding;
         }
     }
-    if(typeof(obj.headers.body)!='undefined'&&obj.headers.body&&typeof (obj.headers.body)==='string'){
+    if(typeof(obj.body)!='undefined'&&obj.body&&typeof (obj.body)==='string'){
         let data = {};
-        obj.headers.body.split('&').forEach(it=>{
+        obj.body.split('&').forEach(it=>{
             data[it.split('=')[0]] = it.split('=')[1]
         });
         obj.data = data;
-        delete obj.headers.body
+        delete obj.body
+    }else if(typeof(obj.body)!='undefined'&&obj.body&&typeof (obj.body)==='object'){
+        obj.data = obj.body;
+        delete obj.body
     }
     if(!url){
         return obj.withHeaders?'{}':''
@@ -913,6 +933,17 @@ function request(url,obj,ocr_flag){
     }else{
         return html
     }
+}
+
+/**
+ *  快捷post请求
+ * @param url 地址
+ * @param obj 对象
+ * @returns {string|DocumentFragment|*}
+ */
+function post(url,obj){
+    obj.method = 'POST';
+    return request(url,obj);
 }
 
 fetch = request;
@@ -1078,7 +1109,9 @@ function homeVodParse(homeVodObj){
     MY_URL = homeVodObj.homeUrl;
     // setItem('MY_URL',MY_URL);
     console.log(MY_URL);
+    let t1 = (new Date()).getTime();
     let p = homeVodObj.推荐;
+    print('p:'+p);
     if(p==='*' && rule.一级){
         p = rule.一级;
         homeVodObj.double = false;
@@ -1220,6 +1253,8 @@ function homeVodParse(homeVodObj){
 
         }
     }
+    let t2 = (new Date()).getTime();
+    console.log('加载首页推荐耗时:'+(t2-t1)+'毫秒');
     // console.log(JSON.stringify(d));
     return JSON.stringify({
         list:d
@@ -1251,6 +1286,21 @@ function categoryParse(cateObj) {
         }
         // console.log('filter:'+cateObj.filter);
         let fl = cateObj.filter?cateObj.extend:{};
+        // 自动合并 不同分类对应的默认筛选
+        if(rule.filter_def && typeof(rule.filter_def)==='object'){
+            try {
+                if(Object.keys(rule.filter_def).length>0 && rule.filter_def.hasOwnProperty(cateObj.tid)){
+                    let self_fl_def = rule.filter_def[cateObj.tid];
+                    if(self_fl_def && typeof(self_fl_def)==='object'){
+                        // 引用传递转值传递,避免污染self变量
+                        let fl_def = JSON.parse(JSON.stringify(self_fl_def));
+                        fl = Object.assign(fl_def,fl);
+                    }
+                }
+            }catch (e) {
+                print('合并不同分类对应的默认筛选出错:'+e.message);
+            }
+        }
         let new_url;
         new_url = cheerio.jinja2(url,{fl:fl});
         // console.log('jinjia2执行后的new_url类型为:'+typeof(new_url));
@@ -1356,6 +1406,7 @@ function searchParse(searchObj) {
     let url = searchObj.searchUrl.replaceAll('**', searchObj.wd).replaceAll('fypage', searchObj.pg);
     MY_URL = url;
     console.log(MY_URL);
+    // log(searchObj.搜索);
     // setItem('MY_URL',MY_URL);
     if(p.startsWith('js:')){
         const TYPE = 'search';
@@ -1377,6 +1428,7 @@ function searchParse(searchObj) {
         _pd = _ps.pd;
         let is_json = p0.startsWith('json:');
         p0 = p0.replace(/^(jsp:|json:|jq:)/,'');
+        print('1381 p0:'+p0);
         try {
             let html = getHtml(MY_URL);
             if (html) {
@@ -1396,9 +1448,14 @@ function searchParse(searchObj) {
                     console.log(html);
                 }
                 if(is_json){
+                    // console.log(html);
                     html = dealJson(html);
                 }
+                console.log(JSON.stringify(html));
+                console.log(html);
                 let list = _pdfa(html, p0);
+                print(list.length);
+                print(list);
                 list.forEach(it => {
                     let p1 = getPP(p, 1, pp, 1);
                     let p2 = getPP(p, 2, pp, 2);
@@ -1411,7 +1468,7 @@ function searchParse(searchObj) {
                     let content;
                     if(p.length > 5 && p[5]){
                         let p5 = getPP(p,5,pp,5);
-                        content = _pdfh(item, p5);
+                        content = _pdfh(it, p5);
                     }else{
                         content = '';
                     }
@@ -1427,6 +1484,7 @@ function searchParse(searchObj) {
 
             }
         } catch (e) {
+            print('搜索发生错误:'+e.message);
             return '{}'
         }
     }
@@ -1476,6 +1534,7 @@ function detailParse(detailObj){
     }else if(typeof(p)==='string'&&p.trim().startsWith('js:')){
         const TYPE = 'detail';
         var input = MY_URL;
+        var play_url = '';
         eval(p.trim().replace('js:',''));
         vod = VOD;
         console.log(JSON.stringify(vod));
@@ -1561,12 +1620,13 @@ function detailParse(detailObj){
                 playFrom = TABS;
             }else{
                 let p_tab = p.tabs.split(';')[0];
-                console.log(p_tab);
+                // console.log(p_tab);
                 let vHeader = _pdfa(html, p_tab);
-
                 console.log(vHeader.length);
+                let tab_text = p.tab_text||'body&&Text';
+                // print('tab_text:'+tab_text);
                 for(let v of vHeader){
-                    let v_title = _pdfh(v,'body&&Text').trim();
+                    let v_title = _pdfh(v,tab_text).trim();
                     console.log(v_title);
                     if(tab_exclude&& (new RegExp(tab_exclude)).test(v_title)){
                         continue;
@@ -1593,9 +1653,15 @@ function detailParse(detailObj){
                 eval(p.lists.replace('js:',''));
                 vod_play_url = LISTS.map(it=>it.join('#')).join(vod_play_url);
             }else{
+                let list_text = p.list_text||'body&&Text';
+                let list_url = p.list_url||'a&&href';
+                // print('list_text:'+list_text);
+                // print('list_url:'+list_url);
+                // print('list_parse:'+p.lists);
+                let is_tab_js = p.tabs.trim().startsWith('js:');
                 for(let i=0;i<playFrom.length;i++){
                     let tab_name = playFrom[i];
-                    let tab_ext =  p.tabs.split(';').length > 1 ? p.tabs.split(';')[1] : '';
+                    let tab_ext =  p.tabs.split(';').length > 1 && !is_tab_js ? p.tabs.split(';')[1] : '';
                     let p1 = p.lists.replaceAll('#idv', tab_name).replaceAll('#id', i);
                     tab_ext = tab_ext.replaceAll('#idv', tab_name).replaceAll('#id', i);
                     console.log(p1);
@@ -1608,6 +1674,7 @@ function detailParse(detailObj){
                         // console.log(e.message);
                     }
                     let new_vod_list = [];
+                    // print('tab_ext:'+tab_ext);
                     let tabName = tab_ext?_pdfh(html, tab_ext):tab_name;
                     console.log(tabName);
                     // console.log('cheerio解析Text');
@@ -1615,7 +1682,8 @@ function detailParse(detailObj){
                         // 请注意,这里要固定pdfh解析body&&Text,不需要下划线,没写错
                         // new_vod_list.push(pdfh(it,'body&&Text')+'$'+_pd(it,'a&&href',MY_URL));
                         // new_vod_list.push(cheerio.load(it).text()+'$'+_pd(it,'a&&href',MY_URL));
-                        new_vod_list.push(_pdfh(it, 'body&&Text').trim() + '$' + _pd(it, 'a&&href', MY_URL));
+                        // new_vod_list.push(_pdfh(it, list_text).trim() + '$' + _pd(it, list_url, MY_URL));
+                        new_vod_list.push(_pdfh(it, list_text).trim() + '$' + _pd(it, list_url, MY_URL));
                     });
                     let vlist = new_vod_list.join('#');
                     vod_tab_list.push(vlist);
@@ -1624,6 +1692,9 @@ function detailParse(detailObj){
             }
         }
         vod.vod_play_url = vod_play_url;
+    }
+    if(!vod.vod_id){
+        vod.vod_id = detailObj.orId;
     }
     // print(vod);
     return JSON.stringify({
@@ -1705,9 +1776,6 @@ function playParse(playObj){
         let muban = eval(globalThis.mubanJs);
         if (typeof ext == 'object'){
             rule = ext;
-            if (rule.template) {
-                rule = Object.assign(muban[rule.template], rule);
-            }
         } else if (typeof ext == 'string') {
             if (ext.startsWith('http')) {
                 let js = request(ext,{'method':'GET'});
@@ -1715,9 +1783,13 @@ function playParse(playObj){
                     eval(js.replace('var rule', 'rule'));
                 }
                 }
-            } else {
-                eval(ext.replace('var rule', 'rule'));
-            }
+        } else {
+            eval(ext.replace('var rule', 'rule'));
+        }
+        if (rule.模板 && muban.hasOwnProperty(rule.模板)) {
+            print('继承模板:'+rule.模板);
+            rule = Object.assign(muban[rule.模板], rule);
+        }
         /** 处理一下 rule规则关键字段没传递的情况 **/
         let rule_cate_excludes = (rule.cate_exclude||'').split('|').filter(it=>it.trim());
         let rule_tab_excludes = (rule.tab_exclude||'').split('|').filter(it=>it.trim());
@@ -1797,6 +1869,7 @@ function home(filter) {
  * @returns {string}
  */
 function homeVod(params) {
+    console.log("homeVod");
     let homeVodObj = {
         推荐:rule.推荐,
         double:rule.double,
