@@ -81,7 +81,7 @@
 {"key":"csp_bendi","name":"📂本地管理","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0},
 //BILI合集
 {"key":"csp_哔哩全集","name":"🅱️哔哩全集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,
-"ext":"http://9xi4o.tk/sub/Bili/哔哩全集.json"},
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Bilibili/哔哩全集.json"},
 {"key":"csp_戏曲合集","name":"🅱️戏曲合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"http://9xi4o.tk/sub/Bili/戏曲合集.json"},
 {"key":"csp_音乐现场","name":"🅱️音乐现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
