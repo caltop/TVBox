@@ -45,6 +45,8 @@
 "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9kaXktd3V3dS5tM3U4"
 ]}]}],
 "sites":[
+{"key":"douban","name":"🔍豆瓣荐片(T4)","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"T4_douban","name":"🔍影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
 {"key": "csp_xpNmys","name": "🌾农民影视(SP)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": "https://share.nite07.com/api/v3/file/source/27935/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json?sign=AYFw_ECDjja8nKk33kSGaAzNjVzZs1qHdQs0H8xnXXs%3D%3A0"},
@@ -71,11 +73,7 @@
 {"key":"csp_Auete","name":"🚒AueteHD(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appys_美剧星球","name":"🌎美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy555","name":"5️⃣五五五(NS)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"T4聚合","name":"🌏T4聚合荐片","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=http://9xi4o.tk/sub/token.txt&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_bendi","name":"📂本地文件(SP)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0},
-//{"key":"csp_GitCafe","name":"🔖小纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0},
-//{"key":"csp_Yiso","name":"🎯易搜(SP)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0},
-//{"key":"csp_Upyunso","name":"🔍UP云搜(SP)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0},
 //#精选XP和XB
 {"key":"csp_xpath_乐猪TV","name":"🐷乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/lezhutv.json"},
