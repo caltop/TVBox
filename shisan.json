@@ -54,7 +54,7 @@
 "jar":"http://maoyingshi.cc/tvbox/云星日记/jar/1030.jpg"},
 {"key":"csp_NianYing","name":"🍓NBhut(SP)","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu_spider","name":"🐷乐猪影视(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","plugin":""},
-{"key":"csp_biubiu_voflix","name":"🍐Voflix(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
+{"key":"csp_biubiu_voflix","name":"🍐Voflix HD(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/voflix.json"},
 {"key":"在线直播（SP）","name":"🍅在线直播(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"🍒两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
