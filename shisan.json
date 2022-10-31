@@ -45,7 +45,7 @@
 "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9kaXktd3V3dS5tM3U4"
 ]}]}],
 "sites":[
-{"key":"douban","name":"🔍豆瓣荐片(T4)","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":0},
+//{"key":"douban","name":"🔍豆瓣荐片(T4)","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4_douban","name":"🔍影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
 {"key": "csp_xpNmys","name": "🌾农民影视(SP)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -53,10 +53,11 @@
 {"key":"csp_AppTT","name":"🍍图图影视(SP)","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_NianYing","name":"🍓NBhut(SP)","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1,
 "jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1008.jar"},
-{"key":"csp_Lgyy","name":"🌀蓝光┃SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Lgyy","name":"🌀蓝光影视(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fant","name":"🍙饭团HD(SP)","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Ysgc","name":"🥝影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"🔟双十HD(SP)","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Zjdr","name":"👓追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu_spider","name":"🐷乐猪影视(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","plugin":""},
 {"key":"csp_biubiu_voflix","name":"🍐VoflixHD(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/voflix.json"},
