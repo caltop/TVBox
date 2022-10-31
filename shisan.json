@@ -53,7 +53,7 @@
 "ext": "https://share.nite07.com/api/v3/file/source/27935/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json?sign=AYFw_ECDjja8nKk33kSGaAzNjVzZs1qHdQs0H8xnXXs%3D%3A0"},
 {"key":"csp_AppTT","name":"👶图图影视(SP)","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "jar":"http://maoyingshi.cc/tvbox/云星日记/jar/1030.jpg"},
-{"key":"csp_NianYing","name":"NBhut","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_NianYing","name":"👍NBhut(SP)","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu_spider","name":"🐷乐猪影视(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","plugin":""},
 {"key":"py_voflix","name":"🥇Voflix(PY)","type":3,"api":"py_voflix","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Py/py_voflix.py"},
