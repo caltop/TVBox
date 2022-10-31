@@ -1,9 +1,8 @@
 {
-
+//无公众号，无公众号，无公众号,不引流，我是纯小白~啥也不懂，所有东西都是扒拉大佬的，只是为小白提供一个方便，希望大哥们可以高抬贵嘴~
+//感谢各位隐姓埋名的大佬分享~
 "spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1008.jar",
-
 "wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
-
 //每日一言(随机显示欢迎语)
 "dairyWords":[{"name":"rating","request":{"method":"GET","url":{"raw":"https://saying.api.azwcl.com/saying/get"}},
 "response":{"result":"$.data.content"},"expires":"43200"}],
@@ -55,12 +54,8 @@
 "jar":"http://maoyingshi.cc/tvbox/云星日记/jar/1030.jpg"},
 {"key":"csp_NianYing","name":"👍NBhut(SP)","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu_spider","name":"🐷乐猪影视(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","plugin":""},
-{"key":"py_voflix","name":"🥇Voflix(PY)","type":3,"api":"py_voflix","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Py/py_voflix.py"},
-{"key":"py_cctv_full","name":"🥇央视大全(PY)","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,
-"ext":"https://share.nite07.com/api/v3/file/source/23505/py_cctv_full.py?sign=g2H54jU-IVeYDhpk3jrihdLjvW8M1MKQ9T5Pv6n-3T4%3D%3A0"},
-{"key":"py_bilimd","name":"🥇哔哩影视(PY)","type":3,"api":"py_bilimd","searchable":0,"quickSearch":0,"filterable":1,
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Py/py_bilimd.py"},
+{"key":"csp_biubiu_voflix","name":"🍐Voflix(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/voflix.json"},
 {"key":"在线直播（SP）","name":"💖在线直播(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"🍒两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -104,6 +99,12 @@
 {"key":"csp_游戏娱乐","name":"🅱️游戏娱乐(BILI)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://share.nite07.com/api/v3/file/source/27934/%E6%B8%B8%E6%88%8F%E5%A8%B1%E4%B9%90.json?sign=qh92QhqaaBDT8M-i5SIbSF-qvpBBzEHY6ghs208TTyA%3D%3A0"},
 //PY爬蟲
+{"key":"py_voflix","name":"🥇Voflix(PY)","type":3,"api":"py_voflix","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Py/py_voflix.py"},
+{"key":"py_cctv_full","name":"🥇央视大全(PY)","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,
+"ext":"https://share.nite07.com/api/v3/file/source/23505/py_cctv_full.py?sign=g2H54jU-IVeYDhpk3jrihdLjvW8M1MKQ9T5Pv6n-3T4%3D%3A0"},
+{"key":"py_bilimd","name":"🥇哔哩影视(PY)","type":3,"api":"py_bilimd","searchable":0,"quickSearch":0,"filterable":1,
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Py/py_bilimd.py"},
 {"key":"py_lezhu","name":"🥇乐猪影视(PY)","type":3,"api":"py_lezhu","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Py/py_lezhu.py"},
 {"key":"py_star","name":"🥇星光影视(PY)","type":3,"api":"py_star","searchable":1,"quickSearch":1,"filterable":1,
