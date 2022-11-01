@@ -45,6 +45,8 @@
 "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9kaXktd3V3dS5tM3U4"
 ]}]}],
 "sites":[
+    {"key": "drpy_js_7喜影院","name": " 🎑7喜影院[DRPY]","type": 3,"api": "https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js",
+    "ext": "https://github.com/heroaku/TVboxo/raw/main/Js/7喜影院.js"},
 //{"key":"douban","name":"🔍豆瓣荐片(T4)","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4_douban","name":"🔍影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
