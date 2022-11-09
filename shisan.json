@@ -50,7 +50,7 @@
 "ext":"https://share.nite07.com/api/v3/file/source/27935/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json?sign=AYFw_ECDjja8nKk33kSGaAzNjVzZs1qHdQs0H8xnXXs%3D%3A0"},
 {"key":"csp_AppTT","name":"🍍图图影视(SP)","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_NianYing","name":"🍓NBhut(SP)","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1,
-"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1008.jar"},
+"jar":""},
 {"key":"csp_Lgyy","name":"🌀蓝光影视(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fant","name":"🍙饭团影视(SP)","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Ysgc","name":"🥝影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
