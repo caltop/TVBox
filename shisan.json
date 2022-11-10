@@ -103,6 +103,8 @@
 {"key":"drpy_js_奇优影院","name":"🪁奇优影院[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/奇优影院.js"},
 
+{"key":"drpy_js_起飞影院","name":"🪁起飞影院[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/起飞影院.js"},
 {"key":"drpy_js_追剧喵","name":"🪁追剧喵[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/追剧喵.js"},
 {"key":"drpy_js_牛马TV","name":"🪁牛马TV[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
@@ -117,22 +119,8 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/菜狗.js"},
 
 
-{"key":"drpy_js_多瑙影视","name":"🪁多瑙影视[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/多瑙影视.js"},
-{"key":"drpy_js_NY影院","name":"🪁NY影院[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/NY影院.js"},
-{"key":"drpy_js_豆芽影院","name":"🪁豆芽影院[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/豆芽影院.js"},
-{"key":"drpy_js_唐人街影视","name":"🪁唐人街影视[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/唐人街影视.js"},
-{"key":"drpy_js_楚门影院","name":"🪁楚门影院[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/楚门影院.js"},
-{"key":"drpy_js_if101","name":"🪁If101[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/if101.js"},
-{"key":"drpy_js_爱壹帆","name":"🪁爱壹帆[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/爱壹帆.js"},
-{"key":"drpy_js_起飞影院","name":"🪁起飞影院[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/起飞影院.js"},
+
+
 {"key":"drpy_js_金曼影视","name":"🪁金曼影视[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/金曼影视.js"},
 {"key":"drpy_js_HoHo影视","name":"🪁HoHo影视[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
