@@ -82,7 +82,6 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/LIBVIO.js"},
 {"key":"drpy_js_豆瓣","name":"🪁豆瓣[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/douban.js"},
-
 {"key":"drpy_js_007影视","name":"🪁007影视[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/007影视.js"},
 
@@ -220,8 +219,6 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/奇珍异兽.js"},
 {"key":"drpy_js_腾云驾雾","name":"🪁腾云驾雾[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/腾云驾雾.js"},
-{"key":"drpy_js_优酷","name":"🪁优酷[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/优酷.js"},
 {"key":"drpy_js_兔小贝","name":"🪁兔小贝[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/兔小贝.js"},
 {"key":"drpy_js_小强迷","name":"🪁小强迷[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
@@ -317,8 +314,6 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/vip影院.js"},
 {"key":"drpy_js_百忙无果","name":"🪁百忙无果[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/百忙无果.js"},
-{"key":"drpy_js_大米星球","name":"🪁大米星球[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/大米星球.js"},
 {"key":"drpy_js_番茄影视","name":"🪁番茄影视[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/番茄影视.js"},
 {"key":"drpy_js_看视界","name":"🪁看视界[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
