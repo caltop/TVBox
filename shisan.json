@@ -252,7 +252,7 @@
 //{"key":"蓝光影院(DR)","name":"🥉蓝光影院(JS)","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.js",
 //"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/蓝光影院.js"},
 
-{"key":"drpy_js_海兔影院","name":"🎑测试(DRPY)","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.ym.js",
+{"key":"drpy_js_海兔影院","name":"🎑测试(DRPY)","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/js/KY77.js"},
 
 //BILI合集
