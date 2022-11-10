@@ -4,7 +4,7 @@
 // Pluto Player官方TG https://t.me/PlutoPlayerChannel
 
 var rule = {
-    title:'斗鱼直播',
+    title:'DY直播',
     host:'https://www.douyu.com',
     homeUrl:'/japi/weblist/apinc/recLabelList?',//网站的首页链接,用于分类获取和推荐获取
 	url:'/gapi/rkc/directory/mixList/fyclass/fypage',
