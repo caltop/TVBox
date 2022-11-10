@@ -1,7 +1,7 @@
 {
 //无公众号，无公众号，无公众号,不引流，我是纯小白~啥也不懂，所有东西都是扒拉大佬的，只是为小白提供一个方便，希望大哥们可以高抬贵嘴~
 //感谢各位隐姓埋名的大佬分享~
-"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo.jar",
+"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar",
 "wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 //每日一言(随机显示欢迎语)
 "dairyWords":[{"name":"rating","request":{"method":"GET","url":{"raw":"https://saying.api.azwcl.com/saying/get"}},
@@ -46,6 +46,7 @@
 ]}]}],
 "sites":[
 {"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
+{"key":"csp_Zjdr","name":"👓追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpNmys","name":"🌾农民影视(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://share.nite07.com/api/v3/file/source/27935/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json?sign=AYFw_ECDjja8nKk33kSGaAzNjVzZs1qHdQs0H8xnXXs%3D%3A0"},
 {"key":"csp_AppTT","name":"🍍图图影视(SP)","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
