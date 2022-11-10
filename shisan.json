@@ -53,7 +53,7 @@
 {"key":"Lezhu_spider","name":"🐷乐猪影视(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","plugin":""},
 {"key":"csp_biubiu_voflix","name":"🍐VoflixHD(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/voflix.json"},
-{"key":"在线直播（SP）","name":"🍅在线直播(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"在线直播（SP）","name":"🍅斗鱼虎网(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"🍒两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"293视频","name":"🍏293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
@@ -112,8 +112,6 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/百忙无果.js"},
 {"key":"drpy_js_追剧达人","name":"🪁追剧达人[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/追剧达人.js"},
-{"key":"drpy_js_斗鱼直播","name":"🪁斗鱼直播[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
-"ext":"https://share.nite07.com/api/v3/file/source/31675/JustLive.js?sign=3JhKSefPXkMF5MmlQKgNHpSgS49CvLG7UZc99aPZsLw%3D%3A0"},
 {"key":"drpy_js_奇优影院","name":"🪁奇优影院[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/奇优影院.js"},
 
