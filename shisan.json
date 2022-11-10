@@ -48,7 +48,7 @@
 {"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
 {"key":"csp_Zjdr","name":"👓追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpNmys","name":"🌾农民影视(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://share.nite07.com/api/v3/file/source/27935/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json?sign=AYFw_ECDjja8nKk33kSGaAzNjVzZs1qHdQs0H8xnXXs%3D%3A0"},
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/csp_Nmys.json"},
 {"key":"csp_AppTT","name":"🍍图图影视(SP)","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_NianYing","name":"🍓NBhut(SP)","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 {"key":"csp_Lgyy","name":"🌀蓝光影视(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
