@@ -53,7 +53,7 @@ function pre(){
 }
 
 let rule = {};
-const VERSION = '3.9.18';
+const VERSION = '3.9.20beta7';
 /** 已知问题记录
  * 1.影魔的jinjia2引擎不支持 {{fl}}对象直接渲染 (有能力解决的话尽量解决下，支持对象直接渲染字符串转义,如果加了|safe就不转义)[影魔牛逼，最新的文件发现这问题已经解决了]
  * Array.prototype.append = Array.prototype.push; 这种js执行后有毛病,for in 循环列表会把属性给打印出来 (这个大毛病需要重点排除一下)
@@ -70,6 +70,9 @@ const VERSION = '3.9.18';
  adb devices -l
  adb logcat -c
  adb logcat | grep -i QuickJS
+ adb logcat -c -b events
+ adb logcat -c -b main -b events -b radio -b system
+ adb logcat > 2.log DRPY:E | grep -i QuickJS
  * **/
 
 
@@ -908,6 +911,9 @@ function request(url,obj,ocr_flag){
             if(rule.headers){
                 Object.assign(headers,rule.headers);
             }
+            if(!fetch_params){
+                fetch_params = {};
+            }
             fetch_params.headers = headers;
         }
         if(!fetch_params.headers.Referer){
@@ -925,7 +931,7 @@ function request(url,obj,ocr_flag){
         obj.headers = headers;
     }
     if(rule.encoding&&rule.encoding!=='utf-8'&&!ocr_flag){
-        if(!obj.headers.hasOwnProperty('Content-Type')){ // 手动指定了就不管
+        if(!obj.headers.hasOwnProperty('Content-Type')&&!obj.headers.hasOwnProperty('content-type')){ // 手动指定了就不管
             obj.headers["Content-Type"] = 'text/html; charset='+rule.encoding;
         }
     }
@@ -976,15 +982,16 @@ function post(url,obj){
 fetch = request;
 print = function (data){
     data = data||'';
-    if(typeof(data)!=='string'){
+    if(typeof(data)=='object'&&!isNaN(data)){
         try {
             data = JSON.stringify(data);
         }catch (e) {
-            console.log('print:'+e.message)
+            // console.log('print:'+e.message);
+            console.log(typeof(data)+':'+data.length);
+            return
         }
-    }
-    if(typeof(data)!=='string'){
-        console.log(typeof(data)+':'+data.length);
+    }else if(typeof(data)=='object'&&isNaN(data)){
+        console.log('null object');
     }else{
         console.log(data);
     }
@@ -1578,6 +1585,7 @@ function searchParse(searchObj) {
  * @returns {string}
  */
 function detailParse(detailObj){
+    let t1 = (new Date()).getTime();
     fetch_params = JSON.parse(JSON.stringify(rule_fetch_params));
     let orId = detailObj.orId;
     let vod_name = '片名';
@@ -1609,7 +1617,7 @@ function detailParse(detailObj){
     let tab_exclude = detailObj.tab_exclude;
     let html = detailObj.html||'';
     MY_URL = url;
-    console.log(MY_URL);
+    // console.log(MY_URL);
     // setItem('MY_URL',MY_URL);
     if(p==='*'){
         vod.vod_play_from = '道长在线';
@@ -1625,26 +1633,41 @@ function detailParse(detailObj){
         vod = VOD;
         console.log(JSON.stringify(vod));
     }else if(p&&typeof(p)==='object'){
+        let tt1 = (new Date()).getTime();
         if(!html){
             html = getHtml(MY_URL);
         }
-        let _impJQP = true;
+        print(`二级${MY_URL}仅获取源码耗时:${(new Date()).getTime()-tt1}毫秒`);
+        let _impJQP = false;
         let _ps;
         if(p.is_json){
+            print('二级是json');
             _ps = parseTags.json;
             html = dealJson(html);
-            _impJQP = false;
         }else if(p.is_jsp){
+            print('二级是jsp');
             _ps = parseTags.jsp;
         }else if(p.is_jq){
+            print('二级是jq');
             _ps = parseTags.jq;
         }else{
+            print('二级默认jq');
             _ps = parseTags.jq;
+            // print('二级默认jsp');
+            // _ps = parseTags.jsp;
+        }
+        if(_ps === parseTags.jq){ // jquery解析提前load(html)
+            _impJQP = true;
         }
         if (_impJQP) {
+            let ttt1 = (new Date()).getTime();
             let c$ = cheerio.load(html);
-            html = { rr: c$, ele: c$('html')[0] }
+            // print(`二级${MY_URL}仅c$源码耗时:${(new Date()).getTime()-ttt1}毫秒`);
+            html = { rr: c$, ele: c$('html')[0] };
+            print(`二级${MY_URL}仅cheerio.load源码耗时:${(new Date()).getTime()-ttt1}毫秒`);
         }
+        let tt2 = (new Date()).getTime();
+        print(`二级${MY_URL}获取并装载源码耗时:${tt2-tt1}毫秒`);
         _pdfa = _ps.pdfa;
         _pdfh = _ps.pdfh;
         _pd = _ps.pd;
@@ -1698,7 +1721,7 @@ function detailParse(detailObj){
         if(p.tabs){
             if(p.tabs.startsWith('js:')){
                 print('开始执行tabs代码:'+p.tabs);
-                if(html&&typeof (html)!=='string'){
+                if(html&&_impJQP&&typeof (html)!=='string'){
                     try { // 假装是jq的对象拿来转换一下字符串,try为了防止json的情况报错
                         html = html.rr(html.ele).toString();
                     }catch (e) {}
@@ -1735,7 +1758,7 @@ function detailParse(detailObj){
             if(p.lists.startsWith('js:')){
                 print('开始执行lists代码:'+p.lists);
                 try {
-                    if(html&&typeof (html)!=='string'){
+                    if(html&&_impJQP&&typeof (html)!=='string'){
                         // 假装是jq的对象拿来转换一下字符串,try为了防止json的情况报错
                         try {
                             html = html.rr(html.ele).toString();
@@ -1771,7 +1794,9 @@ function detailParse(detailObj){
                     let tab_ext =  p.tabs.split(';').length > 1 && !is_tab_js ? p.tabs.split(';')[1] : '';
                     let p1 = p.lists.replaceAll('#idv', tab_name).replaceAll('#id', i);
                     tab_ext = tab_ext.replaceAll('#idv', tab_name).replaceAll('#id', i);
-                    console.log(p1);
+                    // 测试jsp提速
+                    // p1 = p1.replace(':eq(0)',',0').replace(' ','&&');
+                    // console.log(p1);
                     // console.log(html);
                     let vodList = [];
                     try {
@@ -1785,13 +1810,21 @@ function detailParse(detailObj){
                     let tabName = tab_ext?_pdfh(html, tab_ext):tab_name;
                     console.log(tabName);
                     // console.log('cheerio解析Text');
-                    vodList.forEach(it=>{
+                    // 此处存在性能问题: pt版2000集需要650毫秒,俊版1300毫秒 特么的优化不动 主要后面定位url的我拿他没法
+                    // 主要性能问题在于 _pd(it, list_url, MY_URL)
+                    let tt1 = (new Date()).getTime();
+                    vodList.forEach((it,idex)=>{
                         // 请注意,这里要固定pdfh解析body&&Text,不需要下划线,没写错
                         // new_vod_list.push(pdfh(it,'body&&Text')+'$'+_pd(it,'a&&href',MY_URL));
                         // new_vod_list.push(cheerio.load(it).text()+'$'+_pd(it,'a&&href',MY_URL));
                         // new_vod_list.push(_pdfh(it, list_text).trim() + '$' + _pd(it, list_url, MY_URL));
-                        new_vod_list.push(_pdfh(it, list_text).trim() + '$' + _pd(it, list_url, MY_URL));
+                        // new_vod_list.push(_pdfh(it, list_text).trim() + '$' +idex);
+                        // new_vod_list.push(idex + '$' +_pdfh(it, list_url));
+                        new_vod_list.push(_pdfh(it, list_text).trim() + '$' +_pd(it, list_url,MY_URL));
                     });
+                    if(vodList.length>0){
+                        console.log(`drpy影响性能代码共计列表数循环次数:${vodList.length},耗时:${(new Date()).getTime()-tt1}毫秒`);
+                    }
                     let vlist = new_vod_list.join('#');
                     vod_tab_list.push(vlist);
                 }
@@ -1806,6 +1839,8 @@ function detailParse(detailObj){
     if(!vod.vod_id){
         vod.vod_id = vod_id;
     }
+    let t2 = (new Date()).getTime();
+    console.log(`加载二级界面${MY_URL}耗时:${t2-t1}毫秒`);
     // print(vod);
     return JSON.stringify({
         list: [vod]
