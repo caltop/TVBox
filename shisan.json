@@ -75,7 +75,7 @@
 {"key":"csp_appys_美剧星球","name":"🌎美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy555","name":"5️⃣五五五(NS)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"zhaozy","name":"🍂找资源(仅搜索-选原画播放)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"4bbf4a4162f24b48b3e2ab35f1550c4f","jar":""},
+"ext":"4bbf4a4162f24b48b3e2ab35f1550c4f","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/0830.jar"},
 {"key":"csp_bendi","name":"📂本地文件(SP)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0},
 //#精选XP和XB
 {"key":"csp_xpath_乐猪TV","name":"🐷乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,
