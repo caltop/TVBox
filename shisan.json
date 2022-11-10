@@ -78,7 +78,7 @@
 "ext":"http://ali.饭太硬.ml/tok","jar":""},
 {"key":"csp_bendi","name":"📂本地文件(SP)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0},
 //
-{"key":"drpy_js_海兔影院","name":"🎑测试(DRPY)","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
+{"key":"drpy_js_酷云七七","name":"🎑酷云七七(DRPY)","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/js/KY77.js"},
 //#精选XP和XB
 {"key":"csp_xpath_乐猪TV","name":"🐷乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,
