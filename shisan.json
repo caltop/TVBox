@@ -514,11 +514,12 @@
 {"key":"网民电影","name":"🚀网民电影(聚)","type":1,"api":"https://www.prinevillesda.org/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"MBO影视","name":"🚀MBO影视(聚)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0}
 ],
+
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"☑爱酷","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
+
 {"name":"☑ckplayer解析","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
 {"name":"☑虾米解析","type":0,"url":"https://dm.xmflv.com:4433/?url="},
 {"name":"☑parwix解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
