@@ -196,6 +196,10 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/来看点播.js"},
 {"key":"drpy_js_小白菜电影","name":"🪁小白菜电影[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/小白菜电影.js"},
+{"key":"drpy_js_虎牙直播","name":"🪁虎牙直播[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/虎牙直播.js"},
+{"key":"drpy_js_DJ音乐","name":"🪁DJ音乐[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/DJ音乐.js"},
 //ljk播放器
 {"key":"drpy_js_麦豆","name":"🪁麦豆影视[ljk]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/麦豆.js"},
