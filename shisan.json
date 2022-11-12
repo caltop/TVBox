@@ -479,7 +479,6 @@
 {"key":"乐活影视","name":"💯乐活影视(优)","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //#三方聚合
 {"key":"影图","name":"🚀影图(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"速影","name":"🚀速影(聚)","type":1,"api":"https://速影128.xyz/inc/apijson.php","searchable":1,"quickSearch":0},
 {"key":"MBO影视","name":"🚀MBO影视(聚)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":0}
 ],
 
