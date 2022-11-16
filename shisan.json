@@ -228,7 +228,7 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/看看电影.js"},
 //测试
 {"key":"drpy_js_test","name":"🪁js测试[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/煲剧吧.js"},	
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/0test.js"},	
 //#精选XP和XB
 {"key":"csp_xpath_乐猪TV","name":"🐷乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/lezhutv.json"},
