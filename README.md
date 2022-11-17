@@ -1,23 +1,21 @@
 # 梅零落
 
 #### 介绍
+
 TVBox的自用资源
 
 #### 软件架构
-网络接口
 
+CatVodTVOfficial/TVBoxOSC
 
 #### 安装教程
 
-
-
 #### 使用说明
-
-
 
 #### 参与贡献
 
-
+1.CatVodTVOfficial/TVBoxOSC
+2. heroaku/TVboxo
 
 #### 特技
 
