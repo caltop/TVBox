@@ -14,8 +14,9 @@ CatVodTVOfficial/TVBoxOSC
 
 #### 参与贡献
 
-1.CatVodTVOfficial/TVBoxOSC
-2. heroaku/TVboxo
+1.  CatVodTVOfficial/TVBoxOSC
+
+2.  heroaku/TVboxo
 
 #### 特技
 
