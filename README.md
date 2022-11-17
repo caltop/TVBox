@@ -1,33 +1,22 @@
 # 梅零落
 
 #### 介绍
-收集国内公共IPTV频道LOGO。互联网协议电视（IPTV）是通过互联网协议（IP）网络传送电视内容的方法。
+TVBox的自用资源
 
 #### 软件架构
-软件架构说明：国内电视台LOGO
+网络接口
 
 
 #### 安装教程
 
-1.  Calendre：https://gitee.com/boshilunyanjing/calendre/raw/master/calendre.m3u8
-2.  国内电视台LOGO图床
-3.  按LOGO对应原始地址复制→粘贴即可
+
 
 #### 使用说明
 
-1.  https://gitee.com/wdc558/ruoshui/raw/master/cctv/.png
-2.  https://gitee.com/wdc558/ruoshui/raw/master/weishi/.png
-3.  https://gitee.com/wdc558/ruoshui/raw/master/difang/.png
-4.  https://gitee.com/wdc558/ruoshui/raw/master/shaoer/.png
-5.  https://gitee.com/wdc558/ruoshui/raw/master/IHOT/IHOT.png
-6.  https://gitee.com/wdc558/ruoshui/raw/master/qita/.png
+
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
 
 
 #### 特技
