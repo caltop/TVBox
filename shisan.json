@@ -82,6 +82,8 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/喵喵.js"},
 {"key":"drpy_js_视中心影视","name":"🪁视中心影视[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/视中心影视.js"},
+{"key":"drpy_js_超前点播","name":"🪁超前点播[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/超前点播.js"},
 {"key":"drpy_js_艾菲影视","name":"🪁艾菲影视[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/艾菲影视.js"},
 {"key":"drpy_js_瓜皮TV","name":"🪁瓜皮TV[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
