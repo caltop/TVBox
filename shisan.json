@@ -44,6 +44,8 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/csp_Nmys.json"},
 {"key":"csp_AppTT","name":"🍍图图影视(SP)","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_NianYing","name":"🍓NBhut(SP)","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
+{"key":"YQK_spider","name":"⚽一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz",
+"jar":""},
 {"key":"csp_Lgyy","name":"🌀蓝光影视(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fant","name":"🍙饭团影视(SP)","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Ysgc","name":"🥝影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
