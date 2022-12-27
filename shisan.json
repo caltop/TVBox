@@ -243,7 +243,7 @@
 {"key":"csp_xpath_乐猪TV","name":"🐷乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/lezhutv.json"},
 {"key":"csp_xpath_HOHO","name":"🌾HOHO(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://raw.githubusercontents.com/boly4189/tv1/master/MaooXP/Hoho.json"},
+"ext":"https://raw.githubusercontents.com/calendre707539386/ruoshui/master/MaooXP/Hoho.json"},
 {"key":"csp_xBPQ_达达龟","name":"🍂达达龟(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/ddgui.json"},
 {"key":"csp_biubiu_片库影院","name":"💦片库影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,
