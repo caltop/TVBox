@@ -323,8 +323,8 @@
 {"key":"py_huya","name":"🥇虎牙(PY)","type":3,"api":"py_huya","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Py/py_huya.py"},
 //XBPQ
-{"key":"csp_XBPQ诺讯影视","name":"🎞️诺讯影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"http://52bsj.vip:81/api/v3/file/get/61832/%E8%AF%BA%E8%AE%AF%E5%BD%B1%E8%A7%86%28xBPQ%29.json?sign=wIeHY0ecLWBM8KDJXhgrJo_j044uEzz2z6IZtCeR00I%3D%3A0","jar":""},
+{"key":"csp_XBPQ诺讯影视","name":"🥈诺讯影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/诺讯影视.json","jar":""},
 {"key":"csp_XBPQ饭团","name":"🥈饭团(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/饭团.json"},
 {"key":"csp_XBPQ花猫TV","name":"🥈花猫TV(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
