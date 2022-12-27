@@ -73,8 +73,7 @@
 "ext":"http://ali.饭太硬.ml/tok","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar"},
 {"key":"Upyunso","name":"🍃云搜(仅搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
 "ext":"http://ali.饭太硬.ml/tok"},
-
-{"key":"Gitcafe","name":"🍃小纸条(仅搜索)","type":3,"api":"csp_Paper","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,
+{"key":"Gitcafe","name":"小纸条(仅搜索)","type":3,"api":"csp_Paper","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"http://ali.饭太硬.ml/tok","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar"},
 {"key":"zhaozy","name":"🍃找资源(仅搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
 "ext":"http://ali.饭太硬.ml/tok","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar"},
