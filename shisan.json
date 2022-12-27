@@ -287,7 +287,7 @@
 {"key":"py_voflix","name":"🥇Voflix(PY)","type":3,"api":"py_voflix","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Py/py_voflix.py"},
 {"key":"py_cctv_full","name":"🥇央视大全(PY)","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,
-"ext":"https://raw.githubusercontents.com/calendre707539386/ruoshui/master/Py/py_cctv_full.py"},
+"ext":"https://raw.githubusercontents.com/calendre707539386/ruoshui/master/Py/py_alist.py"},
 {"key":"py_bilimd","name":"🥇哔哩影视(PY)","type":3,"api":"py_bilimd","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Py/py_bilimd.py"},
 {"key":"py_lezhu","name":"🥇乐猪影视(PY)","type":3,"api":"py_lezhu","searchable":1,"quickSearch":1,"filterable":1,
