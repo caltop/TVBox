@@ -45,6 +45,8 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/csp_Nmys.json"},
 {"key":"csp_biubiu_dadagui","name":"🐢达达龟HD(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/dadagui.json"},
+{"key":"sliu_spider","name":"💎石榴影视(SP)","type":3,"api":"csp_ShiLiuDY","filterable":1,"quickSearch":1,"playerType":2,"searchable":1,
+"jar":""},
 {"key":"csp_新视觉","name":"🍁新视觉(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,
 "jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/新视觉.zip"},
 {"key":"Kuaikan","name":"🈷️月光快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
