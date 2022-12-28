@@ -304,6 +304,8 @@
 {"key":"csp_biubiu_森屋新番","name":"🎍森屋新番(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/森屋新番.json"},
 //PY爬蟲
+{"key":"py_cctvfz","name":"🥇CCTV央视(PY)","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,
+"ext":"https://agit.ai/l/o/raw/branch/o/o/py_cctv.py"},
 {"key":"py_cctvzh","name":"🥇央视综合(PY)","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://agit.ai/l/o/raw/branch/o/o/py_cctvzh.py"},
 {"key":"py_cctvxw","name":"🥇央视新闻(PY)","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,
@@ -314,8 +316,6 @@
 "ext":"https://agit.ai/l/o/raw/branch/o/o/py_cctvdy.py"},
 {"key":"py_cctvty","name":"🥇央视体育(PY)","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://agit.ai/l/o/raw/branch/o/o/py_cctvty.py"},
-{"key":"py_cctvfz","name":"🥇央视法治(PY)","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,
-"ext":"https://agit.ai/l/o/raw/branch/o/o/py_cctv.py"},
 {"key":"py_cctvkj","name":"🥇央视科教(PY)","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://agit.ai/l/o/raw/branch/o/o/py_cctvkj.py"},
 {"key":"py_cctvyy","name":"🥇央视音乐(PY)","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,
