@@ -41,8 +41,6 @@
 "sites":[
 //spiderjava
 {"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
-{"key":"drpy_js_Alist","name":"Alist（SP）","type":3,"api":"https://agit.ai/66666/XC/raw/branch/master/js/M.js",
-"ext":"https://agit.ai/66666/XC/raw/branch/master/js/J.json"},
 {"key":"csp_xpNmys","name":"🌾农民影视(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/csp_Nmys.json"},
 {"key":"csp_AppTT","name":"🍍图图影视(SP)","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,
@@ -250,6 +248,12 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/lezhutv.json"},
 {"key":"csp_xpath_HOHO","name":"🌾HOHO(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://raw.githubusercontents.com/calendre707539386/ruoshui/master/MaooXP/Hoho.json"},
+{"key":"csp_xp_gongreng","name":"👷工人影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/gongren.json"},
+{"key":"csp_xpath_UM","name":"🎗UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://shadowchiu369.github.io/TVBox/MaooXP/UM.json"},
+{"key":"csp_biubiu_手机看剧","name":"📱手机看剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://shadowchiu369.github.io/TVBox/MaooXB2/手机看剧.json"},
 {"key":"csp_xBPQ_达达龟","name":"🍂达达龟(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/ddgui.json"},
 {"key":"csp_biubiu_片库影院","name":"💦片库影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,
