@@ -6,6 +6,7 @@
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar",(图图影视,盘搜，一搜，小纸条)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/qj.zip",(一起看TV)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/293.jar",(293)
+//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/新视觉.zip",(新视觉)
 "wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 //每日一言(随机显示欢迎语)
 "dairyWords":[{"name":"rating","request":{"method":"GET","url":{"raw":"https://saying.api.azwcl.com/saying/get"}},
@@ -55,7 +56,7 @@
 {"key":"sliu_spider","name":"💎石榴影视(SP)","type":3,"api":"csp_ShiLiuDY","filterable":1,"quickSearch":1,"playerType":2,"searchable":1,
 "jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1128.jar"},
 {"key":"csp_新视觉","name":"🍁新视觉(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,
-"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1128.jar"},
+"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/新视觉.zip"},
 {"key":"Kuaikan","name":"🈷️月光快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xbb_city电影","name":"🏬城市电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/city电影.json"},
