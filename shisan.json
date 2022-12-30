@@ -1,8 +1,8 @@
 {
 //无公众号，无公众号，无公众号,不引流，我是纯小白~啥也不懂，所有东西都是扒拉大佬的，只是为小白提供一个方便，希望大哥们可以高抬贵嘴~
 //感谢各位隐姓埋名的大佬分享~
-//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar",
-"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/fantuan.jar",
+"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar",
+//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/fantuan.jar",
 "wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 //每日一言(随机显示欢迎语)
 "dairyWords":[{"name":"rating","request":{"method":"GET","url":{"raw":"https://saying.api.azwcl.com/saying/get"}},
