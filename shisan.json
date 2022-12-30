@@ -8,8 +8,8 @@
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar",(图图影视,盘搜，一搜，小纸条)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1128.jar",(百影视频，石榴影视)
 
-//"spider":"",()
-//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/custom_spider_tang.jar",(新视觉)
+//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xinshijue.jar",(新视觉)
+//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/custom_spider_tang.jar",(Alist)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo.zip",(胖虎)
 
 //"spider":"",()
@@ -53,7 +53,7 @@
 //spiderjava
 {"key":"csp_77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Alist","name":"Alist","type":3,"api":"http://101.34.67.237/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"http://101.34.67.237/txt/json/alist.json"},
+"ext":"http://101.34.67.237/txt/json/alist.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/custom_spider_tang.jar"},
 {"key":"csp_xpNmys","name":"🌾农民影视(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/csp_Nmys.json"},
 {"key":"csp_biubiu_饭团","name":"🍙饭团影视(SP)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
@@ -65,7 +65,7 @@
 {"key":"sliu_spider","name":"💎石榴影视(SP)","type":3,"api":"csp_ShiLiuDY","filterable":1,"quickSearch":1,"playerType":2,"searchable":1,
 "jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1128.jar"},
 {"key":"csp_新视觉","name":"🍁新视觉(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,
-"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/custom_spider_tang.jar"},
+"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xinshijue.jar"},
 {"key":"Kuaikan","name":"🈷️月光快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xbb_city电影","name":"🏬城市电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/city电影.json"},
