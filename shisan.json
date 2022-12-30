@@ -2,6 +2,8 @@
 //无公众号，无公众号，无公众号,不引流，我是纯小白~啥也不懂，所有东西都是扒拉大佬的，只是为小白提供一个方便，希望大哥们可以高抬贵嘴~
 //感谢各位隐姓埋名的大佬分享~
 "spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar",
+//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/XBiu.jar",(XBiu)
+//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/QXB.jar",(QXB)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar",(图图影视,盘搜，一搜，小纸条)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1128.jar",(百影视频，石榴影视)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/293.jar",(293)
@@ -10,8 +12,6 @@
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/新视觉.zip",(新视觉)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo.zip",(胖虎)
 
-//"spider":"",()
-//"spider":"",()
 //"spider":"",()
 //"spider":"",()
 
@@ -460,7 +460,7 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Bilibili/软件教程.json"},
 {"key":"csp_游戏娱乐","name":"🅱️游戏娱乐(BiLi)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://share.nite07.com/api/v3/file/source/27934/%E6%B8%B8%E6%88%8F%E5%A8%B1%E4%B9%90.json?sign=qh92QhqaaBDT8M-i5SIbSF-qvpBBzEHY6ghs208TTyA%3D%3A0"},
-//Xbui
+//XBui
 {"key":"csp_xb_ysgc","name":"💠影视工厂(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html",
 "jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/XBiu.jar"},
 {"key":"csp_xb_35ju","name":"💠星空影院(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://m.7caa.com/list/{cateId}-{catePg}.html",
@@ -482,19 +482,19 @@
 
 //{"key":"QXB规则","name":"↓〔QXB新规则指引〕↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_QXBiubiu_555电影","name":"🦜555电影(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/QXBiu/555电影.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/91i.jar"},
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/QXBiu/555电影.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/QXB.jar"},
 {"key":"csp_QXBiubiu_影视工厂","name":"🦜影视工厂(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/QXBiu/影视工厂.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/91i.jar"},
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/QXBiu/影视工厂.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/QXB.jar"},
 {"key":"csp_QXBiubiu_剧白白","name":"🦜剧白白(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/QXBiu/剧白白.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/91i.jar"},
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/QXBiu/剧白白.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/QXB.jar"},
 {"key":"csp_QXBiubiu_600影视","name":"🦜600影视(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/QXBiu/600影视.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/91i.jar"},
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/QXBiu/600影视.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/QXB.jar"},
 {"key":"csp_QXBiubiu_小强迷","name":"🦜小强迷(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/QXBiu/小强迷.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/91i.jar"},
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/QXBiu/小强迷.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/QXB.jar"},
 {"key":"csp_QXBiubiu_歪片星球","name":"🦜歪片星球(QXB)️","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/QXBiu/歪片星球.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/91i.jar"},
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/QXBiu/歪片星球.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/QXB.jar"},
 {"key":"csp_QXBiubiu_蚂蚁4K","name":"🦜蚂蚁4K(QXB)️","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/QXBiu/蚂蚁4K.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/91i.jar"},
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/QXBiu/蚂蚁4K.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/QXB.jar"},
 //{"key":"XYQB规则","name":"↓〔XYQB新规则指引〕↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_XYQBiu_剧荒","name":"🌌剧荒影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XYQBiu/剧荒.json"},
