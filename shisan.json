@@ -2,7 +2,7 @@
 //无公众号，无公众号，无公众号,不引流，我是纯小白~啥也不懂，所有东西都是扒拉大佬的，只是为小白提供一个方便，希望大哥们可以高抬贵嘴~
 //感谢各位隐姓埋名的大佬分享~
 "spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar",
-//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1128.jar",(百影视频)
+//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1128.jar",(百影视频，石榴影视)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar",(图图影视,盘搜，一搜，小纸条)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/qj.zip",(一起看TV)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/293.jar",(293)
@@ -55,7 +55,7 @@
 {"key":"sliu_spider","name":"💎石榴影视(SP)","type":3,"api":"csp_ShiLiuDY","filterable":1,"quickSearch":1,"playerType":2,"searchable":1,
 "jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1128.jar"},
 {"key":"csp_新视觉","name":"🍁新视觉(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,
-"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/新视觉.zip"},
+"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1128.jar"},
 {"key":"Kuaikan","name":"🈷️月光快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xbb_city电影","name":"🏬城市电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/city电影.json"},
