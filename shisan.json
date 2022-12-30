@@ -7,6 +7,8 @@
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/qj.zip",(一起看TV)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/293.jar",(293)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/新视觉.zip",(新视觉)
+//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo.zip",(胖虎)
+
 "wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 //每日一言(随机显示欢迎语)
 "dairyWords":[{"name":"rating","request":{"method":"GET","url":{"raw":"https://saying.api.azwcl.com/saying/get"}},
@@ -88,7 +90,7 @@
 {"key":"csp_Auete","name":"🚒AueteHD(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appys_美剧星球","name":"🌎美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Pang","name":"🐼胖虎(仅搜索)","type":"3","api":"csp_Panghu","searchable":"1","quickSearch":"1","filterable":"1",
-"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo.zip"},
+"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1128.jar"},
 {"key":"AliPS","name":"🍃盘搜(仅搜索)","type":3,"api":"csp_PanSou","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,
 "ext":"http://ali.饭太硬.ml/tok","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar"},
 {"key":"Yisou","name":"🍃一搜(仅搜索)","type":3,"api":"csp_YiSo","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,
