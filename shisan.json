@@ -89,7 +89,7 @@
 {"key":"csp_Bttoo","name":"🍒两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"293视频","name":"🍏293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,
-"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/apple1222.jar"},
+"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/293.jar"},
 {"key":"csp_CZSPP","name":"🏭厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"360_spider","name":"🎾360影视(SP)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Zjdr","name":"👓追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
