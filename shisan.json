@@ -7,12 +7,10 @@
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/apple1222.jar",(乐猪影视，一起看TV,棉花影视，鸭奈飞)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar",(图图影视,盘搜，一搜，小纸条)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1128.jar",(百影视频，石榴影视)
-
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xinshijue.jar",(新视觉)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/custom_spider_tang.jar",(Alist)
-//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo.zip",(胖虎)
 
-//"spider":"",()
+//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo.zip",(胖虎)
 
 "wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 //每日一言(随机显示欢迎语)
@@ -52,7 +50,7 @@
 "sites":[
 //spiderjava
 {"key":"csp_77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Alist","name":"Alist","type":3,"api":"http://101.34.67.237/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,
+{"key":"Alist","name":"🍷Alist(搜索)","type":3,"api":"http://101.34.67.237/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"http://101.34.67.237/txt/json/alist.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/custom_spider_tang.jar"},
 {"key":"csp_xpNmys","name":"🌾农民影视(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/csp_Nmys.json"},
