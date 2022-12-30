@@ -50,7 +50,7 @@
 "sites":[
 //spiderjava
 {"key":"csp_77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"py_douyu","name":"🥇斗鱼直播(PY)","type":3,"api":"py_douyu","searchable":0,"quickSearch":0,"filterable":1,
+{"key":"py_douyu","name":"🐳斗鱼直播(PY)","type":3,"api":"py_douyu","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Py/py_douyu.py"},
 {"key":"Alist","name":"🍷Alist(搜索)","type":3,"api":"http://101.34.67.237/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"http://101.34.67.237/txt/json/alist.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/custom_spider_tang.jar"},
