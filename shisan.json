@@ -61,7 +61,7 @@
 {"key":"csp_xpath_789kp","name":"🦋789看片(XB)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/789影视.json"},
 {"key":"csp_AppTT","name":"🍍图图影视(SP)","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"http://121.205.88.126:7788","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar"},
+"ext":"http://121.205.88.126:7788","jar":""},
 {"key":"YQK_spider","name":"⚽一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz",
 "jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/qj.zip"},
 {"key":"csp_Lgyy","name":"🌀蓝光影视(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
