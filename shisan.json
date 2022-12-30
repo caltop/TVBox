@@ -459,7 +459,7 @@
 {"key":"csp_软件教程","name":"🅱️软件教程(BiLi)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Bilibili/软件教程.json"},
 {"key":"csp_游戏娱乐","name":"🅱️游戏娱乐(BiLi)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
-"ext":"https://share.nite07.com/api/v3/file/source/27934/%E6%B8%B8%E6%88%8F%E5%A8%B1%E4%B9%90.json?sign=qh92QhqaaBDT8M-i5SIbSF-qvpBBzEHY6ghs208TTyA%3D%3A0"},
+"ext":""},
 //XBiu
 {"key":"csp_xb_ysgc","name":"💠影视工厂(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html",
@@ -478,9 +478,11 @@
 "jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/XBiu.jar"},
 //{"key":"QXBiu规则","name":"↓〔QXB新规则指引〕↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0}
 {"key":"csp_QXBiubiu_600影视","name":"🦜600影视(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/QXBiu/600影视.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/QXBiu.jar"},
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/QXBiu/600影视.json",
+"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/QXBiu.jar"},
 {"key":"csp_QXBiubiu_歪片星球","name":"🦜歪片星球(QXB)️","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/QXBiu/歪片星球.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/QXBiu.jar"},
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/QXBiu/歪片星球.json",
+"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/QXBiu.jar"},
 //{"key":"XYQB规则","name":"↓〔XYQB新规则指引〕↓","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0}
 {"key":"csp_XYQBiu_剧荒","name":"🌌剧荒影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XYQBiu/剧荒.json"},
