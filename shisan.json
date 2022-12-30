@@ -4,6 +4,7 @@
 "spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar",
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1128.jar",(百影视频)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar",(图图影视)
+//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/qj.zip",(一起看)
 
 "wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 //每日一言(随机显示欢迎语)
@@ -54,7 +55,7 @@
 {"key":"sliu_spider","name":"💎石榴影视(SP)","type":3,"api":"csp_ShiLiuDY","filterable":1,"quickSearch":1,"playerType":2,"searchable":1,
 "jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/石榴影视.jar"},
 {"key":"csp_新视觉","name":"🍁新视觉(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,
-"jar":""},
+"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/新视觉.zip"},
 {"key":"Kuaikan","name":"🈷️月光快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xbb_city电影","name":"🏬城市电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/city电影.json"},
@@ -65,7 +66,7 @@
 {"key":"csp_AppTT","name":"🍍图图影视(SP)","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"http://121.205.88.126:7788","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar"},
 {"key":"YQK_spider","name":"⚽一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz",
-"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/qj.zip"},
+"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1128.zip"},
 {"key":"csp_Lgyy","name":"🌀蓝光影视(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"🥝影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Dy1010","name":"🔟双十影视(SP)","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
