@@ -101,7 +101,7 @@
 {"key":"csp_Auete","name":"🚒AueteHD(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appys_美剧星球","name":"🌎美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Pang","name":"🐯胖虎(仅搜索)","type":"3","api":"csp_Panghu","searchable":"1","quickSearch":"1","filterable":"1",
-"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo.zip"},
+"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/custom_spider.jar"},
 {"key":"yanetflix_spider","name":"🦆鸭奈飞(仅搜索)","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"",
 "jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/apple1222.jar"},
 {"key":"AliPS","name":"🍃盘搜(仅搜索)","type":3,"api":"csp_PanSou","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,
