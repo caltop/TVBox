@@ -43,7 +43,7 @@
 
 "lives":[
 {"group":"redirect","channels":[{"name":"redirect","urls":[
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vd2RjNTU4L2NhbGVuZHJldHZib3gvcmF3L21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9jYWxlbmRyZTcwNzUzOTM4Ni9ydW9zaHVpL21hc3Rlci9saXZlLnR4dA=="]}]}],
 
 "sites":[
 //spiderjava
