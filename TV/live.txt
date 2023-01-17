@@ -211,8 +211,7 @@ CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-
-体育,#genre#
+［体育］,#genre#
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
@@ -256,9 +255,7 @@ CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 纪实人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8?zshangd
 上视外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8?zshangd
 法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8?zshangd
-
-斗鱼,#genre#
-
+［斗鱼］,#genre#
 粤语综艺,http://epg.112114.xyz/douyu/7919720
 华语经典,http://epg.112114.xyz/douyu/434971
 吃米滴虫,http://epg.112114.xyz/douyu/315457
@@ -339,9 +336,7 @@ CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 电影解说13,http://epg.112114.xyz/douyu/5354713
 电影解说14,http://epg.112114.xyz/douyu/8014467
 电影解说15,http://epg.112114.xyz/douyu/8788687
-
-轮播,#genre#
-
+［轮播］,#genre#
 周星驰,http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.xs
 吴孟达,http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
 林正英,http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
@@ -369,7 +364,6 @@ CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 王晶导演,http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
 历年贺岁大片,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 金庸武侠系列,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
-
 🌹［综艺］,#genre#
 金牌综艺(高清),http://39.134.115.163:8080/PLTV/88888910/224/3221225711/index.m3u8
 欢笑4K,http://111.20.33.70/PLTV/88888893/224/3221226582/index.m3u8
