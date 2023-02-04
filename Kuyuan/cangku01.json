@@ -1,16 +1,20 @@
 {
-"urls": [
+"urls":[
 {
-"url": "https://gitee.com/wdc558/calendretvbox/raw/master/shisan.json",
-"name": "月夕花晨"
+"url":"https://gitee.com/wdc558/calendretvbox/raw/master/shisan.json",
+"name":"月夕花晨"
 },
 {
-"url": "http://肥猫.love",
-"name": "肥猫"
+"url":"http://肥猫.love",
+"name":"肥猫"
 },
 {
-"url": "http://pandown.pro/tvbox/tvbox.json",
-"name": "巧技"
+"url":"http://pandown.pro/tvbox/tvbox.json",
+"name":"巧技"
+},
+{
+"url":"https://神器每日推送.tk/pz.json",
+"name":"神器"
 }
 ]
 }
