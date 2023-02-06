@@ -1,32 +1,20 @@
 {
 "urls": [
 {
-"url": "https://raw.iqiq.io/leevi0709/duo/main/v.json",
-"name": "多多线路"
+"url": "http://111.67.196.181/mtv/meow.txt",
+"name": "太阳线路"
 },
 {
 "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
 "name": "南风线路"
 },
 {
-"url": "http://111.67.196.181/mtv/meow.txt",
-"name": "盒子线路"
-},
-{
 "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
 "name": "月光宝盒"
 },
 {
-"url": "http://111.67.196.181/mtv/meow.txt",
-"name": "太阳线路"
-},
-{
 "url": "https://download.kstore.space/download/2863/01.txt",
 "name": "潇洒线路"
-},
-{
-"url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-"name": "元兴线路"
 },
 {
 "url": "http://刚刚.live/猫",
