@@ -13,6 +13,10 @@
 "name":"肥猫"
 },
 {
+"url":"https://神器每日推送.tk/pz.json",
+"name":"神器"
+},
+{
 "url":"http://drpy.site/js1",
 "name":"小雅"
 },
@@ -23,10 +27,6 @@
 {
 "url":"http://pandown.pro/tvbox/tvbox.json",
 "name":"巧技"
-},
-{
-"url":"https://神器每日推送.tk/pz.json",
-"name":"神器"
 }
 ]
 }
