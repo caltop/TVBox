@@ -1,7 +1,10 @@
 {"storeHouse": [
 
-{"sourceName":"Calendre",
-"sourceUrl":"https://gitee.com/wdc558/calendretvbox/raw/master/Kuyuan/cangku.json"} 
+{"sourceName":"Calendre(自)",
+"sourceUrl":"https://gitee.com/wdc558/calendretvbox/raw/master/Kuyuan/cangku1.json"},
+
+{"sourceName":"安卓哥(网)",
+"sourceUrl":"https://gitee.com/wdc558/calendretvbox/raw/master/Kuyuan/cangku1.json"}
 
  ]
 }
