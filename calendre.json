@@ -5,7 +5,6 @@
 "spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/0206.jar",
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/XBiu.jar",(XBiu)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/QXBiu.jar",(QXBiu)
-//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/custom_spider.jar",(一起看，石榴，蓝光，图图)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/apple1222.jar",(一起看TV,鸭奈飞)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar",(盘搜，一搜，小纸条)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1128.jar",(百影视频)
@@ -60,10 +59,8 @@
 {"key":"csp_xBPQ新视觉","name":"🌟新视觉(SP)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"http://我不是.肥猫.love:63/json/新视觉影院.json"},
 {"key":"csp_Kuaikan","name":"👀快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Tian","name":"🆗天天影视(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1",
-"ext":"bdc1c75081e5e477189a463baa47e392"},
-{"key":"AppTT","name":"🍏图图高清1(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1",
-"ext":"110c922de7d69804467fb83d3bb664b5"},
+{"key":"Tian","name":"🆗天天影视(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
+{"key":"AppTT","name":"🍏图图高清1(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
 {"key":"csp_AppTT","name":"🍏图图高清2(SP)","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="},
 {"key":"csp_Lgyy","name":"💧蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
@@ -82,8 +79,7 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/金眼影视.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar"},
 {"key":"csp_xpath_789kp","name":"🦋789看片(XB)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/789影视.json"},
-{"key":"YQK_spider","name":"⚽一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,
-"ext":"https://api-tx.shumaxc.xyz","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/apple1222.jar"},
+{"key":"YQK_spider","name":"⚽一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":""},
 {"key":"Lezhu_spider","name":"🐷乐猪影视(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":""},
 {"key":"csp_Bttoo","name":"🍒两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
