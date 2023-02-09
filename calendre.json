@@ -5,8 +5,6 @@
 "spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/0206.jar",
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/XBiu.jar",(XBiu)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/QXBiu.jar",(QXBiu)
-//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar",(盘搜，一搜，小纸条)
-//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1128.jar",(百影视频)
 //"spider":"",()
 
 "wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
@@ -84,16 +82,19 @@
 {"key":"csp_xbb_金眼影视","name":"👁️金眼影视(SP)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/金眼影视.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar"},
 
+//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1128.jar",(百影视频)
 {"key":"百影视频","name":"💍百影视频(SP)","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,
-"ext":"http://47.104.99.175","jar":""},
+"ext":"http://47.104.99.175","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1128.jar"},
+
+//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar",(盘搜，一搜，小纸条)
 {"key":"AliPS","name":"🍃盘搜(仅搜索)","type":3,"api":"csp_PanSou","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,
-"ext":"http://ali.饭太硬.ml/tok","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar"},
+"ext":"http://ali.饭太硬.ml/tok","jar":""},
 {"key":"Yisou","name":"🍃一搜(仅搜索)","type":3,"api":"csp_YiSo","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,
-"ext":"http://ali.饭太硬.ml/tok","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar"},
+"ext":"http://ali.饭太硬.ml/tok","jar":""},
 {"key":"Upyunso","name":"🍃云搜(仅搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
 "ext":"http://ali.饭太硬.ml/tok"},
 {"key":"Gitcafe","name":"🍃小纸条(仅搜索)","type":3,"api":"csp_Paper","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"http://ali.饭太硬.ml/tok","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar"},
+"ext":"http://ali.饭太硬.ml/tok","jar":""},
 //jsJ版
 {"key":"drpy_js_酷云七七","name":"🎋酷云七七[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/酷云77.js"},
