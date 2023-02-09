@@ -5,7 +5,7 @@
 "spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/0206.jar",
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/XBiu.jar",(XBiu)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/QXBiu.jar",(QXBiu)
-//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/apple1222.jar",(一起看TV,鸭奈飞)
+//"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/apple1222.jar",(鸭奈飞)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/cc.jar",(盘搜，一搜，小纸条)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1128.jar",(百影视频)
 //"spider":"",()
@@ -87,8 +87,6 @@
 
 {"key":"百影视频","name":"💍百影视频(SP)","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,
 "ext":"http://47.104.99.175","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1128.jar"},
-{"key":"YQK_spider","name":"⚽一起看TV(SP)","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,
-"ext":"https://api-tx.shumaxc.xyz","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/apple1222.jar"},
 {"key":"yanetflix_spider","name":"🦆鸭奈飞(仅搜索)","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"",
 "jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/apple1222.jar"},
 {"key":"AliPS","name":"🍃盘搜(仅搜索)","type":3,"api":"csp_PanSou","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,
