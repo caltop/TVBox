@@ -45,6 +45,7 @@
 //spiderjava
 {"key":"csp_77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"BuLei","name":"⚡布雷4K(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Alist","name":"🍷Alist(搜索)","type":3,"api":"http://101.34.67.237/libs/alist.min.js","searchable":1,"quickSearch":1,"filterable":0,"jar":"",
 "ext":"http://101.34.67.237/txt/json/alist.json"},
 {"key":"py_douyu","name":"🐳斗鱼直播(PY)","type":3,"api":"py_douyu","searchable":0,"quickSearch":0,"filterable":1,
@@ -68,10 +69,12 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/dadagui.json"},
 {"key":"Lezhu_spider","name":"🐷乐猪影视(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":""},
 {"key":"csp_Bttoo","name":"🍒两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
+{"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🏭厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"360_spider","name":"🎾360影视(SP)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_xpath_789kp","name":"🦆789看片(SP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/789影视.json"},
+{"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/aiqiyi.jar",(爱奇艺)
 {"key":"csp_IQIYI","name":"🥝爱奇艺(官)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,
@@ -87,7 +90,9 @@
 
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/1128.jar",(百影视频)
 {"key":"百影视频","name":"💍百影视频(SP)","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,
-"ext":"http://47.104.99.175","jar":""},
+"ext":"http://47.104.99.175","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
+{"key":"Dy555","name":"555（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582",
+"jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/clendre2.jar",
 {"key":"csp_AList","name":"🅰AList网盘(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,
