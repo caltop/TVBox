@@ -494,9 +494,8 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 
 {"name":"OKjx嗅探","type":0,"url":"https://okjx.cc/?url="},
-{"name":"刚佬解析","type":1,"url":"https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="},
 {"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
-{"name":"rx2","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="}
+{"name":"rx2","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="}//爱奇艺专用解析
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
