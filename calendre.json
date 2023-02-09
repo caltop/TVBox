@@ -5,7 +5,7 @@
 "spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/0206.jar",
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/XBiu.jar",(XBiu)
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/QXBiu.jar",(QXBiu)
-//"spider":"",()
+
 
 "wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 //每日一言(随机显示欢迎语)
@@ -41,7 +41,6 @@
 "lives":[
 {"group":"redirect","channels":[{"name":"月夕花晨","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vd2RjNTU4L2NhbGVuZHJldHZib3gvcmF3L21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
-
 "sites":[
 //spiderjava
 {"key":"csp_77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -68,10 +67,14 @@
 {"key":"Lezhu_spider","name":"🐷乐猪影视(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":""},
 {"key":"csp_Bttoo","name":"🍒两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"plugin":""},
 {"key":"csp_CZSPP","name":"🏭厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_IQIYI","name":"🥝爱奇艺（官）","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"🎾360影视(SP)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_xpath_789kp","name":"🦆789看片(SP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/789影视.json"},
+
+//"spider":"",()
+{"key":"csp_IQIYI","name":"🥝爱奇艺（官）","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_QQ","name":"🐧腾讯（官）","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_MGTV","name":"🥭芒果（官）","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar",
 {"key":"csp_biubiu_饭团","name":"🍙饭团影视(SP)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/xo1.jar",
