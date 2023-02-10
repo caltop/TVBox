@@ -113,6 +113,8 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/星辰.js"},
 {"key":"drpy_js_秋霞","name":"💎秋霞影院[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/秋霞.js"},
+{"key":"drpy_js_子子影视","name":"💎子子影视[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/子子影视.js"},
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/clendre2.jar",
 {"key":"csp_AList","name":"🅰AList网盘(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,
 "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/calendre2.jar"},
