@@ -1,4 +1,4 @@
-muban.首图2.推荐.tabs = '.stui-pannel__head h3';
+muban.首图2.二级.tabs = '.stui-pannel__head h3';
 var rule = Object.assign(muban.首图2,{
 title:'星辰',
 host:'http://www.40yb.com',
