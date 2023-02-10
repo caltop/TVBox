@@ -62,7 +62,6 @@
 {"key":"csp_biubiu_dadagui","name":"🐢达达龟HD(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/dadagui.json"},
 {"key":"Lezhu_spider","name":"🐷乐猪影视(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"key":"csp_CZSPP","name":"🏭厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_xpath_789kp","name":"🦆789看片(SP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/789影视.json"},
 {"key":"csp_Dm84","name":"🚌动漫巴士(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
@@ -95,6 +94,8 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/爱看影视.js"},
 {"key":"drpy_js_360影视","name":"🎾360影视[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/360影视.js"},
+{"key":"drpy_js_厂长资源","name":"🏭厂长资源[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/厂长资源.js"},
 
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/clendre2.jar",
 {"key":"csp_AList","name":"🅰AList网盘(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,
@@ -144,8 +145,6 @@
 //{"key":"csp_游戏娱乐","name":"🅱️游戏娱乐(BiLi)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":""},
 
 //jsJ版
-{"key":"drpy_js_厂长资源","name":"🎋厂长资源[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/厂长资源.js"},
 {"key":"drpy_js_喵喵","name":"🎋喵喵[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/喵喵.js"},
 {"key":"drpy_js_万能影视","name":"🎋万能影视[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
