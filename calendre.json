@@ -110,6 +110,8 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/量子影视.js"},
 {"key":"drpy_js_起飞影院","name":"✈️起飞影院[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/起飞影院.js"},
+{"key":"drpy_js_星辰","name":"☄️星辰影院[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/星辰.js"},
 {"key":"drpy_js_秋霞","name":"💎秋霞影院[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/秋霞.js"},
 
