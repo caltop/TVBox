@@ -46,7 +46,7 @@
 "ext":"https://api-tx.shumaxc.xyz","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/YQK_spider.jar"},
 {"key":" 在线┃直播","name":"📺在线直播(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xBPQ_乐猪影视","name":"🐷乐猪(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/lezhutv.json"},
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/lezhutv.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/calendre3.jar"},
 {"key":"csp_XBPQ新视觉","name":"🌟视觉影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/新视觉影视.json"},
 {"key":"csp_biubiu_鸭奈飞","name":"🦆奈飞影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,
