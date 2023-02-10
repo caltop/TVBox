@@ -98,6 +98,8 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/厂长资源.js"},
 {"key":"drpy_js_喵喵","name":"😸喵喵追剧[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/喵喵.js"},
+{"key":"drpy_js_艾菲影视","name":"💋艾菲影视[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/艾菲影视.js"},
 
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/clendre2.jar",
 {"key":"csp_AList","name":"🅰AList网盘(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,
@@ -153,8 +155,6 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/视中心影视.js"},
 {"key":"drpy_js_超前点播","name":"🎋超前点播[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/超前点播.js"},
-{"key":"drpy_js_艾菲影视","name":"🎋艾菲影视[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/艾菲影视.js"},
 {"key":"drpy_js_348电影网","name":"🎋348电影网[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/348电影网.js"},
 {"key":"drpy_js_艾斯影院","name":"🎋艾斯影院[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
