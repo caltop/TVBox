@@ -94,7 +94,9 @@
 {"key":"drpy_js_布雷蓝光","name":"⚡布雷4K[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/布雷蓝光.js"},
 {"key":"drpy_js_双十电影","name":"🔟双十电影[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
-"ext":"http://101.34.67.237/js/双十电影.js"},
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/双十电影.js"},
+{"key":"drpy_js_爱看影视","name":"❤️爱看影视[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/爱看影视.js"},
 
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/clendre2.jar",
 {"key":"csp_AList","name":"🅰AList网盘(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"jumpDetail":0,"reversePlay":0,"enable":1,
