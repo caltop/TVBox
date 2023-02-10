@@ -41,7 +41,8 @@
 "sites":[
 {"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_apple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_BuLei","name":"⚡布雷4K(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_BuLei","name":"⚡布雷4K(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,
+"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/calendre0.jar"},
 {"key":"YQK_spider","name":"🏃一起电视(YQK)","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,
 "ext":"https://api-tx.shumaxc.xyz","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/YQK_spider.jar"},
 {"key":" 在线┃直播","name":"📺在线直播(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
