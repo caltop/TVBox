@@ -108,13 +108,15 @@
 "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/calendre2.jar"},
 {"key":"Zhaozy","name":"🦊找资源(SP)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/calendre2.jar"},
-//芒腾奇狗
+//爱优芒腾搜
 {"key":"drpy_js_奇珍异兽","name":"🥝爱奇艺[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/奇珍异兽.js"},
 {"key":"drpy_js_腾云驾雾","name":"🐧腾讯视频[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/腾云驾雾.js"},
 {"key":"drpy_js_百忙无果","name":"🥭芒果TV[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/百忙无果.js"},
+{"key":"drpy_js_优酷","name":"🥑优酷视频[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/优酷.js"},
 {"key":"drpy_js_菜狗","name":"🩸搜狗视频[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/菜狗.js"},
 //BILI合集
