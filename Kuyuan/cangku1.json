@@ -13,6 +13,10 @@
 "name":"肥猫(主)"
 },
 {
+"url":"https://yydsys.top/duo/v.json",
+"name":"多多(主)"
+},
+{
 "url":"https://神器每日推送.tk/pz.json",
 "name":"神器(主)"
 },
@@ -39,10 +43,6 @@
 {
 "url":"http://pandown.pro/tvbox/tvbox.json",
 "name":"巧技(备)"
-},
-{
-"url":"https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
-"name":"蚂蚁(备)"
 }
 ]
 }
