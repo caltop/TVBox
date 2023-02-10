@@ -1,4 +1,3 @@
-// 网址发布页 www.qiyoudy.info
 muban.首图2.二级.title = '.stui-content__detail&&h1&&Text;.stui-content__detail&&p:eq(0)&&Text';
 muban.首图2.二级.tabs = '.stui-pannel__head a';
 muban.首图2.二级.lists = '.stui-content__playlist:eq(#id) li';
