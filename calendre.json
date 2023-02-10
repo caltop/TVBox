@@ -39,8 +39,8 @@
 {"group":"redirect","channels":[{"name":"月夕花晨","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vd2RjNTU4L2NhbGVuZHJldHZib3gvcmF3L21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
 "sites":[
-//spiderjava
-{"key":"csp_77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"drpy_js_酷云七七","name":"👒酷云七七[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/酷云77.js"},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xBPQ_乐猪影视","name":"🐷乐猪(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/lezhutv.json"},
@@ -144,8 +144,6 @@
 //{"key":"csp_游戏娱乐","name":"🅱️游戏娱乐(BiLi)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":""},
 
 //jsJ版
-{"key":"drpy_js_酷云七七","name":"🎋酷云七七[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/酷云77.js"},
 {"key":"drpy_js_厂长资源","name":"🎋厂长资源[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/厂长资源.js"},
 {"key":"drpy_js_喵喵","name":"🎋喵喵[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
