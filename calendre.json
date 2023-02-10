@@ -72,11 +72,8 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/city电影.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/calendre1.jar"},
 {"key":"csp_xbb_金眼影视","name":"👁️金眼影视(SP)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXB/金眼影视.json","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/calendre1.jar"},
-
 //"spider":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/calendre3.jar",
 {"key":"Dy555","name":"5️⃣️555影视(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582",
-"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/calendre3.jar"},
-{"key":"IKan","name":"❤️爱看影视(SP)","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50",
 "jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/calendre3.jar"},
 
 {"key":"drpy_js_农民影视","name":"🌾农民影视[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
@@ -293,10 +290,6 @@
 {"key":"drpy_js_test","name":"🎋js测试[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/0test.js"},	
 //#精选XP和XB
-{"key":"csp_xpath_乐猪TV","name":"🐷乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/lezhutv.json"},
-{"key":"csp_xpath_HOHO","name":"🌾HOHO(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://raw.githubusercontents.com/calendre707539386/ruoshui/master/MaooXP/Hoho.json"},
 {"key":"csp_xp_gongreng","name":"👷工人影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/gongren.json"},
 {"key":"csp_xpath_UM","name":"🎗UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
