@@ -89,6 +89,8 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/饭团影视.js"},
 {"key":"drpy_js_两个BT","name":"🍒两个BT[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/两个BT.js"},
+{"key":"drpy_js_LIBVIO","name":"🔷LIBVIO[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/LIBVIO.js"},
 {"key":"drpy_js_神马影视","name":"🦄神马影视[DR]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/神马影视.js"},
 
@@ -184,8 +186,6 @@
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/360影视.js"},
 {"key":"drpy_js_AnFuns","name":"🎋AnFuns[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/AnFuns.js"},
-{"key":"drpy_js_LIBVIO","name":"🎋LIBVIO[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/LIBVIO.js"},
 {"key":"drpy_js_豆瓣","name":"🎋豆瓣[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/douban.js"},
 {"key":"drpy_js_小宝影视","name":"🎋小宝影视[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
