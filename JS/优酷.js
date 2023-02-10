@@ -7,7 +7,7 @@ var rule = {
     quickSearch:0,
     filterable:1,
     multi:1,
-    // 分类链接fypage参数支持1个()表达式
+    //分类链接fypage参数支持1个()表达式
     url:'/category/data?optionRefresh=1&pageNo=fypage&params=fyfilter',
     // url:'/category/data?pageNo=fypage&params=fyfilter',
     // filter_url:'&u=fyarea&s=fyyear={{fl.order}}',
@@ -25,11 +25,11 @@ var rule = {
     class_url:'电视剧&电影&综艺&动漫&少儿&纪录片&文化&亲子&教育&搞笑&生活&体育&音乐&游戏',
     limit:20,
     play_parse:true,
-    // 手动调用解析请求json的url,此lazy不方便
+    //手动调用解析请求json的url,此lazy不方便
     // lazy:'js:print(input);fetch_params.headers["user-agent"]=MOBILE_UA;let html=request(input);let rurl=html.match(/window\\.open\\(\'(.*?)\',/)[1];rurl=urlDeal(rurl);input={parse:1,url:rurl};',
     lazy:'js:input={parse:1,jx:1,url:input};',
-    // 推荐:'.list_item;img&&alt;img&&src;a&&Text;a&&data-float',
-    // 一级:'json:data.filterData.listData;title;img;subTitle;videoLink;summary',
+    //推荐:'.list_item;img&&alt;img&&src;a&&Text;a&&data-float',
+    //一级:'json:data.filterData.listData;title;img;subTitle;videoLink;summary',
     一级:'',
     一级:'js:let d=[];MY_FL.type=MY_CATE;let fl=stringify(MY_FL);fl=encodeUrl(fl);input=input.split("{")[0]+fl;if(MY_PAGE>1){let old_session=getItem("yk_session_"+MY_CATE,"{}");if(MY_PAGE===2){input=input.replace("optionRefresh=1","session="+encodeUrl(old_session))}else{input=input.replace("optionRefresh=1","session="+encodeUrl(old_session))}}let html=fetch(input,fetch_params);try{html=JSON.parse(html);let lists=html.data.filterData.listData;let session=html.data.filterData.session;session=stringify(session);if(session!==getItem("yk_session_"+MY_CATE,"{}")){setItem("yk_session_"+MY_CATE,session)}lists.forEach(function(it){let vid;if(it.videoLink.includes("id_")){vid=it.videoLink.split("id_")[1].split(".html")[0]}else{vid="msearch:"}d.push({title:it.title,img:it.img,desc:it.summary,url:"https://search.youku.com/api/search?appScene=show_episode&showIds="+vid,content:it.subTitle})})}catch(e){log("一级列表解析发生错误:"+e.message)}setResult(d);',
     二级:'',
