@@ -96,8 +96,6 @@
 {"key":"Dm84","name":"🦸动漫巴士(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Anime1","name":"🧟Ani影视(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"Tian","name":"🆗天天影视(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1",
-"ext":"bdc1c75081e5e477189a463baa47e392"},
 {"key":"AppTT","name":"🍏图图高清A(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1",
 "ext":"110c922de7d69804467fb83d3bb664b5"},
 {"key":"csp_AppTT","name":"🍏图图高清B(SP)","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,
