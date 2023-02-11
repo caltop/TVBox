@@ -92,7 +92,7 @@
 {"key":"哔滴影视","name":"🎵哔滴影视(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"农民","name":"🧑‍🌾农民影视(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./json/jwkui9su.json"},
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/csp_Nmys.json"},
 {"key":"Zjdr","name":"🏃追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Dm84","name":" 🦸动漫巴士(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Anime1","name":" 🧟Ani影视(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
