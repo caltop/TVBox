@@ -1,6 +1,6 @@
-
-https://alist.nn.ci/zh/guide/drivers/aliyundrive.html
-
-打开阿里云盘官网，点击进入要设置的文件夹时点击 URL 后面的字符串
-如 https://www.aliyundrive.com/drive/folder/5fe01e1830601baf774e4827a9fb8fb2b5bf7940
-这个文件夹的 file_id 即为 5fe01e1830601baf774e4827a9fb8fb2b5bf7940
+1.打开阿里云盘官网，登录。
+2.按下键盘上的F12键（或者ctrl + shift +i）
+3.打开‘开发人员工具’。
+4.依次点开：应用程序（Application）→ 本体存储（Local Storage）→ token。
+5.点开 token 之后，找到底下的 reflash_token。
+6.在 reflash_token 后面有一串代码，那就是 token 值。
