@@ -56,8 +56,13 @@
 "ext":"https://raw.githubusercontents.com/calendre707539386/ruoshui/master/XYQBiu/虎牙直播.json"},
 {"key":"csp_XYQBiu_聚合短视频","name":"🧜‍♀️视频聚合(XYQB)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"https://raw.githubusercontents.com/calendre707539386/ruoshui/master/XYQBiu/分享短视频.json"},
+
 {"key":"csp_biubiu_voflix","name":"🍐VoflixHD(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/voflix.json"},
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/voflix.json",
+"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/XBPQ.jar"},
+{"key":"mtv_XBPQ_映迷影视","name":"🐾映迷影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://raw.githubusercontents.com/calendre707539386/ruoshui/master/XBPQ/映迷影院.json",
+"jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/XBPQ.jar"},
 
 {"key":"Kuaikan","name":"👀快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Czsapp","name":"🏭厂长影视(SP)","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
@@ -68,8 +73,7 @@
 {"key":"csp_fant","name":"🍙┃饭团┃影视","type":3,"api":"csp_Fantuan","filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Dy1010","name":"❤️┃双十┃影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_panghu","name":"🐯┃胖虎┃影视","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_XBPQ_映迷影视","name":"🐾┃映迷┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://raw.githubusercontents.com/calendre707539386/ruoshui/master/XBPQ/映迷影院.json"},
+
 {"key":"云播影视","name":"🏖️┃云播┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"免嗅:1,分类url:http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}.html"},
 {"key":"csp_555","name":"5️⃣️555影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
