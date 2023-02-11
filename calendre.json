@@ -41,6 +41,10 @@
 "sites":[
 {"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_apple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_xp_gongreng","name":"👷工人影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/gongren.json"},
+{"key":"csp_xBPQ_达达龟","name":"🐢达达龟(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/ddgui.json"},
 {"key":"csp_BuLei","name":"⚡布雷4K(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 {"key":"YQK_spider","name":"🏃一起电视(YQK)","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,
 "ext":"https://api-tx.shumaxc.xyz","jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/YQK_spider.jar"},
@@ -330,11 +334,6 @@
 //测试
 {"key":"drpy_js_test","name":"🎋js测试[DRPY]","type":3,"api":"https://gitee.com/wdc558/calendretvbox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/JS/0test.js"},	
-//#精选XP和XB
-{"key":"csp_xp_gongreng","name":"👷工人影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/MaooXP/gongren.json"},
-{"key":"csp_xBPQ_达达龟","name":"🐢达达龟(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/ddgui.json"},
 //PY爬蟲
 {"key":"py_cctvfz","name":"🥇CCTV央视(PY)","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/Py/py_cctv.py"},
