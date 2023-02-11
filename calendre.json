@@ -60,7 +60,7 @@
 {"key":"csp_biubiu_voflix","name":"🍐VoflixHD(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/calendretvbox/raw/master/XBPQ/voflix.json",
 "jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/XBPQ.jar"},
-{"key":"mtv_XBPQ_映迷影视","name":"🐾映迷影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"mtv_XBPQ_映迷影视","name":"🍬映迷影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://raw.githubusercontents.com/calendre707539386/ruoshui/master/XBPQ/映迷影院.json",
 "jar":"https://gitee.com/wdc558/calendretvbox/raw/master/JAR/XBPQ.jar"},
 
@@ -87,10 +87,9 @@
 {"key":"csp_Nkdy","name":"🗽┃南柯┃影视","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🏝Aue影视(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"⏮️低端影视(SP)","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp>button","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_XBiu口袋影院","name":"📩口袋影视(SP)","type":3,"api":"csp_XBiu","ext":{"homeUrl":"http://www.koudaitv.com/type/{cateId}-{catePg}.html","playlist":{"sort":1}}},
 {"key":"csp_XBiu233动漫","name":"🦁233动漫(SP)","type":3,"api":"csp_XBiu",
 "ext":"https://www.233dm.cc/show/{cateId}--------{catePg}---.html"},
-{"key":"csp_XBiuCOKEMV","name":"🍬COK影视(SP)","type":3,"api":"csp_XBiu","ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_XBiuCOKEMV","name":"COK影视(SP)","type":3,"api":"csp_XBiu","ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"哔滴影视","name":"🎵哔滴影视(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"Zjdr","name":"🏃追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
