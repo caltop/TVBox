@@ -33,11 +33,9 @@
 "drives":[
 {"name":"月夕","server":"https://alist.52qy.repl.co/dav/","userName":"qingyuan","password":"qingyuan","type":"webdav"},
 {"name":"花晨","plugin":"alist","server":"https://alist.52qy.repl.co/","userName":"","password":"","type":"plugin"}],
-
-"lives":[
-{"group":"redirect","channels":[{"name":"月夕花晨","urls":[
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vd2RjNTU4L2NhbGVuZHJldHZib3gvcmF3L21hc3Rlci9UVi9saXZlLnR4dA=="]}]}],
-
+"lives":[{"group":"redirect","channels":[
+{"name":"月夕花晨","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vd2RjNTU4L1RWQm94L3Jhdy9tYXN0ZXIvTGl2ZS9saXZlLnR4dA=="]}]}
+],
 "sites":[
 {"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_apple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
