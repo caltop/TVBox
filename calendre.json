@@ -66,10 +66,7 @@
 
 {"key":"csp_Lib","name":"💫Lib影视(SP)","type":3,"api":"csp_Lib","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
 {"key":"Bttoo","name":"🔺Btto影视(SP)","api":"csp_Bttoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-
-{"key":"csp_fant","name":"🍙┃饭团┃影视","type":3,"api":"csp_Fantuan","filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_Dy1010","name":"❤️┃双十┃影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_panghu","name":"🐯┃胖虎┃影视","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_panghu","name":"🐯胖虎影视(SP)","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"云播影视","name":"🏖️┃云播┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"免嗅:1,分类url:http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/year/{year}.html"},
