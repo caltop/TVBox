@@ -2,7 +2,7 @@
 //无公众号，无公众号，无公众号,不引流，我是纯小白~啥也不懂，所有东西都是扒拉大佬的，只是为小白提供一个方便，希望大哥们可以高抬贵嘴~
 //感谢github的heroaku大佬的辛勤分享~
 //感谢各位大佬分享~
-"spider":"https://gitee.com/wdc558/TVBox/raw/master/JAR/calendre.jar",
+"spider":"https://gitee.com/wdc558/TVBox/raw/master/jar/calendre.jar",
 "wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 //每日一言(随机显示欢迎语)
 "dairyWords":[{"name":"rating","request":{"method":"GET","url":{"raw":"https://saying.api.azwcl.com/saying/get"}},
@@ -59,10 +59,10 @@
 
 {"key":"csp_biubiu_voflix","name":"🍐VoflixHD(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/voflix.json",
-"jar":"https://gitee.com/wdc558/TVBox/raw/master/JAR/XBPQ.jar"},
+"jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/XBPQ.jar"},
 {"key":"mtv_XBPQ_映迷影视","name":"🍬映迷影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://raw.githubusercontents.com/calendre707539386/ruoshui/master/XBPQ/映迷影院.json",
-"jar":"https://gitee.com/wdc558/TVBox/raw/master/JAR/XBPQ.jar"},
+"jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/XBPQ.jar"},
 
 {"key":"csp_Lib","name":"💫Lib影视(SP)","type":3,"api":"csp_Lib","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
 {"key":"Bttoo","name":"🔺Btto影视(SP)","api":"csp_Bttoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
@@ -71,10 +71,10 @@
 
 {"key":"csp_555","name":"5️⃣️555影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/555.json",
-"jar":"https://gitee.com/wdc558/TVBox/raw/master/JAR/XBPQ.jar"},
+"jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/XBPQ.jar"},
 
 {"key":"csp_Nkdy","name":"🗽南柯影视(SP)","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,
-"jar":"https://gitee.com/wdc558/TVBox/raw/master/JAR/XBPQ.jar"},
+"jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/XBPQ.jar"},
 
 {"key":"csp_Auete","name":"🏝Aue影视(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"⏮️低端影视(SP)","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp>button","searchable":1,"quickSearch":1,"filterable":0},
