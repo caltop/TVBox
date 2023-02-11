@@ -53,7 +53,7 @@
 {"key":"csp_XYQBiu_斗鱼","name":"🎏斗鱼直播(XYQB)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"https://raw.githubusercontents.com/calendre707539386/ruoshui/master/XYQBiu/斗鱼直播.json"},
 {"key":"csp_XYQBiu_虎牙直播","name":"🐅虎牙直播(XYQB)","type":3,"api":"XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
-"ext":"http://52bsj.vip:81/api/v3/file/get/61538/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.json?sign=A1qc233LiJtbdsY0cKQrmfOMhs74vpGD003UUVRYljM%3D%3A0"},
+"ext":"https://raw.githubusercontents.com/calendre707539386/ruoshui/master/XYQBiu/虎牙直播.json"},
 {"key":"csp_XYQBiu_聚合短视频","name":"🧜‍♀️视频聚合(XYQB)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"http://52bsj.vip:81/api/v3/file/get/61576/%E5%88%86%E4%BA%AB%E7%9F%AD%E8%A7%86%E9%A2%91.json?sign=_4eGXzEgn-jwg69sp0jcc4W8Ze2psCeMUZafTfXQ8g8%3D%3A0"},
 
