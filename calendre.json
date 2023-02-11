@@ -89,7 +89,6 @@
 {"key":"csp_DiDuan","name":"⏮️低端影视(SP)","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp>button","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_XBiu233动漫","name":"🦁233动漫(SP)","type":3,"api":"csp_XBiu",
 "ext":"https://www.233dm.cc/show/{cateId}--------{catePg}---.html"},
-{"key":"csp_XBiuCOKEMV","name":"COK影视(SP)","type":3,"api":"csp_XBiu","ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"哔滴影视","name":"🎵哔滴影视(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"Zjdr","name":"🏃追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
