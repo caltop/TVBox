@@ -44,7 +44,7 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/MaooXP/gongren.json"},
 {"key":"农民","name":"🧑‍🌾农民影视(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/MaooXP/csp_Nmys.json"},
-{"key":"csp_XBPQ花猫TV","name":"😻花猫TV(不搜)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"csp_XBPQ花猫TV","name":"😻花猫TV(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/花猫TV.json"},
 {"key":"csp_biubiu_dadagui","name":"🐢达达龟(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/MaooXP/dadagui.json"},
