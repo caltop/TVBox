@@ -85,9 +85,6 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/lezhutv.json"},
 {"key":"csp_xBPQ_达达龟","name":"🐢达达龟(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/ddgui.json"},
-{"key":"csp_555","name":"5️⃣️555影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/555.json",
-"jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/XBPQ.jar"},
 //精选DRPY
 //{"key":"drpy_js_酷云七七","name":"👒酷云七七[DR]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy.min.js",
 //"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/酷云77.js"},
