@@ -81,9 +81,6 @@
 {"key":"Zhaozy","name":"🔎找资源HD(仅搜)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt"},
 //XBPQ精选
-{"key":"csp_biubiu_voflix","name":"🍐VoflixHD(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/voflix.json",
-"jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/XBPQ.jar"},
 {"key":"csp_xBPQ_乐猪影视","name":"🐷乐猪(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/lezhutv.json"},
 {"key":"csp_xBPQ_达达龟","name":"🐢达达龟(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
