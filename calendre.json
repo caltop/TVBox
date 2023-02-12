@@ -54,7 +54,7 @@
 {"key":"csp_XYQBiu_虎牙直播","name":"🐅虎牙直播(XYQB)","type":3,"api":"XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"https://raw.githubusercontents.com/calendre707539386/ruoshui/master/XYQBiu/虎牙直播.json"},
 {"key":"csp_XYQBiu_聚合短视频","name":"🧜‍♀️视频聚合(XYQB)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
-"ext":"https://raw.githubusercontents.com/calendre707539386/ruoshui/master/XYQBiu/分享短视频.json"},
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/分享短视频.json"},
 {"key":"csp_Auete","name":"🏝Aue影视(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"⏮️低端影视(SP)","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp>button","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"哔滴影视","name":"🎵哔滴影视(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
