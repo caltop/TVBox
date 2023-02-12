@@ -140,7 +140,7 @@
 {"key":"drpy_js_百忙无果","name":"🥭芒果TV[DR]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/百忙无果.js"},
 {"key":"drpy_js_优酷","name":"🥑优酷视频[DR]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy.min.js",
-"ext":"https://raw.githubusercontents.com/calendre707539386/ruoshui/master/js/优酷.js"},
+"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/calendre707539386/ruoshui/master/js/优酷.js"},
 {"key":"drpy_js_菜狗","name":"🩸搜狗视频[DR]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/菜狗.js"},
 //BILI合集(spider java)
