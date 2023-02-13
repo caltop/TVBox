@@ -48,9 +48,9 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/花猫TV.json"},
 {"key":"csp_biubiu_dadagui","name":"🐢达达龟(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/MaooXP/dadagui.json"},
-{"key":"csp_XYQBiu_vofix","name":"🍐vofix(XYQB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"jar":"","filterable":0,
-"ext":"https://agit.ai/zqk219/baip/raw/branch/main/xyq/vofix.json"},
-{"key":"csp_XYQHiker_艾斯影院","name":"🌌艾斯影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"csp_XYQBiu_vofix","name":"🍐Vofix(XYQB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"jar":"","filterable":0,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/QXBiu/vofix.json"},
+{"key":"csp_XYQHiker_艾斯影院","name":"🫑艾斯影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/MaooXB/xyqh_艾斯影院.json"},
 
 {"key":"斗鱼虎牙哔哩网易","name":"🍬鱼牙哩易(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
