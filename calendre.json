@@ -1,5 +1,7 @@
 {
-//无公众号，无公众号，无公众号,不引流，我是纯小白~啥也不懂，所有东西都是扒拉大佬的，只是为小白提供一个方便，希望大哥们可以高抬贵嘴~
+//无公众号，无公众号，无公众号,不引流，我是纯小白~啥也不懂，所有东西都是扒拉大佬的~
+//我只是为小白提供一个方便，希望大哥们可以高抬贵嘴~
+//禁止用于商业用途~
 //感谢github的heroaku大佬的辛勤分享~
 //感谢各位大佬分享~
 "spider":"https://gitee.com/wdc558/TVBox/raw/master/jar/calendre.jar",
@@ -37,7 +39,7 @@
 {"name":"月夕花晨","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vd2RjNTU4L1RWQm94L3Jhdy9tYXN0ZXIvTGl2ZS9saXZlLnR4dA=="]}]}
 ],
 "sites":[
-//spider java
+//spiderjava
 {"key":"csp_Kunyu77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_apple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xp_gongreng","name":"👷工人影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
@@ -71,7 +73,7 @@
 {"key":"csp_Dy555","name":"5️⃣️555影视(仅搜)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xBPQ_干饭","name":"🍚干饭影视(仅搜)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"{\"免嗅\":\"1\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"module-info-introduction-content&&</div>\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3#专题$5\",\"分类url\":\"https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html\"}"},
+"ext":"{\"免嗅\":\"1\",\"导演\":\"导演：&&</div\",\"主演\":\"主演：&&</div\",\"简介\":\"module-info-introduction-content&&</div>\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3#专题$5\",\"分类url\":\"https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html\"}"},
 //阿里云盘
 {"key":"Paper","name":"📜小纸条4K(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt"},
@@ -86,8 +88,10 @@
 //XBPQ精选
 {"key":"csp_xBPQ_乐猪影视","name":"🐷乐猪(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/lezhutv.json"},
-{"key":"csp_xBPQ_达达龟","name":"🐢达达龟(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/ddgui.json"},
+{"key":"csp_xBPQ_真不卡","name":"xbpq|真不卡","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://agit.ai/zqk219/baip/raw/branch/main/xyq/真不卡.json"},
+//{"key":"csp_xBPQ_达达龟","name":"🐢达达龟(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+//"ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/ddgui.json"},
 //精选DRPY
 //{"key":"drpy_js_酷云七七","name":"👒酷云七七[DR]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy.min.js",
 //"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/酷云77.js"},
@@ -150,7 +154,7 @@
 //"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/calendre707539386/ruoshui/master/js/优酷.js"},
 {"key":"drpy_js_菜狗","name":"🩸搜狗视频[DR]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/菜狗.js"},
-//BILI合集(spider java)
+//BILI合集(spiderjava)
 {"key":"csp_哔哩全集","name":"🅱️哔哩全集(BiLi)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Bilibili/哔哩全集.json"},
 {"key":"csp_戏曲合集","name":"🅱️戏曲合集(BiLi)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,
