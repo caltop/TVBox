@@ -5,7 +5,7 @@
 //感谢github的heroaku大佬的辛勤分享~
 //感谢各位大佬分享~
 //"spider":"https://gitee.com/wdc558/TVBox/raw/master/jar/calendre.jar",（云星日记jar）
-"spider":"https://gitee.com/wdc558/TVBox/raw/master/jar/calendre.jar",
+"spider":"https://gitee.com/wdc558/TVBox/raw/master/jar/xo.jar",
 "wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 //每日一言(随机显示欢迎语)
 "dairyWords":[{"name":"rating","request":{"method":"GET","url":{"raw":"https://saying.api.azwcl.com/saying/get"}},
