@@ -93,6 +93,8 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/城市电影.json"},
 {"key":"csp_XYQBiu_聚合短视频","name":"🧜‍♀️视频聚合(XYQB)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/分享短视频.json"},
+{"key":"csp_xpath_doujiaow","name":"🥣豆角网(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/MaooXP/doujiaoW.json"},
 {"key":"csp_xpath_rttks","name":"🧑‍🤝‍🧑人人影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/MaooXP/renrenYS.json"},
 {"key":"csp_xpath_vip1280","name":"♦️VIP电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,
