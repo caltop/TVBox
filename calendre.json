@@ -63,7 +63,7 @@
 {"key":"csp_Lib","name":"💫Lib影视(SP)","type":3,"api":"csp_Lib","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
 {"key":"Bttoo","name":"🔺Btto影视(SP)","api":"csp_Bttoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_panghu","name":"🐯胖虎影视(SP)","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Dy555","name":"5️⃣️555(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Dy555","name":"5️⃣️555影视(仅搜)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nkdy","name":"🍏南柯影视(SP)","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,
 "jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/XBPQ.jar"},
 //阿里云盘
