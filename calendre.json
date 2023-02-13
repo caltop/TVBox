@@ -72,8 +72,6 @@
 {"key":"Bttoo","name":"🔺Btto影视(SP)","api":"csp_Bttoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Dy555","name":"5️⃣️555影视(仅搜)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xBPQ_干饭","name":"🍚干饭影视(仅搜)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/干饭影视.json"},
 //阿里云盘
 {"key":"Paper","name":"📜小纸条4K(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt"},
@@ -94,6 +92,8 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/胖虎影视.json"},
 //{"key":"csp_xBPQ_达达龟","name":"🐢达达龟(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 //"ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/ddgui.json"},
+//{"key":"csp_xBPQ_干饭","name":"🍚干饭影视(仅搜)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+//"ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/干饭影视.json"},（待修）
 //精选DRPY
 //{"key":"drpy_js_酷云七七","name":"👒酷云七七[DR]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy.min.js",
 //"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/酷云77.js"},
