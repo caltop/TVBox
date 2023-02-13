@@ -63,6 +63,7 @@
 {"key":"csp_Lib","name":"💫Lib影视(SP)","type":3,"api":"csp_Lib","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
 {"key":"Bttoo","name":"🔺Btto影视(SP)","api":"csp_Bttoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_panghu","name":"🐯胖虎影视(SP)","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Dy555","name":"5️⃣️555(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nkdy","name":"🍏南柯影视(SP)","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,
 "jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/XBPQ.jar"},
 //阿里云盘
@@ -86,8 +87,8 @@
 //"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/酷云77.js"},
 {"key":"drpy_js_喜马拉雅","name":"⛑️喜马拉雅[DR]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/喜马拉雅.js"},
-{"key":"drpy_js_农民影视","name":"🧑‍🌾农民影视[DR]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy.min.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/农民影视.js"},
+//{"key":"drpy_js_农民影视","name":"🧑‍🌾农民影视[DR]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy.min.js",
+//"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/农民影视.js"},
 {"key":"drpy_js_Voflix","name":"🍐VoflixHD[DR]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/Voflix.js"},
 {"key":"drpy_js_奇优影院","name":"🍅奇优影院[DR]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy.min.js",
