@@ -60,7 +60,7 @@
 "ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/calendre707539386/ruoshui/master/XYQBiu/斗鱼直播.json"},
 //{"key":"csp_XYQBiu_虎牙直播","name":"🐅虎牙直播(XYQB)","type":3,"api":"XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
 //"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/calendre707539386/ruoshui/master/XYQBiu/虎牙直播.json"},
-{"key":"csp_Auete","name":"🏝Aue影视(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Auete","name":"🏝Auete影视(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"⏮️低端影视(SP)","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp>button","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"哔滴影视","name":"🎵哔滴影视(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Zjdr","name":"🏃追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
