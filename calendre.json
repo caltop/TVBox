@@ -70,7 +70,7 @@
 {"key":"csp_Dy555","name":"5️⃣️555影视(仅搜)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xBPQ_干饭","name":"🍀干饭（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"{\"免嗅\":\"1\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"module-info-introduction-content&&</div>\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3#专题$5\",\"分类url\":\"https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html\"}"},
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/干饭影视.txt"},
 //阿里云盘
 {"key":"Paper","name":"📜小纸条4K(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt"},
