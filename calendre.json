@@ -48,6 +48,10 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/花猫TV.json"},
 {"key":"csp_biubiu_dadagui","name":"🐢达达龟(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/MaooXP/dadagui.json"},
+
+{"key":"csp_XYQHiker_艾斯影院","name":"🌌艾斯影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/MaooXB/xyqh_艾斯影院.json"},
+
 {"key":"斗鱼虎牙哔哩网易","name":"🍬鱼牙哩易(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XYQBiu_斗鱼","name":"🎏斗鱼直播(XYQB)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/calendre707539386/ruoshui/master/XYQBiu/斗鱼直播.json"},
@@ -64,6 +68,7 @@
 {"key":"Bttoo","name":"🔺Btto影视(SP)","api":"csp_Bttoo","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_panghu","name":"🐯胖虎影视(SP)","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy555","name":"5️⃣️555影视(仅搜)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kuaikan","name":"👀快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nkdy","name":"🍏南柯影视(SP)","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,
 "jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/XBPQ.jar"},
 //阿里云盘
