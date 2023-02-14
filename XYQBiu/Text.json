@@ -13,23 +13,25 @@
 "列表标题": "alt=\"$$\"",
 "列表副标题": "class=\"module-item-note\">$$</div>",
 "列表链接": "href=\"$$\"",
+
 "搜索模式": "0",
 "搜索前": "/index.php/ajax/suggest?mid=1&wd=",
 "搜索后": "&limit=500",
 "搜索连接后缀": "/index.php/detail/",
 "搜索二次截取": "class=\"module-items$$id=\"page\"",
 "搜索截取数组": "<a$$</a>",
-"搜索图片前缀": "空",
 "搜索图片": "original=\"$$\"",
 "搜索标题": "title=\"$$\"",
 "搜索副标题": "class=\"module-item-note\">$$</div>",
 "搜索链接": "href=\"$$\"",
+
 "启用线路名": "1",
 "线路名截取数组": "data-dropdown-value=\"$$<small>",
 "线路名标题": "<span>$$</span>",
+
 "播放页状态": "更新：</span>$$</div>",
 "播放页导演": "导演：</span>$$</div>",
 "播放页演员": "主演：</span>$$</div>",
 "播放页剧情": "style=\"line-height: 20px;\">$$</div>",
-"播放页截取数组": "id=\"panel1\"$$</div>"
+"播放页截取数组": ""
 }
