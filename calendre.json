@@ -367,7 +367,7 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/0Text.json"},
 {"key":"csp_XYQBiu_测试","name":"🌌测试(XYQB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/0Text.json"},
-{"key":"csp_biubiu_test","name":"💦xb测试(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"csp_biubiu_test","name":"💦XB测试(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/0Text.json","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/calendreXB.jar"},
 {"key":"csp_xb_test","name":"💠测试(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/0Text.json","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/calendreXB.jar"},
