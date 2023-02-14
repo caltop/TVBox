@@ -72,7 +72,7 @@
 {"key":"csp_Dy555","name":"5️⃣️555影视(仅搜)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_BuLei","name":"⚡布雷4K(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_XBPQ_金眼影视","name":"👲金眼影视(XBPQ)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
+{"key":"csp_XBPQ_金眼影视","name":"👲金眼影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/XBPQ_金眼影视.json"},
 //阿里云盘
 {"key":"Paper","name":"📜小纸条4K(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,
