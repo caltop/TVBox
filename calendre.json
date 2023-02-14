@@ -61,6 +61,7 @@
 "ext":"http://cdn.饭太硬.ga/x/XYQ/斗鱼直播.json"},
 {"key":"csp_XYQHiker_虎牙直播","name":"🐯虎牙(XYQH)","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"http://cdn.饭太硬.ga/x/XYQ/虎牙直播.json"},
+{"key":"csp_Xinsj","name":"🐼新视觉┃SP","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
 {"key":"csp_Auete","name":"🏝Auete影视(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"⏮️低端影视(SP)","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp>button","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"哔滴影视","name":"🎵哔滴影视(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
