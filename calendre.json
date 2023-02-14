@@ -356,14 +356,15 @@
 {"key":"csp_xBPQ_F7好看剧","name":"🥈F7好看剧(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/F7好看剧.json"},
 //测试
-{"key":"csp_xBPQ_test测试","name":"🍂测试xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://share.nite07.com/api/v3/file/source/38591/Test.json?sign=UgCYiQiyuGnyPzifgPN7jJtm6iRpoQM4n3S-LbbJ-ec%3D%3A0"},
+{"key":"csp_xBPQ_test测试","name":"🍂测试(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/Text.json"},
 {"key":"csp_biubiu_test","name":"💦xb测试(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://share.nite07.com/api/v3/file/source/38591/Test.json?sign=UgCYiQiyuGnyPzifgPN7jJtm6iRpoQM4n3S-LbbJ-ec%3D%3A0"},
-{"key":"csp_XYQBiu_测试","name":"🌌测试(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://share.nite07.com/api/v3/file/source/38591/Test.json?sign=UgCYiQiyuGnyPzifgPN7jJtm6iRpoQM4n3S-LbbJ-ec%3D%3A0"},
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/Text.json"},
+{"key":"csp_XYQBiu_测试","name":"🌌测试(XYQB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/Text.json"},
 {"key":"csp_xb_test","name":"💠测试(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://share.nite07.com/api/v3/file/source/38591/Test.json?sign=UgCYiQiyuGnyPzifgPN7jJtm6iRpoQM4n3S-LbbJ-ec%3D%3A0"},
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/Text.json"},
+
 {"key":"csp_xpath_测试","name":"🌾测试(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://github.com/heroaku/TVboxo/raw/main/Js/xx/xpthtest.json"},
 {"key":"drpy_js_p_test","name":"🌺pl测试[js]","type":3,"api":"https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js",
@@ -374,6 +375,7 @@
 "ext":"https://github.com/heroaku/TVboxo/raw/main/Js/xx/jstest.js"},
 {"key":"csp_测试","name":"🐞测试","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,
 "jar":"https://github.com/heroaku/TVboxo/raw/main/Jar/1018.jar"}
+
 ],
 "parses":[
 {"name":"聚合解析","type":3,"url":"Demo"},
