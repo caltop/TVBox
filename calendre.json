@@ -84,6 +84,8 @@
 {"key":"Zhaozy","name":"🔎找资源HD(仅搜)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt"},
 //XYQHiker(海阔视界)
+{"key":"csp_XYQHiker_voflixHD","name":"🍐voflixHD(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/voflixHD.json"},
 {"key":"csp_XYQHiker_艾斯影院","name":"🫑艾斯(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/艾斯影院.json"},
 {"key":"csp_XYQH野马","name":"️🍷野马(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
