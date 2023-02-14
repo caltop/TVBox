@@ -25,7 +25,7 @@
 "搜索副标题": "class=\"module-item-note\">$$</div>",
 "搜索链接": "href=\"$$\"",
 
-"启用线路名": "",
+"启用线路名": "1",
 "线路名截取数组": "data-dropdown-value=\"$$<small>",
 "线路名标题": "<span>$$</span>",
 
