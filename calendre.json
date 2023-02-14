@@ -91,6 +91,8 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/XBPQ_真不卡.json"},
 {"key":"csp_xBPQ_乐猪影视","name":"🐷乐猪(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/XBPQ_lezhutv.json"},
+{"key":"csp_xBPQ_冷曦影视","name":"🔮冷曦(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/XBPQ_冷曦影视.json"},
 {"key":"csp_xBPQ_胖虎影视","name":"🐯胖虎(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/XBPQ_胖虎影视.json"},
 {"key":"csp_XYQBiu_城市电影","name":"🏙️城市电影(XYQB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"jar":"","filterable":0,
