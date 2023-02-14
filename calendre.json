@@ -88,6 +88,8 @@
 {"key":"Zhaozy","name":"🔎找资源HD(仅搜)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt"},
 //精选接口
+{"key":"csp_XYQHiker_饭团影视","name":"🍘饭团影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/饭团影视.json"},
 {"key":"csp_xBPQ_真不卡","name":"🧼真不卡(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/XBPQ_真不卡.json"},
 {"key":"csp_xBPQ_乐猪影视","name":"🐷乐猪(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
