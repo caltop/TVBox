@@ -47,8 +47,6 @@
 //"ext":"https://gitee.com/wdc558/TVBox/raw/master/MaooXP/gongren.json"},
 {"key":"农民","name":"🧑‍🌾农民影视(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/MaooXP/csp_Nmys.json"},
-{"key":"csp_BuLei","name":"⚡布雷4K(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,
-"jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/xiaofan.jar"},
 {"key":"csp_XBPQ花猫TV","name":"😻花猫TV(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/花猫TV.json"},
 {"key":"csp_biubiu_dadagui","name":"🐢达达龟(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,
@@ -72,6 +70,7 @@
 {"key":"csp_Bttoo","name":"🔺Btto影视(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy555","name":"5️⃣️555影视(仅搜)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_BuLei","name":"⚡布雷4K(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xbb_金眼影视","name":"🍀金眼影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/MaooXB/金眼影视.json","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/calendrexo.jar"},
 //阿里云盘
