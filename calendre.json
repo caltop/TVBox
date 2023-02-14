@@ -54,6 +54,8 @@
 {"key":"csp_Vofl","name":"🍐VoflixHD(SP}","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XYQHiker_艾斯影院","name":"🫑艾斯影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/MaooXB/xyqh_艾斯影院.json"},
+{"key":"csp_biubiu_test","name":"💦xb测试(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,
+"ext": "https://gitee.com/wdc558/TVBox/raw/master/MaooXB/乐猪影视.json"},
 {"key":"斗鱼虎牙哔哩网易","name":"🍬鱼牙哩易(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼(XYQB)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://cdn.饭太硬.ga/x/XYQ/斗鱼直播.json"},
 {"key":"csp_XYQHiker_虎牙直播","name":"🐯虎牙(XYQH)","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://cdn.饭太硬.ga/x/XYQ/虎牙直播.json"},
