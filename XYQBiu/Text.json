@@ -1,12 +1,9 @@
 {
-
+"网站地址": "https://www.jiketv.com",
 "启用线路名": "1",
 "线路名二次截取": "空",
 "线路名截取数组": "data-dropdown-value=\"$$<small>",
 "线路名标题": "<span>$$</span>",
 
-"副标题":"class=\"pic-text\">&&</span>",
-
-"播放数组":"class=\"stui-content__playlist&&</div>",
-"分类url":"https://www.jiketv.com/type/{cateId}-{catePg}.html"
+"副标题":"class=\"pic-text\">&&</span>"
 }
