@@ -1,5 +1,8 @@
 {
 "网站地址": "https://www.jiketv.com",
+"访问请求ua": "Mozilla/5.0 (Linux; Android 12; PFDM00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
+
+
 "启用线路名": "1",
 "线路名二次截取": "空",
 "线路名截取数组": "data-dropdown-value=\"$$<small>",
