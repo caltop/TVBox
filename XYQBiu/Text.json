@@ -25,9 +25,14 @@
 "搜索副标题": "class=\"module-item-note\">$$</div>",
 "搜索链接": "href=\"$$\"",
 
-"启用线路名": "2",
-"线路名截取数组": "data-dropdown-value=\"$$<small>",
+"启用线路名": "1",
+//"线路名截取数组": "data-dropdown-value=\"$$<small>",
 "线路名标题": "<span>$$</span>",
+
+"线路数组": "rel=\"nofollow\"&&</a>",
+//"线路数组":"tab\"&&/a>",
+"播放数组":"id=\"playlist&&</ul",
+
 
 "播放页状态": "更新：</span>$$</div>",
 "播放页导演": "导演：</span>$$</div>",
