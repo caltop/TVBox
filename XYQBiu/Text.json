@@ -32,6 +32,10 @@
 
 "启用线路名": "1",
 "线路名二次截取": "空",
-"线路名截取数组": "data-dropdown-value=\"$$<small>",
+//"线路名截取数组": "data-dropdown-value=\"$$<small>",
+
+"线路名截取数组前": "class=\"module-tab-item tab-item",
+"线路名截取数组后": "</div>",
+
 "线路名标题": "<span>$$</span>"
 }
