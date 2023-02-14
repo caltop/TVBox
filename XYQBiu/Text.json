@@ -3,6 +3,11 @@
 "访问请求ua": "Mozilla/5.0 (Linux; Android 12; PFDM00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
 "播放请求头": "User-Agent$123",
 "嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": ".html#51.la#cnzz.com#baidu.com#bilibili.com",
+"列表起始页": "1",
+"列表分类": "电视剧$/index.php/show/2/page/#电影$/index.php/show/1/page/#动漫$/index.php/show/4/page/#综艺$/index.php/show/3/page/",
+"列表后缀": ".html",
+
 
 
 "搜索模式": "0",
