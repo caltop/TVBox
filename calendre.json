@@ -179,7 +179,7 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/大师兄影视.json"},
 {"key":"csp_XYQBiu_大米星球","name":"🌾大米(XYQB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/大米星球.json"},
-{"key":"csp_XYQBiu_酷客影视","name":"ღ酷客(XYQB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"csp_XYQBiu_酷客影视","name":"🍜酷客(XYQB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/酷客影视.json"},
 
 {"key":"csp_XYQBiu_七小时影院","name":"七小时影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
