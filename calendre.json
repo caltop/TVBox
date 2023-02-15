@@ -47,7 +47,7 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/子子影视.json"},
 {"key":"csp_XYQBiu_花猫TV","name":"😻花猫TV(XYQB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/花猫TV.json"},
-{"key":"csp_Alist1","name":"🅿Alist(SP)","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,
+{"key":"csp_Alist1","name":"🅿Alist(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/Alist.json","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/custom_spider.jar"},
 {"key":"csp_AppTT","name":"⚗️图图(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
