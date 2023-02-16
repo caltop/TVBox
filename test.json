@@ -40,7 +40,7 @@
 {"name":"月夕花晨","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vd2RjNTU4L1RWQm94L3Jhdy9tYXN0ZXIvTGl2ZS9saXZlLnR4dA=="]}]}
 ],
 "sites":[
-//spiderjava和精选
+//spiderjava
 {"key":"csp_Kuyun77","name":"👒七七(SP)","type":3,"api":"csp_Kuyun77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XB_金眼影视","name":"👲金眼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/金眼影视.json"},
@@ -49,8 +49,9 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/alist.json"},
 {"key":"csp_AppTT","name":"⚗️图图(SP)","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
+{"key":"csp_Ys555","name":"㊄️555(SP)","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Vofl","name":"🍐Voflix(SP)","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"斗鱼虎牙哔哩网易","name":"🕎平台(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"斗鱼虎牙哔哩网易","name":"🕎网红直播(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"🎾360影视(SP)","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Xinsj","name":"🏓新视觉(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
 {"key":"csp_Auete","name":"🏝Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
@@ -69,8 +70,6 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt"},
 {"key":"Zhaozy","name":"🔎找资源HD(仅搜)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt"},
-{"key":"csp_Dy555搜索","name":"㊄️555(SP)","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1},
-
 
 {"key":"Zjdr","name":"🏃追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 //XYQHiker(海阔视界)
