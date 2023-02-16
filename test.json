@@ -41,7 +41,7 @@
 ],
 "sites":[
 //spiderjava和精选
-{"key":"csp_Kuyun77","name":"👒酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kuyun77","name":"👒七七(SP)","type":3,"api":"csp_Kuyun77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XB_金眼影视","name":"👲金眼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/金眼影视.json"},
 {"key":"csp_apple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
