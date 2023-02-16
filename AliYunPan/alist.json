@@ -21,16 +21,6 @@
 "server": "https://pan.bashroot.top"
 },
 
-
-{
-"name": "晴园",
-"server": "https://alist.52qy.repl.co"
-},
-{
-"name": "米奇",
-"server": "https://anime.mqmmw.ga"
-},
-
 {
 "name": "一只鱼",
 "server": "https://alist.youte.ml"
@@ -44,20 +34,24 @@
 "server": "https://quanzi.laoxianghuijia.cn"
 },
 {
-"name": "姬路白雪",
-"server": "https://pan.jlbx.xyz"
-},
-{
-"name": "神族九帝",
+"name": "九帝",
 "server": "https://alist.shenzjd.com"
 },
 {
-"name": "資源小站",
-"server": "https://960303.xyz"
+"name": "姬雪",
+"server": "https://pan.jlbx.xyz"
+},
+{
+"name": "米奇",
+"server": "https://anime.mqmmw.ga"
 },
 {
 "name": "DISK",
 "server": "http://124.222.140.243:8080"
+},
+{
+"name": "讯维",
+"server": "https://pan.xwbeta.com"
 }
 ]
 }
