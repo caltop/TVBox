@@ -72,15 +72,36 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt"},
 
 {"key":"Zjdr","name":"🏃追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
+
+//爱优芒腾搜(DRPY)
+//{"key":"drpy_js_奇珍异兽","name":"🥝爱奇艺[DR]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy.min.js",
+//"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/奇珍异兽.js"},
+//{"key":"drpy_js_腾云驾雾","name":"🐧腾讯视频[DR]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy.min.js",
+//"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/腾云驾雾.js"},
+//{"key":"drpy_js_百忙无果","name":"🥭芒果TV[DR]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy.min.js",
+//"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/百忙无果.js"},
+//{"key":"drpy_js_优酷","name":"🥑优酷视频[DR]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy.min.js",
+//"ext":"https://gh.api.99988866.xyz/https://raw.githubusercontent.com/calendre707539386/ruoshui/master/js/优酷.js"},
+//{"key":"drpy_js_菜狗","name":"🩸搜狗视频[DR]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy.min.js",
+//"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/菜狗.js"},
+
 //XYQHiker(海阔视界)
 {"key":"csp_XYQHiker_voflixHD","name":"🍐Voflix(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/voflixHD.json"},
+//{"key":"csp_XYQHiker_饭团影视","name":"🍙饭团(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+//"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/饭团影视.json"},
+//{"key":"csp_XYQHiker_野荷塘影院","name":"🍀野荷塘(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+//"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/野荷塘影院.json"},
+//{"key":"csp_XYQHiker_布蕾蓝光影城","name":"⚡布蕾(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+//"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/布蕾蓝光影城.json"},
+//{"key":"csp_XYQHiker_耐看点播","name":"🪗耐看(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+//ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/耐看点播.json"},
 //XYQBiu规则
 {"key":"csp_XYQBiu_石榴电影","name":"🌰石榴(XYQB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/石榴电影.json"},
 //精选接口
-{"key":"csp_xBPQ_冷曦影视","name":"🔮冷曦(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/XBPQ_冷曦影视.json"},
+//{"key":"csp_xBPQ_胖虎影视","name":"🐯胖虎(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+//"ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/XBPQ_胖虎影视.json"},
 //爱优芒腾搜(DRPY)
 {"key":"drpy_js_奇珍异兽","name":"🥝爱奇艺[DR]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/奇珍异兽.js"},
