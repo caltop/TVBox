@@ -86,6 +86,14 @@
 //"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/菜狗.js"},
 
 //XYQHiker(海阔视界)
+{"key":"csp_XYQBiu_神马","name":"🦄神马(XYQB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/神马影院.json"},
+{"key":"csp_XYQBiu_COKEMV影视","name":"🍡COKEMV(XYQB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/COKEMV.json"},
+{"key":"csp_XYQBiu_Auete影视","name":"⚗️Auete(XYQB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/Auete影视.json"},
+{"key":"csp_XYQHiker_厂长影视","name":"🏭厂长(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/厂长影视.json"},
 {"key":"csp_XYQHiker_voflixHD","name":"🍐Voflix(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/voflixHD.json"},
 //{"key":"csp_XYQHiker_饭团影视","name":"🍙饭团(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
