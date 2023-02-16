@@ -57,7 +57,7 @@
 {"key":"csp_DiDuan","name":"⏮️低端(SP)","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp>button","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Zjdr","name":"🏃追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 {"key":"Anime1","name":"🧟Ani(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Bttoo","name":"🔺Btto(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bttwoo","name":"🔺Btto(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 //阿里云盘
 {"key":"Paper","name":"📜小纸条4K(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,
