@@ -5,7 +5,7 @@
 //感谢github的heroaku大佬的辛勤分享~
 //感谢各位大佬分享~
 //目前用的云星jar
-"spider":"https://gitee.com/wdc558/TVBox/raw/master/jar/calendre.jar",
+"spider":"https://gitee.com/wdc558/TVBox/raw/master/jar/calendre.jar;md5;5C0F98F8791CF2EB4AAAA1BEA1B8CD9F",
 "wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 //每日一言(随机显示欢迎语)
 "dairyWords":[{"name":"rating","request":{"method":"GET","url":{"raw":"https://saying.api.azwcl.com/saying/get"}},
