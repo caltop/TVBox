@@ -92,7 +92,7 @@
 {"key":"UpYun","name":"⛅UP云搜4K(仅搜)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt"},
 {"key":"PanSou","name":"🔍盘搜4K(仅搜)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/calendre0.jar"},
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/0214fty.jar"},
 {"key":"Zhaozy","name":"🔎找资源HD(仅搜)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt"},
 //爱优芒腾
