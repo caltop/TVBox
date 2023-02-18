@@ -4,7 +4,7 @@
 //禁止用于商业用途~
 //感谢github的heroaku大佬的辛勤分享~
 //感谢各位大佬分享~
-"spider":"https://gitee.com/wdc558/TVBox/raw/master/jar/0217fty.jar;md5;69DD9E68B15E7EBFB70B0F21E732414C",
+"spider":"https://gitee.com/wdc558/TVBox/raw/master/jar/Yuexihuachen.jar;md5;69DD9E68B15E7EBFB70B0F21E732414C",
 "wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 //每日一言(随机显示欢迎语)
 "dairyWords":[{"name":"rating","request":{"method":"GET","url":{"raw":"https://saying.api.azwcl.com/saying/get"}},
@@ -40,7 +40,7 @@
 ],
 "sites":[
 //spiderjava和精选
-{"key":"csp_Kuyun77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kuyun77","name":"👒七七(SP)","type":3,"api":"csp_Kuyun77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_apple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Vofl","name":"🍐Voflix(SP)","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"⚗️图图(SP)","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,
