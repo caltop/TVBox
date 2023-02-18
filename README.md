@@ -17,7 +17,7 @@ TVBox的自用资源
 CatVodTVOfficial/TVBoxOSC
 
 #### 安装教程
-
+#### 77短链：https://77url.com/user
 #### 使用说明
 
 #### 参与贡献
