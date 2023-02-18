@@ -40,7 +40,7 @@
 ],
 "sites":[
 //spiderjava和精选
-{"key":"csp_Kuyun77","name":"👒七七(SP)","type":3,"api":"csp_Kuyun77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kuyun77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_apple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Vofl","name":"🍐Voflix(SP)","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"⚗️图图(SP)","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,
