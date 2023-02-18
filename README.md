@@ -3,7 +3,7 @@
 #### 介绍
 
 备用平台：https://codeberg.org/Calendre/TVBox
-#### (Codeberg):基于 Gitea，欧盟(德国)开发者维护.
+# (Codeberg):基于 Gitea，欧盟(德国)开发者维护.
 
 云破月来花弄影
 
