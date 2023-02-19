@@ -35,8 +35,8 @@
 "drives":[
 {"name":"月夕","server":"https://alist.52qy.repl.co/dav/","userName":"qingyuan","password":"qingyuan","type":"webdav"},
 {"name":"花晨","plugin":"alist","server":"https://alist.52qy.repl.co/","userName":"","password":"","type":"plugin"}],
-"lives":[{"group":"redirect","channels":[
-{"name":"月夕花晨","playerType":1,"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvQ2FsZW5kcmUvVFZCb3gvcmF3L2JyYW5jaC9tYWluL0xpdmUvbGl2ZS50eHQ="]}]}
+"lives":[{"group":"redirect","playerType":1,"channels":[
+{"name":"月夕花晨","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvQ2FsZW5kcmUvVFZCb3gvcmF3L2JyYW5jaC9tYWluL0xpdmUvbGl2ZS50eHQ="]}]}
 ],
 "sites":[
 //spiderjava和精选
