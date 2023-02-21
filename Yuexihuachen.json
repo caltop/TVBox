@@ -250,8 +250,6 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Bilibili/儿童乐园.json"},
 {"key":"csp_软件教程","name":"🈴软件(Bili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Bilibili/软件教程.json"},
-{"key":"csp_游戏","name":"🈴游戏(Bili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
-"ext":"https://codeberg.org/Calendre/TVBox/raw/branch/main/Bilibili/游戏.json"},
 {"key":"csp_娱乐","name":"🈴娱乐(Bili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://codeberg.org/Calendre/TVBox/raw/branch/main/Bilibili/娱乐.json"},
 //PY爬蟲
