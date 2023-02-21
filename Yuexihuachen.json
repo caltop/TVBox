@@ -255,7 +255,7 @@
 {"key":"py_cctvfz","name":"🥇CCTV(PY)","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Py/py_cctv.py"},
 {"key":"py_cctv","name":"🥇自选(PY)","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/Py/py_cctv.py"}
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/Py/py_cctv.py"},
 {"key":"py_cctvzh","name":"🥇综合(PY)","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Py/py_cctvzh.py"},
 {"key":"py_cctvxw","name":"🥇新闻(PY)","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,
