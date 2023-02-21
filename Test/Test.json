@@ -1,4 +1,4 @@
-{"name": "低端影视",
+{"name": "金眼",
   "url": "http://www.jinyanw.com/",
   "tihuan": "cnzz.com", 
   "User": "空", 
@@ -21,6 +21,7 @@
 
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
+  "搜索模式":"1",
   "sousuohouzhui": "/voddetail/", 
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
