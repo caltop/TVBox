@@ -24,7 +24,7 @@ CatVodTVOfficial/TVBoxOSC
 
 1.  CatVodTVOfficial/TVBoxOSC
 
-2.  https://framagit.org/lzk23559/tvbox（香佬本地包）
+2.  https://framagit.org/lzk23559/tvbox （香佬本地包）
 
 3.  heroaku/TVboxo
 
