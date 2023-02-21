@@ -84,8 +84,6 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/alist.json"},
 {"key":"Paper","name":"📜纸条4K(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt"},
-{"key":"Gitcafe","name":"🔖纸条4K(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt"},
 {"key":"YiSo","name":"💌易搜4K(SP)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt"},
 {"key":"UpYun","name":"⛅云搜4K(SP)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,
