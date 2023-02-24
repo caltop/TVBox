@@ -88,7 +88,7 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt"},
 {"key":"UpYun","name":"⛅云搜4K(SP)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt"},
-{"key":"PanSou","name":"🔍盘搜4K(SP)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"AliPS","name":"🔍盘搜4K(SP)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./alitoken.txt",
 "jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/XYQ_Ali.jar"},
 {"key":"Zhaozy","name":"🔎资源4K(SP)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,
