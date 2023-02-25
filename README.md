@@ -24,9 +24,9 @@ CatVodTVOfficial/TVBoxOSC
 
 1.  CatVodTVOfficial/TVBoxOSC
 
-2.  https://framagit.org/lzk23559/tvbox （香佬本地包）
+2.  https://framagit.org/lzk23559/tvbox （香佬仓库）
 
-3.  heroaku/TVboxo
+3.  https://gitcode.net/qq_32394351/dr_py/-/tree/master (道长仓库)
 
 #### 特技
 
