@@ -110,6 +110,8 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/子子影视.json"},
 {"key":"csp_XYQHiker_HDmoli","name":"🍅HDmoli(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/HDmoli.json"},
+{"key":"csp_XYQHiker_柠檬TV","name":"🍅柠檬TV(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/柠檬TV.json"},
 {"key":"csp_XYQHiker_布蕾蓝光影城","name":"⚡布蕾(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/布蕾蓝光影城.json"},
 {"key":"csp_XYQHiker_乐猪影视","name":"🐷乐猪(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
