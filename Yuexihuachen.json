@@ -84,7 +84,7 @@
 //阿里云盘
 {"key":"csp_Alist1","name":"🅿Alist(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/alist.json"},
-{"key":"csp_Paper","name":"🍃纸条4K(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":0,"filterable":0,
+{"key":"csp_Paper","name":"🍃纸条4K(SP)","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/Ali_token.txt"},
 {"key":"Gitcafe","name":"📜纸条4K(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/Ali_token.txt","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/XYQ_Ali.jar"},
