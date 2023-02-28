@@ -97,7 +97,7 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/Ali_token.txt"},
 {"key":"Zhaozy","name":"🔎资源4K(SP)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/Ali_token.txt"},
-{"key":"Push","name":"🍭推送4K(SP)","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":0,
+{"key":"push_agent","name":"🍭推送4K(SP)","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/Ali_token.txt"},
 //爱优芒腾
 {"key":"360_spider","name":"🎾360影视(SP)","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
