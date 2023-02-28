@@ -109,7 +109,7 @@
 {"key":"csp_Nbys","name":"🔰泥视频(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_trj","name":"🔰唐人街(墙外)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 //XYQHiker(海阔视界)
-{"key":"csp_XYQHiker_极客影视","name":"🧑‍🏫极客4K(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"csp_XYQHiker_极客影视","name":"🧑‍🏫极客(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/极客影视.json"},
 {"key":"csp_XYQHiker_子子影视","name":"🍏子子(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/子子影视.json"},
