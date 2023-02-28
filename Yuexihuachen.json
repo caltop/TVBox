@@ -37,13 +37,13 @@
 {"name":"花晨","plugin":"alist","server":"https://alist.52qy.repl.co/","userName":"","password":"","type":"plugin"}],
 //直播
 "lives":[{"group":"redirect","playerType":1,"channels":[
-{"name":"月夕花晨","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvQ2FsZW5kcmUvVFZCb3gvcmF3L2JyYW5jaC9tYWluL0xpdmUvbGl2ZS50eHQ="]}]}
+{"name":"月夕花晨","playerType":1,"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvQ2FsZW5kcmUvVFZCb3gvcmF3L2JyYW5jaC9tYWluL0xpdmUvbGl2ZS50eHQ="]}]}
 ],
 "sites":[
 //spiderjava和精选
 {"key":"js豆瓣","name":"📌豆瓣(DR)","type":3,"searchable":0,"quickSearch":0,"filterable":1,
 "api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/douban.js"},
-{"key":"csp_Kuyun77","name":"👒七七(SP)","type":3,"api":"csp_Kuyun77","playerType":3,"searchable":1,"quickSearch":1,"filterable":1,
+{"key":"csp_Kuyun77","name":"👒七七(SP)","type":3,"api":"csp_Kuyun77","searchable":1,"quickSearch":1,"filterable":1,
 "jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/0206.jar"},
 {"key":"csp_apple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Vofl","name":"🍐Voflix(SP)","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
