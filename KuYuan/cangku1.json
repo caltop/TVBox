@@ -5,8 +5,12 @@
 "name":"🌙夕🌸晨(自)"
 },
 {
+"url":"https://codeberg.org/Calendre/TVBox/raw/branch/main/calendre.json",
+"name":"🌙夕🌸晨(备)"
+},
+{
 "url":"https://gitee.com/wdc558/TVBox/raw/master/Zhiyunyan.json",
-"name":"所有接口均免费(测试)"
+"name":"所有接口均免费(测)"
 },
 {
 "url":"http://饭太硬.ga/x/o.json",
