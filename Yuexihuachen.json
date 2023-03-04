@@ -212,7 +212,7 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/XBPQ_冷曦影视.json"},
 {"key":"csp_xpath_doujiaow","name":"🥣豆角(XPM)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/doujiaoW.json"},
-{"key":"csp_xpath_rttks","name":"🧑‍⚕️人人(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,
+{"key":"csp_xpath_rttks","name":"🙍人人(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/renrenYS.json"},
 {"key":"csp_xpath_vip1280","name":"♦️VIP(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/vip1280.json"},
