@@ -168,7 +168,7 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/DJ呦呦音乐网.json"},
 {"key":"csp_XYQHiker_有声小说吧","name":"🤿有声(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/有声小说吧.json"},
-{"key":"csp_XYQHiker_段友搜索","name":"🧑‍🎓段友(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"csp_XYQHiker_段友搜索","name":"🙍‍♂️段友(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/段友影视.json"},
 //XYQBiu规则
 {"key":"csp_XYQBiu_花猫TV","name":"😻花猫TV(QB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
