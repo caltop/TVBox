@@ -69,7 +69,7 @@
 {"key":"csp_Bttwoo","name":"🔺Bttwo(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"🏡厂长(SP)","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Cokemv","name":"📕可乐(SP)","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Cokemv","name":"📕可乐(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Panghu","name":"👨‍🏭胖虎(SP)","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Smdyy","name":"🦄神马(SP)","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"🚌动漫(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
