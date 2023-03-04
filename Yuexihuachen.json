@@ -55,7 +55,7 @@
 "ext":"https://codeberg.org/Calendre/TVBox/raw/branch/main/XYQHiker/虎牙直播.json"},
 {"key":"csp_XYQBiu_网易CC直播","name":"🍉网易(QB)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/网易CC直播.json"},
-{"key":"csp_Nmys","name":"🧑‍🚒农民(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"csp_Nmys","name":"👷农民(SP)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/csp_Nmys.json"},
 {"key":"csp_Yht","name":"🍀荷塘(SP)","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
 {"key":"csp_Xinsj","name":"🏓视觉(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
