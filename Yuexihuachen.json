@@ -95,7 +95,7 @@
 "jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/Ali2.jar"},
 {"key":"csp_AliPS","name":"🔍盘搜(4K)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/Ali_token.txt",
-"jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/Ali3.jar"},
+"jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/Ali2.jar"},
 {"key":"csp_Zhaozy","name":"🔎资源(4K)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/Ali_token.txt",
 "jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/Ali2.jar"},
