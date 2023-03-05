@@ -96,6 +96,8 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/厂长影视.json"},
 {"key":"csp_XYQHiker_voflixHD","name":"🍐Voflix(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/voflixHD.json"},
+{"key":"csp_XYQHiker_素白白影视","name":"🤍素白白(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/素白白影视.json"},
 //{"key":"csp_XYQHiker_饭团影视","name":"🍙饭团(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 //"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/饭团影视.json"},
 //{"key":"csp_XYQHiker_野荷塘影院","name":"🍀野荷塘(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
