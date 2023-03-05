@@ -161,8 +161,6 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/曲奇动漫.json"},
 {"key":"csp_XYQHiker_北川影视","name":"㊌北川(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/北川影视.json"},
-{"key":"csp_XYQHiker_素白白影视","name":"🤍素白白(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/素白白影视.json"},
 {"key":"csp_XYQHiker_宝仙HD","name":"🥩宝仙(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/宝仙HD.json"},
 {"key":"csp_XYQHiker_F7好看剧","name":"❀F7(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
