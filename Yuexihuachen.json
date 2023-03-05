@@ -174,7 +174,7 @@
 {"key":"csp_XYQHiker_段友搜索","name":"🙍‍♂️段友(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/段友影视.json"},
 //XYQBiu规则
-{"key":"csp_XYQBiu_花猫TV","name":"😻花猫TV(QB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"csp_XYQBiu_花猫TV","name":"😻花猫(QB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/花猫TV.json"},
 {"key":"csp_XYQBiu_石榴电影","name":"🌰石榴(QB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/石榴电影.json"},
