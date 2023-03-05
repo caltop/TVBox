@@ -78,7 +78,7 @@
 {"key":"csp_biubiu_dadagui","name":"🐢达达龟(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/dadagui.json"},
 {"key":"csp_Bd","name":"💥BiDi(SP)","type":3,"playerType":1,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_XBPQ_金眼影视","name":"👲金眼(PQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+{"key":"csp_XBPQ_金眼影视","name":"👲金眼(XB)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/金眼影视.json"},
 //阿里云盘
 {"key":"csp_Alist1","name":"🅿Alist(4K)","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,
@@ -212,19 +212,22 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/酷奇MV.json"},
 {"key":"csp_XYQBiu_分享短视频","name":"🧜‍♀️短视频(QB)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/分享短视频.json"},
-//精选接口
+//XBPQ规则
 {"key":"无名小站","name":"无名(XB)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/XBPQ_无名小站.json"},
-{"key":"csp_xBPQ_冷曦影视","name":"🔮冷曦(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+{"key":"csp_xBPQ_素白白影视","name":"素白白(XB)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/XBPQ_素白白影视.json"},
+{"key":"csp_xBPQ_冷曦影视","name":"🔮冷曦(XB)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/XBPQ_冷曦影视.json"},
+{"key":"csp_xBPQ_干饭搜索","name":"🍚干饭(XB)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"{\"免嗅\":\"1\",\"导演\":\"导演：&&</div\",\"主演\":\"主演：&&</div\",\"简介\":\"module-info-introduction-content&&</div>\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3#专题$5\",\"分类url\":\"https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html\"}"},
+//XPath规则
 {"key":"csp_xpath_doujiaow","name":"🥣豆角(XPM)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/doujiaoW.json"},
 {"key":"csp_xpath_rttks","name":"🙍人人(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/renrenYS.json"},
 {"key":"csp_xpath_vip1280","name":"♦️VIP(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/vip1280.json"},
-{"key":"csp_xBPQ_干饭搜索","name":"🍚干饭(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"{\"免嗅\":\"1\",\"导演\":\"导演：&&</div\",\"主演\":\"主演：&&</div\",\"简介\":\"module-info-introduction-content&&</div>\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3#专题$5\",\"分类url\":\"https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html\"}"},
 //jsJ版(DRPY)
 {"key":"drpy_js_奇优影院","name":"🍍奇优[DR]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/奇优影院.js"},
