@@ -213,6 +213,8 @@
 {"key":"csp_XYQBiu_分享短视频","name":"🧜‍♀️短视频(QB)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/分享短视频.json"},
 //精选接口
+{"key":"无名小站","name":"无名(XB)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/XBPQ_无名小站.json"},
 {"key":"csp_xBPQ_冷曦影视","name":"🔮冷曦(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/XBPQ_冷曦影视.json"},
 {"key":"csp_xpath_doujiaow","name":"🥣豆角(XPM)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,
