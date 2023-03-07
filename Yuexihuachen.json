@@ -39,11 +39,14 @@
 //{"name":"月夕花晨","playerType":1,"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvQ2FsZW5kcmUvVFZCb3gvcmF3L2JyYW5jaC9tYWluL0xpdmUvbGl2ZS50eHQ="]}]}
 //],
 "lives":[
-{"name":"月夕花晨","type":0,
-"url":"https://codeberg.org/Calendre/TVBox/raw/branch/main/Live/live.txt","playerType":1,
+{"name":"月夕花晨",
+"type":0,
+"url":"https://codeberg.org/Calendre/TVBox/raw/branch/main/Live/live.txt",
+"playerType":1,
 "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png",
-"ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","boot":false}
+"ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36",
+"boot":false}
 ],
 "sites":[
 //spiderjava和精选
