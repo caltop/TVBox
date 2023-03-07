@@ -5,7 +5,7 @@
 //感谢github的heroaku大佬的辛勤分享~
 //感谢各位大佬分享~
 //目前用的云星jar
-"spider":"https://gitee.com/wdc558/TVBox/raw/master/jar/calendre.jar",
+"spider":"https://gitee.com/wdc558/TVBox/raw/master/jar/panda230305.jar",
 "wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 //每日一言(随机显示欢迎语)
 "dairyWords":[{"name":"rating","request":{"method":"GET","url":{"raw":"https://saying.api.azwcl.com/saying/get"}},
@@ -67,9 +67,9 @@
 {"key":"UpYun","name":"⛅UP云搜4K(仅搜)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt"},
 {"key":"PanSou","name":"🔍盘搜4K(仅搜)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt"},
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token2.txt"},
 {"key":"Zhaozy","name":"🔎找资源HD(仅搜)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token.txt"},
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/reflash_token2.txt"},
 
 {"key":"Zjdr","name":"🏃追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 
