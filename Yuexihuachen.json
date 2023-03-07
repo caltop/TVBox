@@ -323,7 +323,7 @@
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
-{"name":"月","type":1,"url":"http://jx.xdv.icu/api/?key=9FYKQuunQXpUwijq1K&url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+{"name":"月","type":1,"url":"http://jx.xdv.icu/api/?key=9FYKQuunQXpUwijq1K&url="},
 {"name":"夕","type":0,"url":"https://jx.ccabc.cc/feimao/?url="},
 {"name":"花","type":1,"url":"http://45.248.10.163:4433/json.php?wap=0&url="},
 {"name":"晨","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
