@@ -70,7 +70,7 @@
 {"key":"csp_AppMr","name":"👻明明(SP)","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Hlsp","name":"👿黑料(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/Heiliao.json"},
-{"key":"xxyy","name":"🦄小路","type":1,"api":"http://47.108.39.249:9684/ms=10A","searchable":1,"quickSearch":1,"filterable":1,"categories":["4K专区"]},
+{"key":"csp_Yht","name":"🍀荷塘(SP)","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
 {"key":"csp_Lib","name":"💫Lib(SP)","type":3,"api":"csp_Libvio","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://tv.libvio.cc"},
 {"key":"csp_BuLei","name":"⚡布蕾(4K)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bulei.cc"},
 {"key":"csp_Xinsj","name":"🏓视觉(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
