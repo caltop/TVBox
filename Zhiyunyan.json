@@ -150,13 +150,13 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Test/Test.json"},
 
 {"key":"csp_xpath_测试","name":"㊊测试(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/Heiliao.json"},
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/Test/Test.json"},
 {"key":"csp_xpath_测试","name":"㊊测试(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/Heiliao.json"},
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/Test/Test.json"},
 {"key":"csp_xpath_测试","name":"㊊测试(XPM)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/Heiliao.json"},
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/Test/Test.json"},
 {"key":"csp_xpath_测试","name":"㊊测试(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/Heiliao.json"},
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/Test/Test.json"},
 
 {"key":"py_test","name":"㊣py测试","type":3,"api":"py_bilibili","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://github.com/heroaku/TVboxo/raw/main/Py/py_test.py"},
