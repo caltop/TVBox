@@ -75,8 +75,7 @@
 {"key":"csp_PushAgent","name":"🍭推送(4K)","type":3,"api":"csp_Push","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/Refresh_Token.txt"},
 
-{"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/音乐演唱.json"},
+
 {"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/我的哔哩.js"},
 {"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/alistjar.json"},
@@ -494,6 +493,8 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Bilibili/相声小品.json","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/WanNeng.jar"},
 {"key":"csp_音乐现场","name":"🈴音乐(Bili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Bilibili/音乐现场.json","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/WanNeng.jar"},
+{"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili",
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/音乐演唱.json"},
 {"key":"csp_学习园地","name":"🈴学习(Bili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Bilibili/学习园地.json","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/WanNeng.jar"},
 {"key":"csp_女团热舞","name":"🈴女团(Bili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
