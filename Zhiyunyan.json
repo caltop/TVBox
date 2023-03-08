@@ -60,7 +60,9 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/农民.js"},
 {"key":"drpy_js_乐猪TV","name":"🐷乐猪(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/乐猪TV.js"},
-
+{"key":"csp_Vofl","name":"🍐Voflix(SP)","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"py_bilimd","name":"⚗️哔滴(PY)","type":3,"api":"py_bilimd","searchable":0,"quickSearch":0,"filterable":1,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/Py/py_bilimd.py"},
 
 //阿里云盘
 {"key":"csp_Alist1","name":"🅿Alist(4K)","type":3,"api":"csp_AList","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,
@@ -79,11 +81,8 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/Refresh_Token.txt"},
 
 
-{"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/我的哔哩.js"},
-{"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/alistjar.json"},
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/lib/alist.min.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/alist.json"},
+
+
 
 {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/360影视.js"},
@@ -291,9 +290,7 @@
 
 
 
-{"key":"csp_Vofl","name":"🍐Voflix(SP)","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"py_bilimd","name":"⚗️哔滴(PY)","type":3,"api":"py_bilimd","searchable":0,"quickSearch":0,"filterable":1,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/Py/py_bilimd.py"},
+
 {"key":"斗鱼虎牙哔哩网易","name":"🈴网红(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼(QB)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"https://codeberg.org/Calendre/TVBox/raw/branch/main/XYQBiu/斗鱼直播.json"},
