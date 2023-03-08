@@ -64,14 +64,14 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/Voflix.js"},
 
 {"key":"drpy_js_哔哩直播","name":"直播 | 哔哩[js]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/哔哩直播.js"},
+"ext":"https://codeberg.org/Calendre/TVBox/raw/branch/main/Bilibili/哔哩直播.js"},
 {"key":"drpy_js_斗鱼直播","name":"直播 | 斗鱼[js]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/斗鱼直播.js"},
 {"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/虎牙直播.js"},
 {"key":"drpy_js_JustLive","name":"直播 | JustLive[js]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/JustLive.js"},
-{"key":"斗鱼虎牙哔哩网易","name":"🈴网红(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼(QB)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"https://codeberg.org/Calendre/TVBox/raw/branch/main/XYQBiu/斗鱼直播.json"},
 {"key":"csp_XYQHiker_虎牙直播","name":"🐯虎牙(XH)","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,
