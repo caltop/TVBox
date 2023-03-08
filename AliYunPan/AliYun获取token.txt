@@ -13,4 +13,7 @@
 
 方法二：
 
-https://alist.nn.ci/zh/guide/drivers/aliyundrive.html
+短token扫码获取地址：https://alist.nn.ci/zh/guide/drivers/aliyundrive.html
+
+长token（openapi）扫码获取：https://alist.nn.ci/zh/guide/drivers/aliyundrive_open.html
+
