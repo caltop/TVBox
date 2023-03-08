@@ -56,7 +56,7 @@
 "api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/Douban.js"},
 {"key":"drpy_js_酷云七七","name":"👒七七(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/酷云77.js"},
-{"key":"drpy_js_农民","name":"👷农民(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+{"key":"drpy_js_农民","name":"👷农民(DR)","type":3,"playerType":1,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/农民.js"},
 
 //阿里云盘
@@ -494,8 +494,6 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Bilibili/相声小品.json","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/WanNeng.jar"},
 {"key":"csp_音乐现场","name":"🈴音乐(Bili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Bilibili/音乐现场.json","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/WanNeng.jar"},
-{"key":"csp_美食天地","name":"🈴美食(Bili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/Bilibili/美食天地.json","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/WanNeng.jar"},
 {"key":"csp_学习园地","name":"🈴学习(Bili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Bilibili/学习园地.json","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/WanNeng.jar"},
 {"key":"csp_女团热舞","name":"🈴女团(Bili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
@@ -506,6 +504,8 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Bilibili/儿童乐园.json","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/WanNeng.jar"},
 {"key":"csp_软件教程","name":"🈴软件(Bili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Bilibili/软件教程.json","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/WanNeng.jar"},
+{"key":"csp_美食天地","name":"🈴美食(Bili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
+"ext":"https://codeberg.org/Calendre/TVBox/raw/branch/main/Bilibili/美食.json","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/WanNeng.jar"},
 {"key":"csp_娱乐","name":"🈴娱乐(Bili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://codeberg.org/Calendre/TVBox/raw/branch/main/Bilibili/娱乐.json","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/WanNeng.jar"},
 //PY爬蟲
