@@ -3,7 +3,7 @@
 //我只是为小白提供一个方便~
 //禁止用于商业用途~
 //感谢各位大佬分享~
-"spider":"https://gitee.com/wdc558/TVBox/raw/master/jar/calendre.jar",
+"spider":"https://gitee.com/wdc558/TVBox/raw/master/jar/YueXiHuaChen.jar",
 "wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
 //每日一言(随机显示欢迎语)
 "dairyWords":[{"name":"rating","request":{"method":"GET","url":{"raw":"https://saying.api.azwcl.com/saying/get"}},
