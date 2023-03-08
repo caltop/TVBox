@@ -63,7 +63,7 @@
 {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼(QB)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"https://codeberg.org/Calendre/TVBox/raw/branch/main/XYQBiu/斗鱼直播.json"},
 {"key":"csp_XYQHiker_虎牙直播","name":"🐯虎牙(XH)","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,
-"ext":"https://codeberg.org/Calendre/TVBox/raw/branch/main/XYQHiker/虎牙直播.json"},
+"ext":"https://download.kstore.space/download/4096/XYQHiker/虎牙直播.json"},
 {"key":"csp_XYQBiu_网易CC直播","name":"🍉网易(QB)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/网易CC直播.json"},
 {"key":"csp_Czsapp","name":"🏡厂长(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
