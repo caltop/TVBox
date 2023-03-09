@@ -9,7 +9,8 @@
 
 ## 云破月来花弄影
 
-主机域名:https://panel0.serv00.com/login/?next=/
+服务器域名:https://panel0.serv00.com/login/?next=/
+ps:账号同微信号，密码包含一个大写字母两个小写字母和几个数字。
 
 TVBox的自用资源
 
