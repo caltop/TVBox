@@ -167,7 +167,7 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/9U电影.js"},
 {"key":"drpy_js_91free","name":"❾91free(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/91free.js"},
-{"key":"drpy_js_NY影院","name":"ⓃNY影院(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+{"key":"drpy_js_NY影院","name":"ⓃNY(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/NY影院.js"},
 
 {"key":"drpy_js_超前点播","name":"🛩️超前(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
@@ -243,13 +243,7 @@
 {"key":"drpy_js_喜马拉雅","name":"📕喜雅(DR)","type":3,"playerType":"2","searchable":0,
 "api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/喜马拉雅.js"},
 
-{"key":"csp_xBPQ_冷曦影视","name":"冷曦(XB)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/XBPQ_冷曦影视.json"},
-
-{"key":"drpy_js_趣享星视","name":"影视 | 趣享星视(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/趣享星视.js"},
-
-{"key":"drpy_js_DJ音乐","name":"音频 | DJ音乐(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+{"key":"drpy_js_DJ音乐","name":"🎵DJ音乐(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/DJ音乐.js","playerType":"2"},
 {"key":"drpy_js_种子音乐","name":"音频 | 种子音乐(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/种子音乐.js"},
