@@ -102,9 +102,6 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/两个BT.js"},
 {"key":"csp_biubiu_dadagui","name":"🐢达达龟(XP)","type":3,"api":"csp_XPathFilter","quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/dadagui.json"},
-{"key":"csp_Dm84","name":"🚌动漫(SP)","type":3,"api":"csp_Dm84","quickSearch":1,"filterable":1},
-{"key":"csp_Ying","name":"💮樱花(SP)","type":3,"api":"csp_Ying","quickSearch":1,"filterable":1},
-{"key":"csp_Ysj","name":"🎀异界(SP)","type":3,"api":"csp_Ysj","quickSearch":1,"filterable":1},
 //阿里云盘
 {"key":"csp_Alist1","name":"🅿Alist(4K)","type":3,"searchable":0,"api":"csp_AList","playerType":1,"quickSearch":0,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/alist.json","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/AliYunPan.jar"},
