@@ -254,6 +254,8 @@
 "api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/种子音乐.js"},
 {"key":"drpy_js_蜻蜓FM","name":"🎵蜻蜓(DR)","type":3,"playerType":"2","searchable":0,
 "api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/蜻蜓FM.js"},
+{"key":"csp_XYQHiker_DJ呦呦音乐网","name":"🎵DJ呦(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/DJ呦呦音乐网.json"},
 {"key":"drpy_js_喜马拉雅","name":"📕喜雅(DR)","type":3,"playerType":"2","searchable":0,
 "api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/喜马拉雅.js"},
 {"key":"drpy_js_博看听书","name":"📕博看(DR)","type":3,"playerType":"2","searchable":0,
@@ -307,13 +309,6 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/怡萱动漫.js"},
 {"key":"drpy_js_异世界动漫","name":"🐹异世界(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/异世界动漫.js"},
-
-
-
-{"key":"drpy_js_追剧达人","name":"影视 | 追剧达人(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/追剧达人.js"},
-
-
 //墙外
 {"key":"csp_If101","name":"🔰If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"🔰泥视频(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
@@ -321,11 +316,8 @@
 //XYQHiker(海阔视界)
 {"key":"csp_XYQHiker_红领巾影院","name":"🎀红领巾(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/红领巾影院.json"},
-
-
 {"key":"csp_XYQHiker_七新影视","name":"❼七新(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/七新影视.json"},
-
 {"key":"csp_XYQHiker_看一看","name":"🥍看一看(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/看一看影视.json"},
 {"key":"csp_XYQHiker_电影牛影院","name":"🐮电影牛(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
@@ -334,7 +326,6 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/电影盒子.json"},
 {"key":"csp_XYQHiker_灵异影视","name":"☠️灵异(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/灵异影视.json"},
-
 {"key":"csp_XYQHiker_疯狗影视","name":"🐶疯狗(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/疯狗影视.json"},
 {"key":"csp_XYQHiker_曲奇动漫","name":"🧀曲奇(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
@@ -345,12 +336,6 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/宝仙HD.json"},
 {"key":"csp_XYQHiker_F7好看剧","name":"❀F7(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/F7好看剧.json"},
-{"key":"csp_XYQHiker_无插件直播","name":"⚽直播(XH)","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/无插件直播.json"},
-{"key":"csp_XYQHiker_DJ呦呦音乐网","name":"🛡️DJ呦呦(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/DJ呦呦音乐网.json"},
-{"key":"csp_XYQHiker_有声小说吧","name":"🤿有声(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/有声小说吧.json"},
 {"key":"csp_XYQHiker_段友搜索","name":"🙍‍♂️段友(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/段友影视.json"},
 //XYQBiu规则
@@ -380,7 +365,6 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/doujiaoW.json"},
 {"key":"csp_xpath_vip1280","name":"♦️VIP(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/vip1280.json"},
-
 //BILI合集(spiderjava)
 {"key":"csp_哔哩合集","name":"🈴BiLi(Bili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Bilibili/哔哩合集.json"},
@@ -438,14 +422,8 @@
 {"key":"py_中医药","name":"㊥医药(PY)","type":3,"api":"py_中医药","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Py/py_中医药.py"},
 {"key":"py_中国文化","name":"㊥文化(PY)","type":3,"api":"py_中国文化","searchable":0,"quickSearch":0,"filterable":1,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/Py/py_中国文化.py"},
-//采集站规则
-{"key":"非凡","name":"🎯非凡(采)","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,
-"categories":["国产剧","港台剧","日韩剧","欧美剧","电影(B站)","电视剧(B站)","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片",
-"犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","动漫画","动画","番剧(B站)","国创(B站)","综艺","记录片(B站)","纪录片/微电影"]
-}
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/Py/py_中国文化.py"}
 ],
-
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
