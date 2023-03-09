@@ -107,7 +107,7 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/Refresh_Token.txt"},
 {"key":"csp_PushAgent","name":"🍭推送(4K)","type":3,"api":"csp_Push","playerType":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/Refresh_Token.txt"},
-//3爱优芒腾狗
+//360爱优芒腾狗
 {"key":"drpy_js_360影视","name":"🎾360(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/360影视.js"},
 {"key":"drpy_js_奇珍异兽","name":"🥝爱奇艺(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
@@ -123,13 +123,32 @@
 
 {"key":"drpy_js_HDmoli","name":"🍅HDmoli(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/HDmoli.js"},
-{"key":"drpy_js_皮皮鸭","name":"🧋皮皮鸭(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/皮皮鸭.js"},
-
-{"key":"drpy_js_人人影视","name":"🙍人人(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/人人影视.js"},
+{"key":"drpy_js_凌云影视","name":"☁️凌云(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/凌云影视.js"},
+{"key":"drpy_js_酷客影院","name":"🤴酷客(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/酷客影院.js"},
+{"key":"drpy_js_城市影视","name":"🏩城市(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/城市影视.js"},
+{"key":"drpy_js_奇优影院","name":"🍹奇优(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/奇优影院.js"},
+{"key":"drpy_js_孜然影视","name":"🥗孜然(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/孜然影视.js"},
 {"key":"drpy_js_无名小站","name":"🥤无名(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/无名小站.js"},
+{"key":"drpy_js_秋霞影视","name":"🍁秋霞(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/秋霞影视.js"},
+
+{"key":"drpy_js_咕噜咕噜","name":"☕咕噜(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/咕噜咕噜.js"},
+{"key":"drpy_js_大豆","name":"🥘大豆(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/大豆.js"},
+{"key":"drpy_js_小狗影院","name":"🐶小狗(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/小狗影院.js"},
+{"key":"drpy_js_兄弟影视","name":"🧒兄弟(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/兄弟影视.js"},
+{"key":"drpy_js_人人影视","name":"🙍人人(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/人人影视.js"},
+
 {"key":"drpy_js_哔哩兔","name":"🐇哔哩兔(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/哔哩兔.js"},
 {"key":"drpy_js_影渣渣","name":"🧃影渣渣(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
@@ -140,32 +159,25 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/伊雪湾.js"},
 {"key":"drpy_js_免费看","name":"🫕免费看(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/免费看.js"},
+{"key":"drpy_js_皮皮鸭","name":"🧋皮皮鸭(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/皮皮鸭.js"},
 {"key":"drpy_js_91free","name":"❾1free(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/91free.js"},
-{"key":"drpy_js_秋霞影视","name":"🍁秋霞影视(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/秋霞影视.js"},
-{"key":"drpy_js_秋霞影院","name":"🍁秋霞影院(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/秋霞.js"},
-
 
 {"key":"drpy_js_l0l","name":"⏳l0l(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/l0l.js"},
-{"key":"drpy_js_大豆","name":"🥘大豆(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/大豆.js"},
 {"key":"drpy_js_TVB云播","name":"🍡TVB(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/TVB云播.js"},
 
 {"key":"drpy_js_看韩剧","name":"🌏看韩剧(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/看韩剧.js"},
+{"key":"drpy_js_美剧网","name":"🌎美剧网(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/美剧网.js"},
 
 {"key":"drpy_js_鸭奈飞","name":"影视 | 鸭奈飞(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/鸭奈飞.js"},
 
-
-
 {"key":"drpy_js_路漫漫","name":"影视 | 路漫漫(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/路漫漫.js"},
 
-
-{"key":"drpy_js_美剧网","name":"影视 | 美剧网(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/美剧网.js"},
 {"key":"drpy_js_去看吧","name":"影视 | 去看吧(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/去看吧.js"},
 {"key":"drpy_js_粤爱看","name":"影视 | 粤爱看(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/粤爱看.js"},
 {"key":"drpy_js_追剧迷","name":"影视 | 追剧迷(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/追剧迷.js"},
@@ -173,16 +185,8 @@
 
 {"key":"drpy_js_fositv","name":"影视 | fositv(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/fositv.js"},
 
-
-
 {"key":"drpy_js_YOKE影视","name":"影视 | YOKE影视(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/YOKE影视.js"},
 {"key":"drpy_js_飞飞影视","name":"影视 | 飞飞影视(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/飞飞影视.js"},
-
-
-{"key":"drpy_js_小狗影院","name":"影视 | 小狗影院(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/小狗影院.js"},
-{"key":"drpy_js_城市影视","name":"影视 | 城市影视(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/城市影视.js"},
-{"key":"drpy_js_酷客影院","name":"影视 | 酷客影院(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/酷客影院.js"},
-{"key":"drpy_js_奇优影院","name":"影视 | 奇优影院(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/奇优影院.js"},
 
 {"key":"drpy_js_在线之家","name":"影视 | 在线之家(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/在线之家.js"},
 {"key":"drpy_js_在线之家2","name":"影视 | 在线之家2(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/zxzjmtv.js"},
@@ -190,16 +194,11 @@
 
 
 {"key":"drpy_js_骚火电影","name":"影视 | 骚火电影(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/骚火电影.js"},
-{"key":"drpy_js_回响影视","name":"影视 | 回响影视(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/回响影视.js"},
+
 {"key":"drpy_js_闪影影院","name":"影视 | 闪影影院(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/闪影影院.js"},
-{"key":"drpy_js_电影先生","name":"影视 | 电影先生(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/电影先生.js"},
 {"key":"drpy_js_冷曦影视","name":"影视 | 冷曦影视(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/冷曦影视.js"},
 
-{"key":"drpy_js_凌云影视","name":"影视 | 凌云影视(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/凌云影视.js"},
-{"key":"drpy_js_孜然影视","name":"影视 | 孜然影视(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/孜然影视.js"},
-{"key":"drpy_js_兄弟影视","name":"影视 | 兄弟影视(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/兄弟影视.js"},
-{"key":"drpy_js_创艺影视","name":"影视 | 创艺影视(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/创艺影视.js"},
-{"key":"drpy_js_咕噜咕噜","name":"影视 | 咕噜咕噜(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/咕噜咕噜.js"},
+
 {"key":"drpy_js_趣享星视","name":"影视 | 趣享星视(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/趣享星视.js"},
 {"key":"drpy_js_零度影视","name":"影视 | 零度影视(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/零度影视.js"},
 {"key":"drpy_js_B站影视","name":"影视 | B站影视(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/B站影视.js"},
@@ -342,8 +341,7 @@
 {"key":"csp_Nbys","name":"🔰泥视频(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_trj","name":"🔰唐人街(墙外)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 //XYQHiker(海阔视界)
-{"key":"csp_XYQHiker_极客影视","name":"🧒极客(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/极客影视.json"},
+
 {"key":"csp_XYQHiker_子子影视","name":"🍏子子(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/子子影视.json"},
 
@@ -415,8 +413,6 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/大师兄影视.json"},
 {"key":"csp_XYQBiu_大米星球","name":"🌾大米(QB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/大米星球.json"},
-{"key":"csp_XYQBiu_酷客影视","name":"🍜酷客(QB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/酷客影视.json"},
 {"key":"csp_XYQBiu_七小时影院","name":"㊆七小时(QB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/七小时影院.json"},
 
@@ -424,8 +420,6 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/万能影视.json"},
 {"key":"csp_XYQBiu_电影先生","name":"🥁电影(QB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/电影先生.json"},
-{"key":"csp_XYQBiu_城市电影","name":"🏙️城市(QB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"jar":"","filterable":0,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/城市电影.json"},
 {"key":"csp_XYQBiu_萌番组","name":"♀️萌番组(QB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/萌番组.json"},
 {"key":"csp_XYQBiu_酷奇MV","name":"😃酷奇(QB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
