@@ -307,10 +307,6 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/怡萱动漫.js"},
 {"key":"drpy_js_异世界动漫","name":"🐹异世界(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/异世界动漫.js"},
-//墙外
-{"key":"csp_If101","name":"🔰If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Nbys","name":"🔰泥视频(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_trj","name":"🔰唐人街(墙外)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 //XYQHiker(海阔视界)
 {"key":"csp_XYQHiker_红领巾影院","name":"🎀红领巾(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQHiker/红领巾影院.json"},
