@@ -137,6 +137,10 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/无名小站.js"},
 {"key":"drpy_js_秋霞影视","name":"🍁秋霞(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/秋霞影视.js"},
+{"key":"drpy_js_哔哩影视","name":"🅱️哔哩(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/哔哩影视.js"},
+{"key":"drpy_js_B站影视","name":"🅱️B站(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/B站影视.js"},
 
 {"key":"drpy_js_咕噜咕噜","name":"☕咕噜(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/咕噜咕噜.js"},
@@ -201,8 +205,7 @@
 
 {"key":"drpy_js_趣享星视","name":"影视 | 趣享星视(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/趣享星视.js"},
 {"key":"drpy_js_零度影视","name":"影视 | 零度影视(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/零度影视.js"},
-{"key":"drpy_js_B站影视","name":"影视 | B站影视(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/B站影视.js"},
-{"key":"drpy_js_哔哩影视","name":"影视 | 哔哩影视(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/哔哩影视.js"},
+
 {"key":"drpy_js_DJ音乐","name":"音频 | DJ音乐(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/DJ音乐.js","playerType":"2"},
 {"key":"drpy_js_种子音乐","name":"音频 | 种子音乐(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/种子音乐.js"},
 {"key":"drpy_js_蜻蜓FM","name":"广播 | 蜻蜓FM(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/蜻蜓FM.js","playerType":"2"},
