@@ -70,7 +70,7 @@
 "jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/WanNeng.jar"},
 {"key":"drpy_js_斗鱼直播","name":"🐟斗鱼(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://codeberg.org/Calendre/TVBox/raw/branch/main/js/斗鱼直播.js"},
-{"key":"drpy_js_哔哩直播","name":"🍉哔哩(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+{"key":"drpy_js_哔哩直播","name":"🍉哔哩(DR)","type":3,"searchable":0,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://codeberg.org/Calendre/TVBox/raw/branch/main/Bilibili/哔哩直播.js"},
 {"key":"csp_XYQHiker_虎牙直播","name":"🐯虎牙(XH)","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"https://download.kstore.space/download/4096/XYQHiker/虎牙直播.json","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/WanNeng.jar"},
