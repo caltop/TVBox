@@ -128,10 +128,8 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/l0l.js"},
 {"key":"drpy_js_大豆","name":"🥘大豆(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/大豆.js"},
-{"key":"drpy_js_TV云播","name":"☁️TVB(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/TV云播.js"},
-{"key":"drpy_js_云播影院","name":"🍡云播(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/云播.js"},
+{"key":"drpy_js_TVB云播","name":"🍡TVB(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/TVB云播.js"},
 
 {"key":"drpy_js_皮皮鸭","name":"影视 | 皮皮鸭[js]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/皮皮鸭.js"},
 {"key":"drpy_js_慢大浪","name":"影视 | 慢大浪[js]","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/慢大浪.js"},
