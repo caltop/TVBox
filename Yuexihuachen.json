@@ -39,13 +39,13 @@
 //{"name":"月夕花晨","playerType":1,"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvQ2FsZW5kcmUvVFZCb3gvcmF3L2JyYW5jaC9tYWluL0xpdmUvbGl2ZS50eHQ="]}]}
 //],
 "lives":[
-{"name":"月夕","type":0,"url":"https://codeberg.org/Calendre/TVBox/raw/branch/main/Live/live.txt",
-"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-"logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"花晨","type":1,"playerType":1,
+{"name":"月夕","type":1,"playerType":1,
 "url":"https://gitee.com/wdc558/TVBox/raw/master/Live/live.json",
 "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
-"logo":"https://gitee.com/wdc558/ruoshui/raw/master/{logo}"}
+"logo":"https://gitee.com/wdc558/ruoshui/raw/master/{logo}"},
+{"name":"花晨","type":0,"url":"https://codeberg.org/Calendre/TVBox/raw/branch/main/Live/live.txt",
+"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 
 "sites":[
