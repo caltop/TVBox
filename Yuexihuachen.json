@@ -44,7 +44,7 @@
 "logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Json","type":1,"url":"https://gitee.com/wdc558/TVBox/raw/master/Live/live.json",
 "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
-"logo":"http://epg.51zmt.top:8000/{logo}"}
+"logo":""}
 ],
 "sites":[
 //spiderjava和精选
