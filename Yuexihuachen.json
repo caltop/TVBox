@@ -42,7 +42,7 @@
 {"name":"TXT","type":0,"url":"https://codeberg.org/Calendre/TVBox/raw/branch/main/Live/live.txt",
 "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Json","type":1,"url":"https://gitee.com/wdc558/TVBox/raw/master/Live/live.json",
+{"name":"Json","type":1,"url":"https://gitee.com/wdc558/TVBox/raw/master/Live/liveFull.json",
 "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
 "logo":"https://gitee.com/wdc558/ruoshui/raw/master/{logo}"}
 ],
