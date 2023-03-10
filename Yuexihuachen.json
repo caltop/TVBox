@@ -348,7 +348,7 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Bilibili/哔哩合集.json"},
 {"key":"csp_戏曲合集","name":"🈴戏曲(Bili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Bilibili/戏曲合集.json"},
-{"key":"mtv_xp_相声小品","name":"🈴相声(Bili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
+{"key":"mtv_相声小品","name":"🈴小品(Bili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Bilibili/相声小品.json"},
 {"key":"csp_音乐现场","name":"🈴音乐(Bili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Bilibili/音乐现场.json"},
