@@ -48,7 +48,7 @@
 "boot":true},
 {"name":"Json",
 "type":1,"playerType":1,
-"url":"https://gitee.com/wdc558/TVBox/raw/master/Live/live.json",
+"url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
 "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
 "logo":"https://gitee.com/wdc558/ruoshui/raw/master/{logo}"
 }
