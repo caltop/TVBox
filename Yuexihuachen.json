@@ -52,8 +52,7 @@
 "sites":[
 //spiderjava和精选
 {"key":"js豆瓣","name":"📌豆瓣(DR)","type":3,"playerType":1,"searchable":0,"quickSearch":0,"filterable":1,
-"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/Douban.js"},
+"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/Douban.js"},
 {"key":"drpy_js_酷云七七","name":"👒七七(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/酷云77.js"},
 {"key":"drpy_js_农民","name":"👷农民(DR)","type":3,"playerType":1,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
@@ -100,8 +99,6 @@
 "ext":"https://codeberg.org/Calendre/TVBox/raw/branch/main/js/真不卡.js"},
 {"key":"drpy_js_两个 BT","name":"🔺Bttwo(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/两个BT.js"},
-{"key":"csp_biubiu_dadagui","name":"🐢达达龟(XP)","type":3,"api":"csp_XPathFilter","quickSearch":1,"filterable":1,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/dadagui.json"},
 //阿里云盘
 {"key":"csp_Alist1","name":"🅿Alist(4K)","type":3,"searchable":0,"api":"csp_AList","playerType":1,"quickSearch":0,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/AliYunPan/alist.json","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/AliYunPan.jar"},
@@ -117,6 +114,17 @@
 "ext":"https://calendre.serv00.net/ali/token.txt","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/AliYunPan.jar"},
 {"key":"csp_PushAgent","name":"🍭推送(4K)","type":3,"api":"csp_Push","playerType":1,"quickSearch":1,"filterable":0,
 "ext":"https://calendre.serv00.net/ali/token.txt","jar":"https://gitee.com/wdc558/TVBox/raw/master/jar/AliYunPan.jar"},
+//精选各种规则
+{"key":"csp_xBPQ_0855影视","name":"0855(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/xBPQ/0855影视.json"},
+{"key":"csp_xBPQ_素白白影视","name":"素白白(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/xBPQ/素白白影视.json"},
+{"key":"csp_biubiu_dadagui","name":"🐢达达龟(XP)","type":3,"api":"csp_XPathFilter","quickSearch":1,"filterable":1,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/dadagui.json"},
+{"key":"csp_xpath_vip1280","name":"♦️VIP(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/vip1280.json"},
+{"key":"csp_xpath_doujiaow","name":"🥣豆角(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/doujiaoW.json"},
 //360爱优芒腾狗
 {"key":"drpy_js_360影视","name":"🎾360(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/360影视.js"},
@@ -351,14 +359,6 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/酷奇MV.json"},
 {"key":"csp_XYQBiu_分享短视频","name":"🧜‍♀️短视频(QB)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/分享短视频.json"},
-//XBPQ规则
-{"key":"csp_xBPQ_素白白影视","name":"素白白(XB)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/TvboXB/XBPQ_素白白影视.json"},
-//XPath规则
-{"key":"csp_xpath_doujiaow","name":"🥣豆角(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/doujiaoW.json"},
-{"key":"csp_xpath_vip1280","name":"♦️VIP(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/vip1280.json"},
 //BILI合集(spiderjava)
 {"key":"csp_哔哩合集","name":"🈴BiLi(Bili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Bilibili/哔哩合集.json"},
