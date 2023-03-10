@@ -57,6 +57,8 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/酷云77.js"},
 {"key":"drpy_js_农民","name":"👷农民(DR)","type":3,"playerType":1,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/农民影视.js"},
+{"key":"FOX资源","name":"FOX(切)","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"樱花资源","name":"樱花(切)","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"drpy_js_厂长资源","name":"🏡厂长(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/厂长资源.js"},
 {"key":"drpy_js_Voflix","name":"🍐Voflix(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
