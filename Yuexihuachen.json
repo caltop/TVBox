@@ -47,7 +47,7 @@
 "ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36",
 "boot":true},
 {"name":"Json",
-"type":1,"playerType":1,
+"type":1,
 "url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
 "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
 "logo":"https://gitee.com/wdc558/ruoshui/raw/master/{logo}"
