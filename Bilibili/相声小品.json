@@ -1,13 +1,13 @@
 {
 "classes":[
-{"type_name":"春晚小品","type_id":"春晚小品"},
+{"type_name":"春晚","type_id":"春晚小品"},
 {"type_name":"赵本山","type_id":"赵本山"},
 {"type_name":"冯巩","type_id":"冯巩"},
 {"type_name":"宋小宝","type_id":"宋小宝"},
-{"type_name":"开心麻花","type_id":"开心麻花"},
-{"type_name":"屌丝男士","type_id":"屌丝男士"},
-{"type_name":"单口相声","type_id":"单口相声"},
-{"type_name":"群口相声","type_id":"群口相声"},
+{"type_name":"麻花","type_id":"开心麻花"},
+{"type_name":"男士","type_id":"屌丝男士"},
+{"type_name":"单口","type_id":"单口相声"},
+{"type_name":"群口","type_id":"群口相声"},
 {"type_name":"德云社","type_id":"德云社"},
 {"type_name":"青曲社","type_id":"青曲社"},
 {"type_name":"郭德纲","type_id":"郭德纲"},
@@ -23,7 +23,7 @@
 {"type_name":"郭冬临","type_id":"郭冬临"},
 {"type_name":"严顺开","type_id":"严顺开"},
 {"type_name":"文松","type_id":"文松"},
-{"type_name":"喜剧综艺","type_id":"喜剧综艺"}],
+{"type_name":"综艺","type_id":"喜剧综艺"}],
 "filter":{
 "相声小品":[
 {
