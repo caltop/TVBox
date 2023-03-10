@@ -71,7 +71,7 @@
 "ext":"https://codeberg.org/Calendre/TVBox/raw/branch/main/js/斗鱼直播.js"},
 {"key":"drpy_js_哔哩直播","name":"🍉哔哩(DR)","type":3,"searchable":0,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://codeberg.org/Calendre/TVBox/raw/branch/main/Bilibili/哔哩直播.js"},
-{"key":"drpy_js_虎牙直播","name":"🐯虎牙(XH)","type":3,"searchable":0,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+{"key":"drpy_js_虎牙直播","name":"🐯虎牙(DR)","type":3,"searchable":0,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://codeberg.org/Calendre/TVBox/raw/branch/main/js/虎牙直播.json"},
 {"key":"drpy_js_城市影视","name":"🏩城市(DR)","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/城市影视.js"},
