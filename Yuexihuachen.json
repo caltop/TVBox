@@ -50,9 +50,8 @@
 "type":1,"playerType":1,
 "url":"https://gitee.com/wdc558/TVBox/raw/master/Live/live.json",
 "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
-"logo":"https://gitee.com/wdc558/ruoshui/raw/master/{logo}",
-"ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36",
-"boot":true}
+"logo":"https://gitee.com/wdc558/ruoshui/raw/master/{logo}"
+}
 ],
 "sites":[
 //spiderjava和精选
