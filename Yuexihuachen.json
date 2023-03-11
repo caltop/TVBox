@@ -85,8 +85,6 @@
 //xBPQ规则
 {"key":"csp_xBPQ_素白白影视","name":"⚛️白白丨XB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/素白白影视.json"},
-{"key":"csp_xBPQ_0855影视","name":"🛐0855丨XB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/0855影视.json"},
 {"key":"csp_xBPQ_333影视","name":"✡️333丨XB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/333影视.json"},
 {"key":"csp_xBPQ_苹果电影","name":"🕉️苹果丨XB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
