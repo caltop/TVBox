@@ -40,7 +40,7 @@
 {"key":"py_douyu","name":"🦈斗鱼丨PY","type":3,"api":"py_douyu","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/Py/py_douyu.py"},
 {"key":"py_huya","name":"🐯虎牙丨PY","type":3,"api":"py_huya","searchable":0,"quickSearch":0,"filterable":1,
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/Py/py_dhuya.py"},
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/Py/py_huya.py"},
 {"key":"drpy_js_城市影视","name":"🏩城市丨DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/城市影视.js"},
 {"key":"drpy_js_星辰影院","name":"☄️星辰丨DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
