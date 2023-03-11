@@ -85,11 +85,13 @@
 //xBPQ规则
 {"key":"csp_xBPQ_素白白影视","name":"⚛️白白丨XB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/素白白影视.json"},
-{"key":"csp_xBPQ_333影视","name":"✡️333丨XB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+{"key":"csp_xBPQ_金眼影视","name":"✡️金眼丨XB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/金眼影视.json"},
+{"key":"csp_xBPQ_333影视","name":"🕉️333丨XB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/333影视.json"},
-{"key":"csp_xBPQ_苹果电影","name":"🕉️苹果丨XB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+{"key":"csp_xBPQ_苹果电影","name":"☸️苹果丨XB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/苹果电影.json"},
-{"key":"csp_xBPQ_豆巴影视","name":"☸️豆巴丨XB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+{"key":"csp_xBPQ_豆巴影视","name":"☯️豆巴丨XB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/豆巴影视.json"},
 //XPath规则
 {"key":"csp_biubiu_dadagui","name":"🐢达达龟丨XP","type":3,"api":"csp_XPathFilter","quickSearch":1,"filterable":1,
