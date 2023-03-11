@@ -89,6 +89,8 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/金眼影视.json"},
 {"key":"csp_xBPQ_333影视","name":"🕉️333丨XB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/333影视.json"},
+{"key":"csp_xBPQ_Vidhub","name":"🕉️Vidhub丨XB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/Vidhub.json"},
 {"key":"csp_xBPQ_苹果电影","name":"☸️苹果丨XB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/苹果电影.json"},
 {"key":"csp_xBPQ_豆巴影视","name":"☯️豆巴丨XB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
