@@ -3,8 +3,8 @@
 //我只是为小白提供一个方便~
 //禁止用于商业用途~
 //感谢各位大佬分享~
-"spider":"https://gitee.com/wdc558/TVBox/raw/master/jar/calendre.jar",
-"wallpaper":"https://api.ixiaowai.cn/gqapi/gqapi.php",
+"spider":"https://gitee.com/wdc558/TVBox/raw/a10f78317d9d58c52c03049af5cee16e539f4b2a/jar/YueXiHuaChenFull.jar",
+"wallpaper":"https://yydsys.top/bg.php",
 //每日一言(随机显示欢迎语)
 "dairyWords":[{"name":"rating","request":{"method":"GET","url":{"raw":"https://saying.api.azwcl.com/saying/get"}},
 "response":{"result":"$.data.content"},"expires":"43200"}],
