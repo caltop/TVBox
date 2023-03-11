@@ -127,7 +127,7 @@
 //官源
 {"key":"drpy_js_360影视","name":"🎾360丨DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/360影视.js"},
-{"key":"drpy_js_奇珍异兽","name":"🥝爱奇艺丨DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+{"key":"drpy_js_奇珍异兽","name":"🥝奇艺丨DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"🌐优酷丨DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://codeberg.org/Calendre/TVBox/raw/branch/main/js/优酷.js"},
