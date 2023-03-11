@@ -6,7 +6,7 @@
 "spider":"https://gitee.com/wdc558/TVBox/raw/master/jar/YueXiHuaChen.jar",
 //自动壁纸(jar)
 "wallpaper":"https://yydsys.top/bg.php",
-//自动壁纸(jar)
+//首次加载警示语
 "warningText":"月夕花晨接口完全免费，切勿付费购买。",
 //每日一言(仅支持PlutoPlayer)
 "dairyWords":[{"name":"rating","request":{"method":"GET","url":{"raw":"https://saying.api.azwcl.com/saying/get"}},
