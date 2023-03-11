@@ -40,7 +40,7 @@
 //],
 "lives":[
 {"name":"YueXiH","type":0,"playerType":1,
-"url":"https://gitee.com/wdc558/TVBox/raw/master/Live/YueXiHuaChen.txt",
+"url":"https://codeberg.org/Calendre/TVBox/raw/branch/main/Live/YueXiHuaChen.txt",
 "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"FongMi","type":1,"playerType":1,
