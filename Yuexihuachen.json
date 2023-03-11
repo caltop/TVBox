@@ -13,7 +13,7 @@
 "response":{"result":"$.data.content"},"expires":"43200"}],
 //直播源
 "lives":
-[{"name":"月夕花晨","type":0,"playerType":1,"boot":false,
+[{"name":"月夕花晨","type":0,"playerType":1,
 "url":"https://codeberg.org/Calendre/TVBox/raw/branch/main/Live/YueXiHuaChen.txt",
 "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 "logo":"https://gitee.com/wdc558/iptv/raw/master/logo/{name}.png",
