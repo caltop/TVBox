@@ -26,7 +26,7 @@
 {"type_name":"湘菜","type_id":"湘菜"},
 {"type_name":"凉菜","type_id":"凉菜"},
 {"type_name":"蒸菜","type_id":"蒸菜"},
-
+{"type_name":"日料","type_id":"日料"},
 
 {"type_name":"点心","type_id":"点心"},
 {"type_name":"面食","type_id":"面食"},
@@ -35,7 +35,7 @@
 {"type_name":"素食","type_id":"素食"},
 {"type_name":"韩国菜","type_id":"韩国菜"},
 {"type_name":"泰国菜","type_id":"泰国菜"},
-{"type_name":"穆斯林菜","type_id":"穆斯林菜"},
+
 {"type_name":"土耳其菜系","type_id":"土耳其菜系"},
 {"type_name":"法国菜","type_id":"法国菜"},
 
