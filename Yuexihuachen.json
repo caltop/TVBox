@@ -50,6 +50,8 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/布雷蓝光.js"},
 {"key":"drpy_js_爱看影视","name":"👀爱看丨DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/爱看影视.js"},
+{"key":"drpy_js_快看影视","name":"👀快看丨DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/快看影视.js"},
 {"key":"drpy_js_LIBVIO","name":"💫Lib丨DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/LIBVIO.js"},
 {"key":"drpy_js_蓝光影院","name":"🌀蓝光丨DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
