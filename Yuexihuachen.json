@@ -57,6 +57,8 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/大米星球.json"},
 {"key":"drpy_js_两个BT","name":"🔺Bttwo丨DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/两个BT.js"},
+{"key":"csp_xpath_yinfans","name":"💥音范丝丨4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/音范丝.json"},
 {"key":"csp_xpath_动漫巴士","name":"🤖巴士丨XP","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/dm84.json"},
 //阿里云盘系列
