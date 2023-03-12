@@ -14,7 +14,7 @@
 //精选系列
 {"key":"js豆瓣","name":"📌豆瓣丨DR","type":3,"playerType":1,"searchable":0,"quickSearch":0,"filterable":1,
 "api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/Douban.js"},
-{"key":"T4直播转点播","name":"🥀TV丨live","type":4,"searchable":0,"quickSearch":0,"filterable":1,
+{"key":"T4直播转点播","name":"🥀TV丨live","type":4,"searchable":0,"quickSearch":0,"playerType":1,
 "api":"http://120.53.102.254/live?url=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvQ2FsZW5kcmUvVFZCb3gvcmF3L2JyYW5jaC9tYWluL0xpdmUvWXVlWGlIdWFDaGVuLnR4dA=="},
 {"key":"drpy_js_酷云七七","name":"👒七七丨DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/酷云77.js"},
