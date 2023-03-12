@@ -12,9 +12,8 @@ filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-----fypage---{{fl.y
 filter:{
 "movie":[
 
+{"key":"cateId","name":"分类","value":[{"n":"全部","v":""},{"n":"动作片","v":"dongzuopian"},{"n":"喜剧片","v":"xijupian"},
 
-
-{"n":"爱情片","v":"aiqingpian"},{"n":"科幻片","v":"kehuanpian"},{"n":"恐怖片","v":"kongbupian"},{"n":"剧情片","v":"juqingpian"},
 {"n":"战争片","v":"zhanzhengpian"},{"n":"伦理片","v":"lunlipian"},{"n":"纪录片","v":"jilupian"},{"n":"微电影","v":"weidianying"}]},
 
 
