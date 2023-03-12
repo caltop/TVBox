@@ -131,7 +131,7 @@
 {"key":"drpy_js_奇珍异兽","name":"🥝奇艺丨DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"🌐优酷丨DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/优酷.js"},
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/优酷视频.js"},
 {"key":"drpy_js_腾云驾雾","name":"🐧腾讯丨DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/腾云驾雾.js"},
 {"key":"drpy_js_百忙无果","name":"🍋芒果丨DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
