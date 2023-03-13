@@ -6,8 +6,10 @@
 "wallpaper":"https://yydsys.top/bg.php",
 //直播源
 "lives":
-[{"name":"☪夕✿晨","type":0,"playerType":1,"url":"https://codeberg.org/Calendre/TVBox/raw/branch/main/Live/YueXiHuaChen.txt",
-"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://gitee.com/wdc558/iptv/raw/master/logo/{name}.png",
+[{"name":"☪夕✿晨","type":0,"playerType":1,
+"url":"https://gitee.com/wdc558/TVBox/raw/master/live/live.txt",
+"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+"logo":"https://gitee.com/wdc558/iptv/raw/master/logo/{name}.png",
 "ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36"}],
 //点播源
 "sites":[
