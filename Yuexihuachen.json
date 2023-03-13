@@ -1,17 +1,13 @@
 {
 //禁止用于商业用途~
-//spiderjava┃jar
 "spider":"https://gitee.com/wdc558/TVBox/raw/master/jar/YueXiHuaChen.jar",
-//自动壁纸┃php
 "wallpaper":"https://yydsys.top/bg.php",
-//直播源
 "lives":
 [{"name":"☪夕✿晨","type":0,"playerType":1,
 "url":"https://gitee.com/wdc558/TVBox/raw/master/live/live.txt",
 "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 "logo":"https://gitee.com/wdc558/iptv/raw/master/logo/{name}.png",
 "ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36"}],
-//点播源
 "sites":[
 //精选系列
 {"key":"drpy_js豆瓣","name":"📌豆瓣┃DR","type":3,"playerType":1,"searchable":0,"quickSearch":0,"filterable":1,
@@ -474,14 +470,12 @@
 "www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com",
 "cdnjs.hnfenxun.com","cms.qdwght.com"
 ],
-//每日一言┃仅支持PlutoPlayer
 "dairyWords":
 [
 {"name":"rating","request":{"method":"GET","url":
 {"raw":"https://saying.api.azwcl.com/saying/get"}},
 "response":{"result":"$.data.content"},"expires":"43200"}
 ],
-//首次加载警示语
 "warningText":"月夕花晨接口免费，切勿付费购买。"
 //searchable:搜索┃0:关闭、1:启用,filterable:筛选┃0:关闭、1:启用。
 //changeable:换源┃0:关闭、1:启用,playerType:播放器┃1:IJK、2:EXO。
