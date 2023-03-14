@@ -23,7 +23,7 @@
 "ext":"https://calendre.serv00.net/ali/token.txt$$$calendre$$$707539386","jar":""},
 {"key":"csp_Gitcafe","name":"📜纸条┃4K","type":3,"api":"csp_Paper","playerType":1,"quickSearch":1,"filterable":1,
 "ext":"https://calendre.serv00.net/ali/token.txt","jar":""},
-{"key":"csp_Yisou","name":"💌易搜┃4K","type":3,"api":"csp_YiSo","playerType":1,"quickSearch":1,"filterable":1,
+{"key":"csp_Yisou","name":"🔖易搜┃4K","type":3,"api":"csp_YiSo","playerType":1,"quickSearch":1,"filterable":1,
 "ext":"https://calendre.serv00.net/ali/token.txt","jar":""},
 {"key":"csp_Upyunso","name":"⛅云搜┃4K","type":3,"api":"csp_UpYun","playerType":1,"quickSearch":1,"filterable":1,
 "ext":"https://calendre.serv00.net/ali/token.txt","jar":""},
