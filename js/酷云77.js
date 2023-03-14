@@ -6,7 +6,6 @@ searchUrl:'/api.php/provide/searchVideo?searchName=**',
 searchable:1,
 quickSearch:0,
 filterable:1,
-m3u8ads:hd.youyhn.com,
 multi:1,
 //分类链接fypage参数支持1个()表达式
 url:'/api.php/provide/searchFilter?type_id=fyclass&pagesize=24&pagenum=fypage',
