@@ -10,11 +10,12 @@
 "ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36"}],
 "sites":[
 //精选系列
+{"key":"drpy_js_酷云77","name":"👒七七┃DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/酷云77.js"},
 {"key":"csp_Nmys","name":"👷农民┃ZhL","type":3,"api":"csp_Nmys","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/Nmys.json"},
 {"key":"drpy_js豆瓣","name":"📌豆瓣┃DR","type":3,"playerType":1,"searchable":0,"quickSearch":0,"filterable":1,
 "api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/Douban.js"},
-{"key":"csp_77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_apple","name":"🍎苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1},
 {"key":"csp_AppMr","name":"🧼明明┃App","type":3,"api":"csp_AppMr","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
