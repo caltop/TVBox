@@ -139,7 +139,7 @@
 {"key":"csp_XYQBiu_1985电影网","name":"㊀1985┃XQ","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/1985电影网.json"},
 //官源
-{"key":"csp_SP360","name":"🎾360┃DR","type":3,"api":"csp_SP360","m3u8ads":"hd.youyhn.com","searchable":1,"changeable":0},
+{"key":"csp_SP360","name":"🎾360┃JX","type":3,"api":"csp_SP360","m3u8ads":"hd.youyhn.com","searchable":1,"changeable":0},
 {"key":"drpy_js_奇珍异兽","name":"🥝奇艺┃DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"🌐优酷┃DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
