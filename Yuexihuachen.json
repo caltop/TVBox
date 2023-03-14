@@ -76,7 +76,7 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XPath/HeiLiao.json"},
 {"key":"csp_Ysgc","name":"🏡工厂┃ZhL","type":3,"api":"csp_Ysgc","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://www.ysgc.vip"},
-{"key":"csp_sp龙门","name":"🐉龙门┃YV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"csp_sp龙门","name":"🐉龙门┃Yv2","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"http://dy.hm.iqinu.com:88/lm_api.php/v1.vod"},
 {"key":"csp_Dm84","name":"🚌巴士┃DM","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ying","name":"💮樱花┃DM","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
