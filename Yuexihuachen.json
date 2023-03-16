@@ -120,7 +120,7 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/苹果电影.json"},
 {"key":"csp_XBPQ_豆巴影视","name":"☯️豆巴┃XB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/豆巴影视.json"},
-{"key":"csp_XBPQ_奈飞中文网","name":"♈奈飞┃XB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
+{"key":"csp_XBPQ_奈飞中文网","name":"♓奈飞┃XB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/奈飞中文网.json"},
 {"key":"csp_XBPQ_金眼影视","name":"✡️金眼┃XB","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XBPQ/金眼影视.json"},
