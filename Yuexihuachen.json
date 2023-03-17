@@ -14,7 +14,7 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/酷云77.js"},
 {"key":"drpy_js豆瓣","name":"🔖豆瓣┃DR","type":3,"playerType":1,"searchable":0,"quickSearch":0,"filterable":1,
 "api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/Douban.js"},
-{"key":"直播转点播","name":"🖥️TV┃Live","type":3,"playerType":1,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/live2.js",
+{"key":"直播转点播","name":"🖥️TV┃Live","type":3,"playerType":1,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/live.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/lives/tv.js"},
 {"key":"drpy_js_酷狗MV","name":"🍾酷狗┃MV","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/酷狗MV.js"},
