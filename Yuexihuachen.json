@@ -15,7 +15,7 @@
 {"key":"drpy_js豆瓣","name":"🔖豆瓣┃DR","type":3,"playerType":1,"searchable":0,"quickSearch":0,"filterable":1,
 "api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js","ext":"https://gitee.com/wdc558/TVBox/raw/master/js/Douban.js"},
 {"key":"直播转点播","name":"🖥️TV┃Live","type":3,"playerType":1,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/live.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/lives/tv.js&&&https://gitee.com/wdc558/TVBox/raw/master/lives/pic/iptv.png"},
+"ext":"https://gitee.com/wdc558/TVBox/raw/master/lives/tv.js&&&https://yydsys.top/bg.php"},
 {"key":"drpy_js_酷狗MV","name":"🍾酷狗┃MV","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/酷狗MV.js"},
 {"key":"csp_Nmys","name":"👷农民┃ZhL","type":3,"api":"csp_Nmys","m3u8ads":"hd.youyhn.com","searchable":1,"playerType":1,"filterable":1,
