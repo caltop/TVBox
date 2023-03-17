@@ -1,29 +1,5 @@
 [
   {
-    "key": "99d87ac2-8dd9-559a-b0b3-81c14d0f01f3",
-    "name": "新浪",
-    "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "status": true,
-    "isActive": true,
-    "type": 1,
-    "id": 4
-  },
-  {
-    "key": "5b9c8d1a-0a18-5957-bdf9-c1697c6efe68",
-    "name": "金鹰",
-    "api": "https://jyzyapi.com/provide/vod/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "status": true,
-    "isActive": true,
-    "type": 1,
-    "id": 5
-  },
-  {
     "key": "b0619031-953f-5e05-9d68-a621e8bc6514",
     "name": "ym",
     "api": "https://www.inmi.app/api.php/provide/vod/",
@@ -226,5 +202,51 @@
     "isActive": true,
     "type": 1,
     "id": 26
+  },
+  {
+    "key": "1080资源库(切)",
+    "name": "1080资源库(切)",
+    "api": "https://api.1080zyku.com/inc/api_mac10.php",
+    "group": "#切片资源",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false,
+    "id": 43
+  },
+  {
+    "key": "2e6db7f7-4ef7-56a0-a09a-3dc1f549640e",
+    "name": "飞速",
+    "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 130
+  },
+  {
+    "key": "2e6db7f7-4ef7-56a0-a09a-3dc1f5",
+    "name": "ikun",
+    "api": "https://ikunzyapi.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 131
+  },
+  {
+    "key": "44444444",
+    "name": "天空",
+    "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 133
   }
 ]
