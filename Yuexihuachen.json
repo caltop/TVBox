@@ -482,7 +482,7 @@
 {"raw":"https://saying.api.azwcl.com/saying/get"}},
 "response":{"result":"$.data.content"},"expires":"43200"}
 ],
-"warningText":"月夕花晨接口免费，切勿付费购买。"
+"warningText":"数据源于网络，仅供自己测试"
 //searchable:搜索┃0:关闭、1:启用,filterable:筛选┃0:关闭、1:启用。
 //changeable:换源┃0:关闭、1:启用,playerType:播放器┃1:IJK、2:EXO。
 //ua:用户代理,epg:节目网址,logo:台标网址,boot:是否自动开启,playerType:播放器。
