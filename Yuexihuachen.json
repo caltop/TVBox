@@ -148,22 +148,6 @@
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/石榴电影.json"},
 {"key":"csp_XYQBiu_1985电影网","name":"㊀1985┃XQ","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/XYQBiu/1985电影网.json"},
-//官源
-{"key":"csp_SP360","name":"🎾360┃JX","type":3,"api":"csp_SP360","m3u8ads":"hd.youyhn.com","searchable":1,"changeable":0},
-{"key":"drpy_js_奇珍异兽","name":"🥝奇艺┃DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/奇珍异兽.js"},
-{"key":"drpy_js_优酷","name":"🌐优酷┃DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/优酷视频.js"},
-{"key":"drpy_js_腾云驾雾","name":"🐧腾讯┃DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/腾云驾雾.js"},
-{"key":"drpy_js_百忙无果","name":"🍋芒果┃DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/百忙无果.js"},
-{"key":"drpy_js_菜狗","name":"🍷搜狗┃DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
-"ext":"https://gitee.com/wdc558/TVBox/raw/master/js/菜狗.js"},
-//墙外
-{"key":"csp_Nbys","name":"🛫泥巴┃QW","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_If101","name":"🛫If101┃QW","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_trj","name":"🛫唐人街┃QW","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 //js规则
 {"key":"drpy_js_飞飞影视","name":"✈️飞飞┃DR","type":3,"api":"https://gitee.com/wdc558/TVBox/raw/master/libs/drpy2.min.js",
 "ext":"https://gitee.com/wdc558/TVBox/raw/master/js/飞飞影视.js"},
