@@ -85,12 +85,12 @@
 {"key":"csp_XYQHiker_F7好看剧","name":"❀F7┃XH","type":3,"api":"csp_XYQHiker","ext":"./XYQHiker/F7好看剧.json"},
 //XBPQ规则
 {"key":"csp_XBPQ_剧白白","name":"🕉️剧白┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/剧白白.json"},
+{"key":"csp_XBPQ_yohu","name":"☯️yohu┃XB","type":3,"api":"csp_XBPQ","searchable":1,"ext":"./XBPQ/yohu.json"},
 {"key":"csp_XBPQ_野荷塘","name":"🕉️荷塘┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/野荷塘.json"},
 {"key":"csp_XBPQ_鸡婆影视","name":"🕉️鸡婆┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/鸡婆影视.json"},
 {"key":"csp_XBPQ_兔兔瓜","name":"🕉️兔瓜┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/兔兔瓜.json"},
 {"key":"csp_XBPQ_333影视","name":"🕉️333┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/333影视.json"},
 {"key":"csp_XBPQ_苹果电影","name":"☸️苹果┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/苹果电影.json"},
-{"key":"csp_XBPQ_豆巴影视","name":"☯️豆巴┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/豆巴影视.json"},
 {"key":"csp_XBPQ_奈飞中文网","name":"♓奈飞┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/奈飞中文网.json"},
 {"key":"csp_XBPQ_金眼影视","name":"✡️金眼┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/金眼影视.json"},
 //XPath规则
