@@ -90,6 +90,7 @@
 {"key":"csp_XYQHiker_F7好看剧","name":"❀F7┃XH","type":3,"api":"csp_XYQHiker","ext":"./XYQHiker/F7好看剧.json"},
 //XBPQ规则
 {"key":"csp_XBPQ_剧白白","name":"📄剧白┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/剧白白.json"},
+{"key":"csp_XBPQ_3377影视","name":"🍫3377┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/3377影视.json"},
 {"key":"csp_XBPQ_Free影视","name":"📒Free┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/Free影视.json"},
 {"key":"csp_XBPQ_野荷塘","name":"🍀荷塘┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/野荷塘.json"},
 {"key":"csp_XBPQ_茉莉影视","name":"🌼茉莉┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/茉莉影视.json"},
