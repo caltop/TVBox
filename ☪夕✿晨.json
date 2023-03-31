@@ -40,7 +40,7 @@
 {"key":"push_agent","name":"🍭推送┃4K","type":3,"api":"csp_Push","playerType":1,"filterable":0,
 "ext":"http://caltop.hz.cz/AliY/token.txt","jar":""},
 {"key":"csp_XBPQ_VOFLIX","name":"🍐Voflix┃XB","type":3,"api":"csp_XBPQ","changeable":0,"ext":"./XBPQ/VOFLIX.json"},
-{"key":"csp_XBPQ_LIBVIO","name":"💫Libvio┃XB","type":3,"api":"csp_Libvio","changeable":0,"ext":"./XBPQ/LIBVIO.json"},
+{"key":"csp_XBPQ_LIBVIO","name":"💫Libvio┃XB","type":3,"api":"csp_XBPQ","changeable":0,"ext":"./XBPQ/LIBVIO.json"},
 {"key":"csp_apple","name":"🍎苹果┃App","type":3,"api":"csp_LiteApple","playerType":1,"m3u8ads":"hd.youyhn.com","changeable":0},
 {"key":"csp_AppMr","name":"🧼明明┃App","type":3,"api":"csp_AppMr","m3u8ads":"hd.youyhn.com","changeable":0},
 {"key":"csp_kuaikan","name":"👀快看┃App","type":3,"api":"csp_Kuaikan","m3u8ads":"hd.youyhn.com","changeable":0},
