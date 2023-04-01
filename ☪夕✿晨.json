@@ -125,7 +125,7 @@
 {"key":"csp_XYQHiker_兔小贝","name":"🐰小贝➊┃XH","type":3,"api":"csp_XYQHiker","ext":"./XYQHiker/兔小贝.json"},
 {"key":"csp_XYQHiker_兔小贝2","name":"🐰小贝➋┃XH","type":3,"api":"csp_XYQHiker","ext":"./XYQHiker/兔小贝2.json"},
 //XPath规则
-{"key":"csp_biubiu_dadagui","name":"🐢达达龟┃XP","type":3,"api":"csp_XPathFilter","ext":"./XPath/dadagui.json"},
+{"key":"csp_biubiu_dadagui","name":"🐢达龟┃XP","type":3,"api":"csp_XPathFilter","ext":"./XPath/dadagui.json"},
 {"key":"csp_xpath_vip1280","name":"🎐VIP┃XP","type":3,"api":"csp_XPath","filterable":0,"ext":"./XPath/vip1280.json"},
 {"key":"csp_xpath_doujiaow","name":"🥣豆角┃XP","type":3,"api":"csp_XPathMac","filterable":0,"ext":"./XPath/doujiaoW.json"},
 //XYQBiu规则
