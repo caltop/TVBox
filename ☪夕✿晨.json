@@ -78,6 +78,7 @@
 //XBPQ规则
 {"key":"csp_XBPQ_素白白影视","name":"📄素白┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/素白白影视.json"},
 {"key":"csp_XBPQ_剧白白","name":"📄剧白┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/剧白白.json"},
+{"key":"csp_XBPQ_66影视","name":"🍵66┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/66影视.json"},
 {"key":"csp_XBPQ_热播库","name":"🛑热播┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/热播库.json"},
 {"key":"csp_XBPQ_3377影视","name":"🍫3377┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/3377影视.json"},
 {"key":"csp_XBPQ_APP影院","name":"🧊APP┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/APP影院.json"},
