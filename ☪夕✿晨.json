@@ -109,7 +109,7 @@
 {"key":"csp_XBPQ_yohu","name":"🐠yohu┃XB","type":3,"api":"csp_XBPQ","searchable":1,"ext":"./XBPQ/yohu.json"},
 {"key":"csp_XBPQ_苹果电影","name":"🍏苹果┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/苹果电影.json"},
 {"key":"csp_XBPQ_短视频","name":"🈴视频┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/短视频.json"},
-{"key":"csp_XBPQ_奈飞中文网","name":"🦆奈飞┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/奈飞中文网.json"},
+{"key":"csp_XBPQ_奈飞中文网","name":"🀄奈飞┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/奈飞中文网.json"},
 {"key":"csp_XBPQ_金眼影视","name":"✡️金眼┃XB","type":3,"api":"csp_XBPQ","filterable":0,"ext":"./XBPQ/金眼影视.json"},
 //XYQHiker┃海阔视界
 {"key":"csp_XYQHiker_HDmoli","name":"🍅moli┃XH","type":3,"api":"csp_XYQHiker","ext":"./XYQHiker/HDmoli.json"},
