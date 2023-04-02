@@ -24,7 +24,6 @@
 {"key":"drpy_js_哔哩直播","name":"🍉哔哩┃DR","type":3,"searchable":0,"playerType":1,"api":"./libs/drpy2.min.js","ext":"./Bilibili/哔哩直播.js"},
 {"key":"csp_XYQBiu_网易CC直播","name":"🌽网易┃XQ","type":3,"api":"csp_XYQBiu","searchable":0,"playerType":1,"changeable":0,"ext":"./XYQBiu/网易CC直播.json"},
 {"key":"drpy_js_Alist","name":"🅿Alist┃4K","type":3,"playerType":1,"api":"./libs/alist.min.js","ext":"./AliY/alist.json"},
-{"key":"T4-Zdytv","name":"💧看4k","type":4,"api":"http://81.68.89.191:16888/Php/zdytv.php"},
 {"key":"csp_Zhaozy","name":"🔎资源┃4K","type":3,"api":"csp_Zhaozy","playerType":1,"jar":"./jar/AliYun.jar",
 "ext":"http://caltop.hz.cz/AliY/token.txt$$$calendre$$$707539386"},
 {"key":"csp_Gitcafe","name":"📜纸条┃4K","type":3,"api":"csp_Paper","playerType":1,"jar":"./jar/AliYun.jar",
