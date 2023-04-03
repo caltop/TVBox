@@ -10,7 +10,7 @@
 "ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36"}],
 "sites":[
 //精选系列
-{"key":"csp_XBPQ_ 农民影视","name":"👷农民┃XB","type":3,"api":"csp_XBPQ","playerType":1,"ext":"./XBPQ/农民影视.json"},
+{"key":"csp_XBPQ_ 农民影视","name":"☪夕┃✿晨","type":3,"api":"csp_XBPQ","playerType":1,"ext":"./XBPQ/农民影视.json"},
 {"key":"drpy_js豆瓣","name":"🔖豆瓣┃DR","type":3,"searchable":0,"quickSearch":0,"api":"./libs/drpy2.min.js","ext":"./js/Douban.js"},
 {"key":"csp_77","name": "👒七七┃App","type":3,"api":"csp_Kunyu77","filterable":1},
 {"key":"直播转点播","name":"🖥️TV┃Live","type":3,"playerType":1,"api":"./libs/live.js","ext":"./lives/tv.js"},
